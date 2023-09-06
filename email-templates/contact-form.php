@@ -4,14 +4,14 @@ if( ! empty( $_POST['email'] ) ) {
 	// Enable / Disable SMTP
 	$enable_smtp = 'no'; // yes OR no
 
-	// Email Receiver Address
-	$receiver_email = 'info@yourdomain.com';
+    // Email Receiver Address
+    $receiver_email = 'ivan.bojic95@gmail.com';
 
-	// Email Receiver Name for SMTP Email
-	$receiver_name 	= 'Your Name';
+    // Email Receiver Name for SMTP Email
+    $receiver_name 	= 'Bojke';
 
 	// Email Subject
-	$subject = 'Contact form details';
+	$subject = 'Poruka sa kontakt forme!';
 
 	$from 	= $_POST['email'];
 	$name 	= isset( $_POST['name'] ) ? $_POST['name'] : '';
@@ -33,7 +33,7 @@ if( ! empty( $_POST['email'] ) ) {
 		<td align="left">&nbsp;</td>
 		</tr>
 		<tr>
-		<td align="right" valign="top" style="border-top:1px solid #dfdfdf; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#000; padding:7px 5px 7px 0;">Name:</td>
+		<td align="right" valign="top" style="border-top:1px solid #dfdfdf; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#000; padding:7px 5px 7px 0;">Ime:</td>
 		<td align="left" valign="top" style="border-top:1px solid #dfdfdf; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#000; padding:7px 0 7px 5px;">' . $name . '</td>
 		</tr>
 		<tr>
@@ -41,11 +41,11 @@ if( ! empty( $_POST['email'] ) ) {
 		<td align="left" valign="top" style="border-top:1px solid #dfdfdf; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#000; padding:7px 0 7px 5px;">' . $from . '</td>
 		</tr>
 		<tr>
-		<td align="right" valign="top" style="border-top:1px solid #dfdfdf; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#000; padding:7px 5px 7px 0;">Phone:</td>
+		<td align="right" valign="top" style="border-top:1px solid #dfdfdf; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#000; padding:7px 5px 7px 0;">Kontakt:</td>
 		<td align="left" valign="top" style="border-top:1px solid #dfdfdf; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#000; padding:7px 0 7px 5px;">' . $phone . '</td>
 		</tr>
 		<tr>
-		<td align="right" valign="top" style="border-top:1px solid #dfdfdf; border-bottom:1px solid #dfdfdf; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#000; padding:7px 5px 7px 0;">Message:</td>
+		<td align="right" valign="top" style="border-top:1px solid #dfdfdf; border-bottom:1px solid #dfdfdf; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#000; padding:7px 5px 7px 0;">Poruka:</td>
 		<td align="left" valign="top" style="border-top:1px solid #dfdfdf; border-bottom:1px solid #dfdfdf; font-family:Arial, Helvetica, sans-serif; font-size:13px; color:#000; padding:7px 0 7px 5px;">' . nl2br( $comment ) . '</td>
 		</tr>
 		</table>
@@ -71,10 +71,10 @@ if( ! empty( $_POST['email'] ) ) {
 			}
 
 		   	//Success Message
-		  	echo '{ "alert": "alert-success", "message": "Your message has been sent successfully!" }';
+		  	echo '{ "alert": "alert-success", "message": "Vaša poruka je uspešno poslata, uskoro ćemo Vas kontaktirati!" }';
 		} else {
 			//Fail Message
-		  	echo '{ "alert": "alert-danger", "message": "Your message could not been sent!" }';
+		  	echo '{ "alert": "alert-danger", "message": "Vaša poruka nije poslata, molimo pokušajte kasnije!" }';
 		}
 		
 	} else { // SMTP
@@ -128,5 +128,5 @@ if( ! empty( $_POST['email'] ) ) {
 	}
 } else {
 	//Empty Email Message
-	echo '{ "alert": "alert-danger", "message": "Please add an email address!" }';
+	echo '{ "alert": "alert-danger", "message": "Obavezna polja nisu pravilno popunjena!" }';
 }
