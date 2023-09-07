@@ -677,7 +677,6 @@
                 var resizeTimer;
                 $(window).on('resize', function () {
                     clearTimeout(resizeTimer);
-                    var resizeTimer = setTimeout(fixSpy, 200);
                 });
             }
         }

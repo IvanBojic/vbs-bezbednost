@@ -19,7 +19,6 @@
     }
 
     if (/iPhone|iPad|iPod/i.test(navigator.userAgent)) {
-        isiPhoneiPad = true;
     }
 
     /* jQuery appear */
@@ -559,13 +558,7 @@
             fixedContentPos: true,
             focus: '#name',
             callbacks: {
-                beforeOpen: function () {
-                    if (getWindowWidth() < 700) {
-                        this.st.focus = false;
-                    } else {
-                        this.st.focus = '#name';
-                    }
-                }
+
             }
         });
         
@@ -910,13 +903,6 @@
         /* instagramfeed */
         var instagramWrapperItems = document.querySelectorAll('.instafeed-wrapper');
         instagramWrapperItems.forEach(function (instagramWrapperItem, index) {
-            var token = 'IGQVJYM0lCYW1ub2ViV2ZAzTVl4dVB6NUwzb3BhX0poazZALWUpWZA1NVdXJ2RU1HZA3llV2N5ajg3UlRIZA2dwSXNFT1F5UldzUHhSUDQ5TU9ZATFFSZAkhIQlhGdnRSc3V4Q3VOS2NDdVJFU29kdjRWSzBKbwZDZD',
-                    _this = $(instagramWrapperItem),
-                    token = _this.attr('data-token') || token,
-                    total = _this.attr('data-total') || '6', // how much photos do you want to get
-                    slider = _this.attr('data-slider-options'),
-                    _html = _this.html(),
-                    outputHTML = '';
             if (typeof (slider) !== 'undefined' && slider !== null) {
                 _this.html('');
             }

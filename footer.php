@@ -1,11 +1,11 @@
 <!-- start footer -->
 <footer class="footer-strip-dark bg-extra-dark-gray padding-90px-tb lg-padding-70px-tb md-padding-50px-tb sm-padding-40px-tb">
     <div class="container">
-        <div class="border-top border-color-medium-dark-gray padding-80px-top lg-padding-60px-top lg-margin-60px-top md-padding-50px-top md-margin-50px-top sm-padding-40px-top sm-margin-40px-top">
+        <div class="lg-margin-60px-top md-margin-50px-top sm-padding-40px-top sm-margin-40px-top">
             <div class="row align-items-center">
                 <!-- start logo -->
                 <div class="col-lg-3 col-md-12 text-center text-md-start md-margin-50px-bottom sm-margin-30px-bottom">
-                    <a href="http://localhost/vbs-bezbednost/index.php"><img class="footer-logo" src="http://localhost/vbs-bezbednost/images/logo.png" data-at2x="http://localhost/vbs-bezbednost/images/logo.png" alt="VBS Bezbednost"></a>
+                    <a href="index.php"><img class="footer-logo" src="images/logo.png" data-at2x="images/logo.png" alt="VBS Bezbednost"></a>
                 </div>
                 <!-- end logo -->
                 <!-- start copyright -->

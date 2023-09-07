@@ -22,7 +22,7 @@
         <div class="container-lg nav-header-container">
             <!-- start logo -->
             <div class="col-auto ps-0">
-                <a href="http://localhost/vbs-bezbednost/index.php" title="VBS Bezbednost" class="logo"><img src="http://localhost/vbs-bezbednost/images/logo.png" data-at2x="http://localhost/vbs-bezbednost/images/logo.png" class="logo-dark default" alt="VBS Bezbednost"><img src="http://localhost/vbs-bezbednost/images/logo.png" data-at2x="http://localhost/vbs-bezbednost/images/logo.png" alt="VBS Bezbednost" class="logo-light"></a>
+                <a href="index.php" title="VBS Bezbednost" class="logo"><img src="images/logo.png" data-at2x="images/logo.png" class="logo-dark default" alt="VBS Bezbednost"><img src="images/logo.png" data-at2x="images/logo.png" alt="VBS Bezbednost" class="logo-light"></a>
             </div>
             <!-- end logo -->
             <div class="col accordion-menu pe-0 pe-md-3">
@@ -36,7 +36,7 @@
                     <ul id="accordion" class="nav navbar-nav navbar-left no-margin alt-font text-normal" data-in="animate__fadeIn" data-out="animate__fadeOut">
                         <!-- start menu item -->
                         <li class="main-color">
-                            <a href="#">Početna</a>
+                            <a href="index.php">Početna</a>
                         </li>
                         <!-- end menu item -->
                         <li class="main-color">
@@ -46,16 +46,16 @@
                             <a href="#">Usluge</a>
                         </li>
                         <li class="main-color">
-                            <a href="#">Reference</a>
+                            <a href="reference.php">Reference</a>
                         </li>
                         <li class="main-color">
-                            <a href="http://localhost/vbs-bezbednost/novosti.php">Novosti</a>
+                            <a href="novosti.php">Novosti</a>
                         </li>
                         <li class="main-color">
                             <a href="#">Karijera</a>
                         </li>
                         <li class="main-color">
-                            <a href="http://localhost/vbs-bezbednost/kontakt.php" target="_blank">Kontakt</a>
+                            <a href="kontakt.php" target="_blank">Kontakt</a>
                         </li>
                     </ul>
                 </div>

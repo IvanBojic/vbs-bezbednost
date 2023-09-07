@@ -124,7 +124,7 @@ h6 {font-size:25px; line-height:30px}
 .text-black, .btn.text-black {color:#000}
 .text-extra-dark-gray, .btn.text-extra-dark-gray {color:#232323}
 .text-dark-gray, .btn.text-dark-gray {color:#626262}
-.text-extra-medium-gray, .btn.text-extra-medium-gray {color:#757575}
+
 .text-medium-gray, .btn.text-medium-gray {color:#939393}
 .text-extra-light-gray, .btn.text-extra-light-gray {color:#b7b7b7}
 .text-light-gray, .btn.text-light-gray {color:#d6d5d5}
@@ -2308,7 +2308,7 @@ header.sticky nav.header-light-transparent .logo .logo-light, header.sticky nav.
 
 .navbar-top-scroll {position: absolute; top: 0; z-index: 5;}
 header.sticky nav.navbar-top-scroll {background-color: inherit;}
-header a.logo {display: inline-block; vertical-align: middle;}
+header a.logo {display: inline-block; vertical-align: middle; padding: 0.5rem;}
 header a.logo img {max-height:70px;}
 header .left-nav .sidebar-part1 a.logo img {max-height:inherit;}
 .logo-holder img {max-height: 26px;}
@@ -3076,11 +3076,10 @@ header.sticky nav.navbar.brand-center ul.nav > li > a {padding: 20px; margin: 0 
 
 /* blog and portfolio next pagination */
 .blog-nav-link {padding: 30px 0; display: inline-block; vertical-align: middle; font-size: 16px; position: relative}
-.blog-nav-link-prev .blog-nav-icon, .blog-nav-link-next .blog-nav-icon {top: 50%; transform: translateY(-50%); -webkit-transform: translateY(-50%); -moz-transform: translateY(-50%); -ms-transform: translateY(-50%); -o-transform: translateY(-50%); position: absolute}
+
 .blog-nav-link-next {padding-right: 50px}
-.blog-nav-link-next .blog-nav-icon{right: 0}
+
 .blog-nav-link-prev {padding-left: 50px}
-.blog-nav-link-prev .blog-nav-icon {left: 0}
 
 /* ===================================
     24. Elements
@@ -3548,10 +3547,6 @@ aside .search-button {border: 2px solid transparent;}
 .blog-post.blog-post-style1 .blog-post-images img {width: 100%;}
 .blog-post.blog-post-style1:hover .blog-post-images img {opacity: 0.5; transform: scale(1.2, 1.2); transition: all 0.3s ease 0s;}
 
-/* blog post style 2 */
-.blog-post.blog-post-style2 .author img{width: 30px; display: inline-block; vertical-align: middle;}
-.blog-post.blog-post-style2 .author span{max-width: calc(100% - 40px); vertical-align: middle; display: inline-block;}
-
 /* blog post style 3 */
 .blog-post-style3 .grid-item .blog-post * {transition-timing-function: ease-in-out; -moz-transition-timing-function: ease-in-out; -ms-transition-timing-function: ease-in-out; -webkit-transition-timing-function: ease-in-out; -o-transition-timing-function: ease-in-out; transition-duration: .3s; -moz-transition-duration: .3s; -ms-transition-duration: .3s; -webkit-transition-duration: .3s; -o-transition-duration: .3s;}
 .blog-post-style3 .grid-item .blog-post .author img {width: 25px;}
@@ -3560,32 +3555,6 @@ aside .search-button {border: 2px solid transparent;}
 .blog-post-style3 .grid-item .blog-post:hover .blog-post-images .blog-hover-icon {opacity: 1}
 .blog-post-style3 .grid-item .blog-post .blog-post-images .blog-hover-icon span {top: 35%; position: relative; font-size: 48px; color: #fff; opacity: 0}
 .blog-post-style3 .grid-item .blog-post:hover .blog-post-images .blog-hover-icon span {top: 40%; opacity: 1;}
-
-/* blog post style 4 */
-.blog-post-style4 .blog-grid .grid-item figure {position: relative; overflow: hidden;}
-.blog-post-style4 figure {position: relative;}
-.blog-post-style4 figure figcaption {padding: 45px; bottom: 0px; position: absolute; background: rgba(0,0,0,.85); width: 100%; transition: ease-in-out 0.5s; -webkit-transition: ease-in-out 0.5s; -moz-transition: ease-in-out 0.5s; -ms-transition: ease-in-out 0.5s; -o-transition: ease-in-out 0.5s;}
-.blog-post-style4 .grid-item figure figcaption p {margin-bottom:0; transition: none; -webkit-transition: none; -moz-transition: none; -ms-transition: none; -o-transition: none; display: none}
-.blog-post-style4 .blog-grid .grid-item .blog-img img {cursor: pointer; display: block; width: 100%; opacity: .9; transition: all 0.3s ease 0s; -webkit-transition: all 0.3s ease 0s; -moz-transition: all 0.3s ease 0s; -ms-transition: all 0.3s ease 0s; -o-transition: all 0.3s ease 0s;}
-.blog-post-style4 .blog-grid .grid-item:hover .blog-img img {transform: scale(1.1); -webkit-transform: scale(1.1); -moz-transform: scale(1.1); -ms-transform: scale(1.1); -o-transform: scale(1.1); opacity: .5; transition: all 0.3s ease 0s; -webkit-transition: all 0.3s ease 0s; -moz-transition: all 0.3s ease 0s; -ms-transition: all 0.3s ease 0s; -o-transition: all 0.3s ease 0s;}
-.blog-post-style4 .blog-grid a {position: relative; z-index:auto;}
-.container .blog-post-style4 figure figcaption {padding: 32px;}
-
-/* blog post style 5 */
-.blog-post-style5 .blog-post .blog-post-images {height: 100%; position: relative}
-.blog-post-style5 .blog-post .blog-categories {position: absolute; bottom:0; left: 0; z-index: 25; padding: 10px 20px 8px}
-
-/* blog post style 6 */
-.blog-post-style6:hover {background-color: #fff;}
-.blog-post-style6:hover .text-white-2 {color: #000 !important}
-.blog-post-style6:hover .author:before {background-color: #000 !important}
-.blog-post-style6 .author:before {width: 100px; height: 1px; background-color: #fff; opacity: 0.25; position: absolute; top: 0; left: 0; display: inline-block; content: ""}
-
-/* blog post style 7 */
-.blog-post-style7:hover {background-color: #1c1c1c !important; color: #fff}
-.blog-post-style7:hover a {color: #fff}
-.blog-post-style7:hover .author:before {background-color: #fff; opacity: 0.8;}
-.blog-post-style7 .author:before {width: 100px; height: 1px; background-color: #939393 !important; opacity: 0.25; position: absolute; top: 0; left: 0; display: inline-block; content: ""}
 
 /* pagination */
 .pagination {border-radius: 0; padding: 0; margin: 0}
@@ -3844,3 +3813,6 @@ aside .instafeed-grid.gutter-extra-large, footer .instafeed-grid.gutter-extra-la
 .main-color, li.main-color a {
     color:#db4513 !important;
 }
+
+/* references post style 3 */
+.references-post-style3 .grid-item .references-post .references-post-images .references-hover-icon span {top: 35%; position: relative; font-size: 20px; color: #fff; opacity: 0}
