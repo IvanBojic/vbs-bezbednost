@@ -1287,7 +1287,7 @@
 
 @media (min-width: 1199px) {
     /* page container */
-    .container, .container-lg, .container-md, .container-sm, .container-xl { max-width: 1170px; }
+    .container, .container-lg, .container-md, .container-sm, .container-xl { max-width: 90%; }
 }
 
 @media (max-width: 1199px) {
@@ -7174,5 +7174,18 @@
 
 @media screen and (max-height: 320px){
     nav.navbar.bootsnav.no-full .navbar-collapse {max-height: 240px;}
+}
+@media (max-width: 768px) {
+    .swiper-slide {
+        margin-right: 5px; /* Manji razmak za ekrane širine do 768 piksela */
+        margin-left: 5px;
+    }
+}
+
+@media (min-width: 769px) {
+    .swiper-slide {
+        margin-right: 5px; /* Veći razmak za ekrane širine veće od 768 piksela */
+        margin-left: 5px;
+    }
 }
 

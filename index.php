@@ -1,3 +1,11 @@
+<?php
+include_once 'components/php_composer.php';
+
+$folder = 'images/reference';
+$slike = clsFunctions::procitajSlikeIzFoldera($folder);
+
+?>
+
 <!doctype html>
 <html class="no-js" lang="en">
     <?php
@@ -16,10 +24,10 @@
                     <!-- start revolution slider 5.4.1 fullwidth mode -->
                     <div id="rev_slider_1078_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.1">
                         <ul><!-- slide  -->
-                            <li data-index="rs-3045" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="200"  data-thumb="https://via.placeholder.com/100x50"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="100" data-fsslotamount="0" data-saveperformance="off"  data-title="" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                            <li data-index="rs-3045" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="200"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="100" data-fsslotamount="0" data-saveperformance="off"  data-title="" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                                 <div class="opacity-extra-medium bg-black position-relative z-index-1"></div>
                                 <!-- main image -->
-                                <img src="https://via.placeholder.com/1920x1235"  alt="Ocean"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg">
+                                <img src="images/img/pocetna.jpg"  alt="Ocean"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg">
                                 <!-- layer nr. 3 -->
                                 <div class="tp-caption NotGeneric-Title tp-resizeme" 
                                      data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
@@ -78,10 +86,10 @@
                                 <!-- LAYER NR. 6 -->
                             </li>
                             <!-- slide  -->
-                            <li data-index="rs-2" data-transition="fade" data-slotamount="3" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="500"  data-thumb="https://via.placeholder.com/60x60"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                            <li data-index="rs-2" data-transition="fade" data-slotamount="3" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="500"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                                 <div class="opacity-extra-medium bg-black position-relative z-index-1"></div>
                                 <!-- main image -->
-                                <img src="https://via.placeholder.com/1920x1080"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
+                                <img src="images/img/pocetna2.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
                                 <!-- layer nr. 3 -->
                                 <div class="tp-caption NotGeneric-Title tp-resizeme" 
                                      data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
@@ -147,10 +155,10 @@
                                    data-basealign="slide">Explore Work</a>
                                 <!-- layer nr. 6 -->
                             </li>
-                            <li data-index="rs-3" data-transition="fade" data-slotamount="3" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="500"  data-thumb="https://via.placeholder.com/60x60"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                            <li data-index="rs-3" data-transition="fade" data-slotamount="3" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="500"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                                 <div class="opacity-extra-medium bg-black position-relative z-index-1"></div>
                                 <!-- main image -->
-                                <img src="https://via.placeholder.com/1920x1080"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
+                                <img src="images/img/pocetna3.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
                                 <!-- layer nr. 3 -->
                                 <div class="tp-caption NotGeneric-Title tp-resizeme" 
                                      data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
@@ -226,7 +234,7 @@
         </section>
         <!-- end slider section -->
         <!-- start about section --> 
-        <section class="wow animate__fadeIn overflow-hidden cover-background md-no-background-img bg-medium-light-gray" style="background-image: url('https://via.placeholder.com/1920x800')">
+        <section class="wow animate__fadeIn overflow-hidden cover-background md-no-background-img bg-medium-light-gray row-margin-15-top" style="background: url('images/img/about_us.jpg')">
             <div class="container">
                 <div class="row"> 
                     <div class="col-12 col-lg-6 offset-lg-6 wow animate__fadeIn">
@@ -260,21 +268,16 @@
         <!-- start parallax feature box -->
         <section class="p-0 wow animate__fadeIn bg-light-gray">
             <div class="container-fluid">
-                <div class="row row-cols-1 row-cols-lg-2"> 
+                <div class="row row-margin-15-top row-margin-15-bottom row-cols-1 row-cols-lg-2">
                     <div class="col wow animate__fadeInLeft padding-four-all md-padding-eight-all md-padding-15px-lr sm-padding-50px-tb">
-                        <div class="row m-0">
-                            <div class="col-12 col-xl-10 margin-six-bottom lg-margin-six-bottom md-margin-30px-bottom sm-no-margin-bottom">
-                                <h4 class="alt-font text-extra-dark-gray font-weight-600 text-center text-lg-start md-w-70 mx-auto mx-lg-0 sm-w-90 xs-w-100 sm-margin-30px-bottom">We are delivering beautiful digital products for you</h4>
-                            </div>
-                        </div>
                         <div class="row row-cols-1 row-cols-xl-2 row-cols-lg-1 row-cols-sm-2 m-0">
                             <!-- start features box item -->
                             <div class="col margin-six-bottom md-margin-50px-bottom sm-margin-40px-bottom last-paragraph-no-margin">
                                 <div class="feature-box-5 position-relative">
-                                    <i class="icon-desktop text-medium-gray icon-medium"></i>
+                                    <i class="ti-package icon text-medium-gray icon-medium"></i>
                                     <div class="feature-content">
-                                        <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">Powerful Website Builder</div>
-                                        <p class="w-95 sm-w-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since.</p>
+                                        <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">PROIZVODI</div>
+                                        <p class="w-95 sm-w-100">Naši poluproizvodi nalaze primenu u mašinogradnji, elektroindustriji, brodogradnji, petrohemiji, energetici, automobilskoj i procesnoj industriji, građevinarstvu i arhitekturi.</p>
                                     </div>
                                 </div>
                             </div>
@@ -282,21 +285,32 @@
                             <!-- start features box item -->
                             <div class="col margin-six-bottom md-margin-50px-bottom sm-margin-40px-bottom last-paragraph-no-margin" data-wow-delay="0.2s">
                                 <div class="feature-box-5 position-relative">
-                                    <i class="icon-book-open text-medium-gray icon-medium"></i>
+                                    <i class="ti-bar-chart icon text-medium-gray icon-medium"></i>
                                     <div class="feature-content">
-                                        <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">Different Layout Type</div>
-                                        <p class="w-95 sm-w-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since.</p>
+                                        <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">TRŽIŠTE</div>
+                                        <p class="w-95 sm-w-100">Najveći deo proizvoda se plasira na inostrano tržište (87%) pri čemu prednjači tržište Zapadne Evrope.</p>
                                     </div>
                                 </div>
                             </div>
                             <!-- end features box item -->
                             <!-- start features box item -->
-                            <div class="col lg-margin-six-bottom sm-margin-40px-bottom last-paragraph-no-margin" data-wow-delay="0.4s">
+                            <div class="col lg-margin-six-bottom sm-margin-40px-bottom" data-wow-delay="0.4s">
                                 <div class="feature-box-5 position-relative">
-                                    <i class="icon-wallet text-medium-gray icon-medium"></i>
+                                    <i class="ti-ruler-pencil icon text-medium-gray icon-medium"></i>
                                     <div class="feature-content">
-                                        <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">True Responsiveness</div>
-                                        <p class="w-95 sm-w-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since.</p>
+                                        <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">KVALITET</div>
+                                        <p class="w-95 sm-w-100">Valjaonica bakra Sevojno ima sertifikovan sistem menadžmenta kvalitetom SRPS ISO 9001:2015 kao i sertifikovan sistem menadžmenta zaštitom životne sredine SRPS ISO 14001:2015.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end features box item -->
+                            <!-- start features box item -->
+                            <div class="col lg-margin-six-bottom sm-margin-40px-bottom" data-wow-delay="0.6s">
+                                <div class="feature-box-5 position-relative ">
+                                    <i class="ti-stats-up icon text-medium-gray icon-medium"></i>
+                                    <div class="feature-content">
+                                        <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">USPEH</div>
+                                        <p class="w-95 sm-w-100">Osnov našeg uspeha su zadovoljni kupci što potvrđuje i izuzetno mali broj reklamacija na proizvode koje primamo.</p>
                                     </div>
                                 </div>
                             </div>
@@ -304,10 +318,21 @@
                             <!-- start features box item -->
                             <div class="col last-paragraph-no-margin" data-wow-delay="0.6s">
                                 <div class="feature-box-5 position-relative ">
-                                    <i class="icon-camera text-medium-gray icon-medium"></i>
+                                    <i class="ti-target icon text-medium-gray icon-medium"></i>
                                     <div class="feature-content">
-                                        <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">Elegant / Unique design</div>
-                                        <p class="w-95 sm-w-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since.</p>
+                                        <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">VIZIJA</div>
+                                        <p class="w-95 sm-w-100">Naša vizija je unapređenje proizvodnje kako bismo postali jedan od lidera na evropskom tržištu.</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end features box item -->
+                            <!-- start features box item -->
+                            <div class="col last-paragraph-no-margin" data-wow-delay="0.6s">
+                                <div class="feature-box-5 position-relative ">
+                                    <i class="ti-user icon text-medium-gray icon-medium"></i>
+                                    <div class="feature-content">
+                                        <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">KOLEKTIV</div>
+                                        <p class="w-95 sm-w-100">Više od 1.000 posvećenih radnika Valjaonice bakra Sevojno marljivo stvara proizvode za ceo svet.</p>
                                     </div>
                                 </div>
                             </div>
@@ -330,126 +355,168 @@
                     </div>
                 </div>
                 <div class="row justify-content-center">
-                    <!-- start services item -->
-                    <div class="col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
-                        <figure>
-                            <div class="feature-box-content sm-w-100">
-                                <div class="feature-box-image"><img src="https://via.placeholder.com/900x650" alt=""></div>
-                                <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
-                                    <div class="padding-twelve-lr">
-                                        <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                    <div class="swiper-container text-center black-move wow animate__fadeIn" data-slider-options='{ "slidesPerView": "1", "loop":false, "allowTouchMove":true, "autoplay": { "delay": 3000, "disableOnInteraction": false}, "keyboard": { "enabled": true, "onlyInViewport": true }, "navigation": { "nextEl": ".swiper-button-next-1", "prevEl": ".swiper-button-prev-1" }, "pagination": { "el": ".swiper-pagination-1", "clickable": true }, "breakpoints": { "1200":{ "slidesPerView":"4" }, "992": { "slidesPerView":"3" }, "768": { "slidesPerView":"3" } } }'>
+                        <div class="swiper-wrapper">
+                            <!-- start services item -->
+                            <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
+                                <figure>
+                                    <div class="feature-box-content sm-w-100">
+                                        <div class="feature-box-image"><img src="images/img/usluga1.jpg" alt=""></div>
+                                        <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
+                                            <div class="padding-twelve-lr">
+                                                <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                            </div>
+                                        </div>
                                     </div>
-                                </div> 
+                                    <figcaption>
+                                        <div class="text-center margin-25px-top">
+                                            <div class="text-extra-dark-gray alt-font font-weight-600">Fizičko - tehnička zaštita</div>
+                                        </div>
+                                    </figcaption>
+                                </figure>
                             </div>
-                            <figcaption>
-                                <div class="text-center margin-25px-top">
-                                    <div class="text-extra-dark-gray alt-font font-weight-600">Design and Development</div> 
-                                    <p>600+ We created web design</p>
-                                </div>   
-                            </figcaption>
-                        </figure>
-                    </div>
-                    <!-- end services item -->
-                    <!-- start services item -->
-                    <div class="col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.2s">
-                        <figure>
-                            <div class="feature-box-content sm-w-100">
-                                <div class="feature-box-image"><img src="https://via.placeholder.com/900x650" alt=""></div>
-                                <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
-                                    <div class="padding-twelve-lr">
-                                        <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                            <!-- end services item -->
+                            <!-- start services item -->
+                            <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.2s">
+                                <figure>
+                                    <div class="feature-box-content sm-w-100">
+                                        <div class="feature-box-image"><img src="images/img/usluga2.jpg" alt=""></div>
+                                        <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
+                                            <div class="padding-twelve-lr">
+                                                <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                            </div>
+                                        </div>
                                     </div>
-                                </div> 
+                                    <figcaption>
+                                        <div class="text-center margin-25px-top">
+                                            <div class="text-extra-dark-gray alt-font font-weight-600">Tehnička zaštita</div>
+                                        </div>
+                                    </figcaption>
+                                </figure>
                             </div>
-                            <figcaption>
-                                <div class="text-center margin-25px-top">
-                                    <div class="text-extra-dark-gray alt-font font-weight-600">Social Media Marketing</div> 
-                                    <p>475+ We completed marketing</p>
-                                </div>   
-                            </figcaption>
-                        </figure>
-                    </div>
-                    <!-- end services item -->
-                    <!-- start services item -->
-                    <div class="col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
-                        <figure>
-                            <div class="feature-box-content sm-w-100">
-                                <div class="feature-box-image"><img src="https://via.placeholder.com/900x650" alt=""></div>
-                                <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
-                                    <div class="padding-twelve-lr">
-                                        <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                            <!-- end services item -->
+                            <!-- start services item -->
+                            <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
+                                <figure>
+                                    <div class="feature-box-content sm-w-100">
+                                        <div class="feature-box-image"><img src="images/img/usluga3.jpg" alt=""></div>
+                                        <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
+                                            <div class="padding-twelve-lr">
+                                                <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                            </div>
+                                        </div>
                                     </div>
-                                </div> 
+                                    <figcaption>
+                                        <div class="text-center margin-25px-top">
+                                            <div class="text-extra-dark-gray alt-font font-weight-600">Centar za obuku službenika obezbeđenja</div>
+                                        </div>
+                                    </figcaption>
+                                </figure>
                             </div>
-                            <figcaption>
-                                <div class="text-center margin-25px-top">
-                                    <div class="text-extra-dark-gray alt-font font-weight-600">Mobile App Development</div> 
-                                    <p>475+ We created mobile app</p>
-                                </div>   
-                            </figcaption>
-                        </figure>
-                    </div>
-                    <!-- end services item -->
-                </div> 
-            </div> 
-        </section>
-        <!-- end services section -->
-        <!-- start counter section -->
-    <?php /*
-        <section class="wow animate__fadeIn">
-            <div class="container">
-                <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-4">
-                    <!-- start counter box item -->
-                    <div class="col md-padding-twelve-left md-margin-60px-bottom sm-margin-40px-bottom sm-padding-15px-left wow animate__fadeInRight">
-                        <div class="feature-box position-relative">
-                            <i class="icon-desktop text-medium-gray icon-extra-medium top-6"></i>
-                            <div class="feature-content">
-                                <h6 class="d-block text-extra-dark-gray font-weight-600 alt-font margin-5px-bottom mb-md-0 counter" data-to="350" data-speed="2000">350</h6>
-                                <span class="text-small text-uppercase position-relative top-minus4">Happy Clients</span>
+                            <!-- end services item -->
+                            <!-- start services item -->
+                            <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
+                                <figure>
+                                    <div class="feature-box-content sm-w-100">
+                                        <div class="feature-box-image"><img src="images/img/usluga4.jpg" alt=""></div>
+                                        <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
+                                            <div class="padding-twelve-lr">
+                                                <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <figcaption>
+                                        <div class="text-center margin-25px-top">
+                                            <div class="text-extra-dark-gray alt-font font-weight-600">Procena rizika u zaštiti lica, imovine i poslovanja</div>
+                                        </div>
+                                    </figcaption>
+                                </figure>
                             </div>
+                            <!-- end services item -->
+                            <!-- start services item -->
+                            <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
+                                <figure>
+                                    <div class="feature-box-content sm-w-100">
+                                        <div class="feature-box-image"><img src="images/img/usluga5.jpg" alt=""></div>
+                                        <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
+                                            <div class="padding-twelve-lr">
+                                                <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <figcaption>
+                                        <div class="text-center margin-25px-top">
+                                            <div class="text-extra-dark-gray alt-font font-weight-600">Procena rizika od katastrofa </div>
+                                        </div>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                            <!-- end services item -->
+                            <!-- start services item -->
+                            <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
+                                <figure>
+                                    <div class="feature-box-content sm-w-100">
+                                        <div class="feature-box-image"><img src="images/img/usluga6.jpg" alt=""></div>
+                                        <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
+                                            <div class="padding-twelve-lr">
+                                                <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <figcaption>
+                                        <div class="text-center margin-25px-top">
+                                            <div class="text-extra-dark-gray alt-font font-weight-600">Plan zaštite i spasavanja</div>
+                                        </div>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                            <!-- end services item -->
+                            <!-- start services item -->
+                            <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
+                                <figure>
+                                    <div class="feature-box-content sm-w-100">
+                                        <div class="feature-box-image"><img src="images/img/usluga7.jpg" alt=""></div>
+                                        <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
+                                            <div class="padding-twelve-lr">
+                                                <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <figcaption>
+                                        <div class="text-center margin-25px-top">
+                                            <div class="text-extra-dark-gray alt-font font-weight-600">Alkotestiranje zaposlenih</div>
+                                        </div>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                            <!-- end services item -->
+                            <!-- start services item -->
+                            <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
+                                <figure>
+                                    <div class="feature-box-content sm-w-100">
+                                        <div class="feature-box-image"><img src="images/img/usluga8.jpg" alt=""></div>
+                                        <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
+                                            <div class="padding-twelve-lr">
+                                                <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <figcaption>
+                                        <div class="text-center margin-25px-top">
+                                            <div class="text-extra-dark-gray alt-font font-weight-600">Usluge merenja - kontrolna vaga</div>
+                                        </div>
+                                    </figcaption>
+                                </figure>
+                            </div>
+                            <!-- end services item -->
                         </div>
                     </div>
-                    <!-- end counter box item -->
-                    <!-- start counter box item -->
-                    <div class="col md-padding-twelve-left md-margin-60px-bottom sm-margin-40px-bottom sm-padding-15px-left wow animate__fadeInRight" data-wow-delay="0.2s">
-                        <div class="feature-box position-relative">
-                            <i class="icon-camera text-medium-gray icon-extra-medium top-6"></i>
-                            <div class="feature-content">
-                                <h6 class="d-block text-extra-dark-gray font-weight-600 alt-font margin-5px-bottom mb-md-0 counter" data-to="780" data-speed="2000">780</h6>
-                                <span class="text-small text-uppercase position-relative top-minus4">Photo Capture</span>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- end counter box item -->
-                    <!-- start counter box item -->
-                    <div class="col md-padding-twelve-left xs-margin-40px-bottom sm-padding-15px-left wow animate__fadeInRight" data-wow-delay="0.4s">
-                        <div class="feature-box position-relative">
-                            <i class="icon-laptop text-medium-gray icon-extra-medium top-6"></i>
-                            <div class="feature-content">
-                                <h6 class="d-block text-extra-dark-gray font-weight-600 alt-font margin-5px-bottom mb-md-0 counter" data-to="850" data-speed="2000">850</h6>
-                                <span class="text-small text-uppercase position-relative top-minus4">Work Completed</span>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- end counter box item -->
-                    <!-- start counter box item -->
-                    <div class="col md-padding-twelve-left sm-padding-15px-left wow animate__fadeInRight" data-wow-delay="0.6s">
-                        <div class="feature-box position-relative">
-                            <i class="icon-chat text-medium-gray icon-extra-medium top-6"></i>
-                            <div class="feature-content">
-                                <h6 class="d-block text-extra-dark-gray font-weight-600 alt-font margin-5px-bottom mb-md-0 counter" data-to="650" data-speed="2000">650</h6>
-                                <span class="text-small text-uppercase position-relative top-minus4">Telephonic Talk</span>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- end counter box item -->
                 </div>
             </div>
         </section>
- */ ?>
-        <!-- end counters section -->
+        <!-- end services section -->
         <!-- start video section -->
-        <section class="parallax" data-parallax-background-ratio="0" style="background-image:url('https://via.placeholder.com/1920x1100');">
+        <section class="parallax" data-parallax-background-ratio="0" style="background-image:url('images/img/video_baner.jpg');">
             <div class="opacity-full bg-extra-dark-gray"></div>
             <div class="container position-relative">
                 <div class="row justify-content-center">
@@ -468,11 +535,14 @@
             <div class="container text-center">
                 <div class="row">
                     <div class="col-12 position-relative">
-                        <div class="swiper-container text-center black-move wow animate__fadeIn" data-slider-options='{ "slidesPerView": "1", "loop":false, "allowTouchMove":true, "autoplay": { "delay": 3000, "disableOnInteraction": false}, "keyboard": { "enabled": true, "onlyInViewport": true }, "navigation": { "nextEl": ".swiper-button-next-1", "prevEl": ".swiper-button-prev-1" }, "pagination": { "el": ".swiper-pagination-1", "clickable": true }, "breakpoints": { "1200":{ "slidesPerView":"4" }, "992": { "slidesPerView":"3" }, "768": { "slidesPerView":"3" } } }'>
+                        <div class="swiper-container text-center black-move wow animate__fadeIn" data-slider-options='{ "slidesPerView": "1", "loop":false, "allowTouchMove":true, "autoplay": { "delay": 3000, "disableOnInteraction": false}, "keyboard": { "enabled": true, "onlyInViewport": true }, "navigation": { "nextEl": ".swiper-button-next-1", "prevEl": ".swiper-button-prev-1" }, "pagination": { "el": ".swiper-pagination-1", "clickable": true }, "breakpoints": { "1200":{ "slidesPerView":"5" }, "992": { "slidesPerView":"4" }, "768": { "slidesPerView":"4" } } }'>
                             <div class="swiper-wrapper">
                                 <!-- start slide -->
-                                <div class="swiper-slide"><a href="https://www.envato.com"><img src="images/logo-1.png" alt=""></a></div>
+                                <?php foreach ($slike as $slika) { ?>
+                                    <div class="swiper-slide"><img src="<?= $slika['path']; ?>" alt=""><span class="text-small font-weight-300"><?= $slika['title']; ?></span></div>
+                                <?php }  ?>
                                 <!-- end slide -->
+                                <?php /*
                                 <!-- start slide -->
                                 <div class="swiper-slide"><a href="https://www.woocommerce.com"><img src="images/logo-2.png" alt=""></a></div>
                                 <!-- end slide -->
@@ -494,6 +564,7 @@
                                 <!-- start slide -->
                                 <div class="swiper-slide"><a href="https://www.jquery.com"><img src="images/logo-8.png" alt=""></a></div>
                                 <!-- end slide -->
+                                */ ?>
                             </div>
                             <!-- <div class="swiper-pagination"></div> -->
                         </div>
@@ -535,12 +606,12 @@
                             <li class="grid-item last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.2s">
                                 <div class="blog-post blog-post-style1 text-center text-sm-start feature-box">
                                     <div class="blog-post-images overflow-hidden margin-25px-bottom md-margin-20px-bottom">
-                                        <a href="news/vest-2.php">
+                                        <a href="news/vest-1.php">
                                             <img src="https://via.placeholder.com/750x500" alt="">
                                         </a>
                                     </div>
                                     <div class="post-details margin-20px-bottom xs-no-margin-bottom">
-                                        <a href="news/vest-2.php" class="post-title text-medium text-extra-dark-gray w-90 d-block md-w-100">Styles come and go. Design is a language, not a style.</a>
+                                        <a href="news/vest-1.php" class="post-title text-medium text-extra-dark-gray w-90 d-block md-w-100">Styles come and go. Design is a language, not a style.</a>
                                         <div class="separator-line-horrizontal-full bg-medium-light-gray margin-20px-tb md-margin-15px-tb"></div> 
                                         <p class="w-90 sm-w-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum text...</p>
                                     </div>
@@ -567,13 +638,13 @@
                             <li class="grid-item last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
                                 <div class="blog-post blog-post-style1 text-center text-sm-start feature-box">
                                     <div class="blog-post-images overflow-hidden margin-25px-bottom md-margin-20px-bottom">
-                                        <a href="news/vest-2.php">
+                                        <a href="news/vest-1.php">
                                             <img src="https://via.placeholder.com/750x500" alt="">
                                         </a>
                                     </div>
                                     <div class="post-details margin-20px-bottom xs-no-margin-bottom">
                                         <span class="post-author text-extra-small text-medium-gray text-uppercase d-block margin-10px-bottom sm-margin-5px-bottom">10 march 2017 | by <a href="blog-classic.html" class="text-medium-gray">Jay Benjamin</a></span>
-                                        <a href="news/vest-2.php" class="post-title text-medium text-extra-dark-gray w-90 d-block md-w-100">Get in over your head as often and as joyfully as possible.</a>
+                                        <a href="news/vest-1.php" class="post-title text-medium text-extra-dark-gray w-90 d-block md-w-100">Get in over your head as often and as joyfully as possible.</a>
                                         <div class="separator-line-horrizontal-full bg-medium-light-gray margin-20px-tb md-margin-15px-tb"></div>
                                         <p class="w-90 sm-w-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum text...</p>
                                     </div>

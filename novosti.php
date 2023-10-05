@@ -10,14 +10,14 @@
             include 'header.php';
         ?>
         <!-- start page title section -->
-        <section class="wow animate__fadeIn parallax" data-parallax-background-ratio="0.5" style="background-image:url('https://via.placeholder.com/1920x1100');">
+        <section class="wow animate__fadeIn parallax" data-parallax-background-ratio="0.5" style="background-image:url('images/img/news_baner.jpg');">
             <div class="opacity-medium bg-extra-dark-gray"></div>
             <div class="container position-relative">
                 <div class="row align-items-center">
                     <div class="col-12 d-flex flex-column justify-content-center text-center extra-small-screen page-title-large">
                         <!-- start page title -->
-                        <h1 class="text-white-2 alt-font font-weight-600 letter-spacing-minus-1 margin-10px-bottom">Blog grid</h1>
-                        <span class="text-white-2 opacity6 alt-font">Lorem Ipsum is simply dummy text printing</span>
+                        <h1 class="text-white-2 alt-font font-weight-600 letter-spacing-minus-1 margin-10px-bottom">NOVOSTI</h1>
+                        <span class="text-white-2 opacity6 alt-font"></span>
                         <!-- end page title --> 
                     </div>
                 </div>
@@ -52,13 +52,13 @@
                             <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp" data-wow-delay="0.2s">
                                 <div class="blog-post bg-light-gray">
                                     <div class="blog-post-images overflow-hidden position-relative">
-                                        <a href="news/vest-2.php">
+                                        <a href="news/vest-1.php">
                                             <img src="https://via.placeholder.com/900x650" alt="">
                                             <div class="blog-hover-icon"><span class="text-extra-large font-weight-300">+</span></div>
                                         </a>
                                     </div>
                                     <div class="post-details padding-40px-all md-padding-20px-all">
-                                        <a href="news/vest-2.php" class="alt-font post-title text-medium text-extra-dark-gray w-100 d-block lg-w-100 margin-15px-bottom">Being a famous designer is like being a famous dentist.</a>
+                                        <a href="news/vest-1.php" class="alt-font post-title text-medium text-extra-dark-gray w-100 d-block lg-w-100 margin-15px-bottom">Being a famous designer is like being a famous dentist.</a>
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy...</p>
                                         <div class="separator-line-horrizontal-full bg-medium-gray margin-20px-tb"></div>
                                     </div>

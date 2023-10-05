@@ -1,3 +1,12 @@
+<?php
+include_once 'components/php_composer.php';
+
+$folder = 'images/reference';
+
+$slike = clsFunctions::procitajSlikeIzFoldera($folder);
+
+?>
+
 <!doctype html>
 <html class="no-js" lang="en">
     <?php
@@ -9,6 +18,7 @@
             /* Including header */
             include 'header.php';
         ?>
+        <div class="container">
         <!-- start references content section -->
         <section class="wow animate__fadeIn">
             <div class="container position-relative padding-50px-bottom padding-50px-top">
@@ -22,8 +32,21 @@
             <div class="container"> 
                 <div class="row">
                     <div class="col-12 blog-content">
-                        <ul class="blog-grid blog-wrapper grid grid-loading grid-3col xl-grid-3col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col hover-option4 blog-post-style3 gutter-extra-large">
+                        <ul class="blog-grid blog-wrapper grid grid-loading grid-4col xl-grid-3col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col hover-option4 blog-post-style3 gutter-extra-large">
                             <li class="grid-sizer"></li>
+                            <!-- start post item -->
+                            <?php foreach ($slike as $slika) { ?>
+                                <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp">
+                                    <div class="blog-post bg-light-gray">
+                                        <div class="blog-post-images overflow-hidden position-relative">
+                                                <img src="<?= $slika['path']; ?>" alt="">
+                                                <div class="references-hover-icon-hover-icon"><span class="text-small font-weight-300"><?= $slika['title']; ?></span></div>
+                                        </div>
+                                    </div>
+                                </li>
+                            <?php } ?>
+                            <!-- end post item -->
+                            <?php /*
                             <!-- start post item -->
                             <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp">
                                 <div class="blog-post bg-light-gray">
@@ -64,12 +87,14 @@
                                 </div>
                             </li>
                             <!-- end post item -->
+                            */ ?>
                         </ul>
                     </div>
                 </div>
             </div>
         </section>
         <!-- end references content section -->
+        </div>
         <!-- start footer -->
         <?php
         /* Including footer */

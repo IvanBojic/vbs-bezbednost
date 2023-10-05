@@ -1,18 +1,31 @@
+<?php
+include 'components/php_composer.php';
+
+$data_lang                     = (object) array(
+    'langs'              => clsLoad::getArrayLangs(),
+    'selected_lang'      => clsLoad::getSelectedLang(),
+    'selected_lang_data' => array(),
+);
+$data_lang->selected_lang_data = isset($data_lang->langs[$data_lang->selected_lang]) ? $data_lang->langs[$data_lang->selected_lang] : array();
+
+?>
+
 <!-- start header -->
 <header class="header-with-topbar">
     <!-- topbar -->
     <div class="top-header-area bg-black padding-10px-tb">
-        <div class="container-lg">
-                <div class="col-md-12 pe-lg-0 d-md-flex align-items-center justify-content-end">
-                    <div class="btn-group dropdown-style-1">
-                        <button type="button" class="btn dropdown-toggle sm-w-100" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Srpski <span class="caret"></span>
-                        </button>
-                        <ul class="dropdown-menu">
-                            <li><a href="#" title="Srpski"><span class="icon-country rs"></span>Srpski</a></li>
-                            <li><a href="#" title="English"><span class="icon-country usa"></span>English</a></li>
-                        </ul>
+        <div class="container-lg top-menu">
+                <div class="col-md-12 pe-lg-0 d-md-flex align-items-center justify-content-end nl-link js-translate-box" data-main-transalte="sr" id="gtranslate_wrapper">
+                    <div class="js-translate-list">
+                        <?php if ($data_lang->langs) { ?>
+                            <?php foreach ($data_lang->langs as $type => $row) { ?>
+                                <button class="translate-lang js-translate-lang <?= isset($data_lang->selected_lang_data->short) && $data_lang->selected_lang_data->short == $row->short ? 'active' : ''; ?>"
+                                        data-transalte="<?= $row->short; ?>"
+                                        title="<?= $row->long; ?>"><?= strtoupper($row->short); ?></button>
+                            <?php } ?>
+                        <?php } ?>
                     </div>
+                    <div class="d-none" id="google_translate_element2"></div>
                 </div>
         </div>
     </div>
@@ -40,29 +53,28 @@
                         </li>
                         <!-- end menu item -->
                         <li class="main-color">
-                            <a href="#">O Nama</a>
+                            <a href="o-nama.php">O Nama</a>
                         </li>
-                        <li class="main-color">
+                        <?php /*<li class="main-color">
                             <a href="#">Usluge</a>
-                        </li>
+                        </li> */ ?>
                         <li class="main-color">
                             <a href="reference.php">Reference</a>
                         </li>
                         <li class="main-color">
                             <a href="novosti.php">Novosti</a>
                         </li>
-                        <li class="main-color">
+                        <?php /* <li class="main-color">
                             <a href="#">Karijera</a>
-                        </li>
+                        </li> */ ?>
                         <li class="main-color">
-                            <a href="kontakt.php" target="_blank">Kontakt</a>
+                            <a href="kontakt.php">Kontakt</a>
                         </li>
                     </ul>
                 </div>
             </div>
         </div>
     </nav>
-    <!-- end navigation -->
     <!-- end navigation -->
 </header>
 <!-- end header -->

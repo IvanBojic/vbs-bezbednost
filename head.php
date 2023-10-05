@@ -11,6 +11,21 @@
     <meta name="keywords" content="creative, modern, clean, bootstrap responsive, html5, css3, portfolio, blog, agency, templates, multipurpose, one page, corporate, start-up, studio, branding, designer, freelancer, carousel, parallax, photography, personal, masonry, grid, coming soon, faq">
     <!-- Postavljanje osnovnog puta -->
     <base href="http://localhost/vbs-bezbednost/">
+    <!-- Google Translate -->
+    <?php /* <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+    <script type="text/javascript">
+        function googleTranslateElementInit2() {
+            new google.translate.TranslateElement(
+                {
+                    pageLanguage: 'sr',  // Postavite jezik vaše stranice ovde
+                    includedLanguages: 'sr,en',  // Postavite jezike koje želite da omogućite za prevod
+                    layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+                    autoDisplay: false
+                },
+                'google_translate_element'
+            );
+        }
+    </script> */ ?>
     <!-- favicon -->
     <link rel="shortcut icon" href="images/favicon.png">
     <link rel="apple-touch-icon" href="images/apple-touch-icon-57x57.png">

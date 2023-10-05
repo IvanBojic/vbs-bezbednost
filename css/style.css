@@ -50,7 +50,7 @@ Table of contents
     02. Reset
 ====================================== */
 html {font-size: 15px;}
-body {font-family: 'Roboto', sans-serif; -webkit-font-smoothing: antialiased; font-smoothing: antialiased; font-size:14px; color:#6f6f6f; font-weight: 400;line-height: 24px;}
+body {font-family: 'Roboto', sans-serif; top:0!important; -webkit-font-smoothing: antialiased; font-smoothing: antialiased; font-size:14px; color:#6f6f6f; font-weight: 400;line-height: 24px;}
 body, html {height: 100%; -moz-osx-font-smoothing: grayscale;}
 a, a:active, a:focus {color: #6f6f6f; text-decoration: none;}
 a:hover, a:active{color: var(--base-color); text-decoration: none;}
@@ -3816,3 +3816,51 @@ aside .instafeed-grid.gutter-extra-large, footer .instafeed-grid.gutter-extra-la
 
 /* references post style 3 */
 .references-post-style3 .grid-item .references-post .references-post-images .references-hover-icon span {top: 35%; position: relative; font-size: 20px; color: #fff; opacity: 0}
+
+/* Add my styles */
+.row-margin-15-top {
+    margin-top:15px!important;
+}
+.row-margin-15-bottom {
+    margin-bottom:15px!important;
+}
+.swiper-slide {
+    margin-right: 5px; /* Dodajte razmak sa desne strane svakog swiper slajda */
+    margin-left: 5px;  /* Dodajte razmak sa leve strane svakog swiper slajda */
+}
+.top-menu button {
+    color: white;
+    text-decoration: none;
+    font-size: 0.8rem;
+    background-color: unset;
+    border: unset;
+}
+.top-menu .translate-lang {
+    border-right: 1px solid #db4513;
+    padding-left: 0.9rem;
+    padding-right: 0.9rem;
+}
+.top-menu .translate-lang:last-child{
+    border: none;
+}
+.top-menu .translate-lang.active{
+    color: #db4513;
+}
+.skiptranslate {
+    display: none;
+}
+.nl-link:hover a {
+    color: #db4513;
+    transition: all .2s ease-in;
+    -moz-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+}
+.nl-link:hover a {
+    color: black;
+    transition: all .2s ease-in;
+    -moz-transition: all .2s ease-in;
+    -webkit-transition: all .2s ease-in;
+}
+.nav-header-container {
+    padding: 0.5rem; /* Razmak unutar kontejnera */
+}
