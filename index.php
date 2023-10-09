@@ -475,7 +475,7 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
                                 <figure>
                                     <div class="feature-box-content sm-w-100">
-                                        <div class="feature-box-image"><img src="images/img/usluga7.jpg" alt=""></div>
+                                        <div class="feature-box-image"><img src="images/img/usluga5.jpg" alt=""></div>
                                         <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                             <div class="padding-twelve-lr">
                                                 <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
@@ -494,7 +494,7 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
                                 <figure>
                                     <div class="feature-box-content sm-w-100">
-                                        <div class="feature-box-image"><img src="images/img/usluga8.jpg" alt=""></div>
+                                        <div class="feature-box-image"><img src="images/img/usluga5.jpg" alt=""></div>
                                         <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                             <div class="padding-twelve-lr">
                                                 <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>

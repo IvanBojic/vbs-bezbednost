@@ -3346,36 +3346,9 @@ aside .search-button {border: 2px solid transparent;}
 .feature-box-18:hover i, .feature-box-18:hover div, .feature-box-18:hover p {color: #fff;}
 .feature-box-18:hover p {opacity: .6;}
 
-/* info banner box style 2 */
-.info-banner-box-2 {position: relative; overflow: hidden; height: 200px;}
-.info-banner-box-2 .hover-box {position: absolute; left: 100%; top: 0; height: 100%; transition: ease-in-out 0.5s; -webkit-transition: ease-in-out 0.5s; -moz-transition: ease-in-out 0.5s; -ms-transition: ease-in-out 0.5s; -o-transition: ease-in-out 0.5s;}
-.info-banner-box-2 .content-box {position: absolute; left: 0; top:0; height: 100%; transition: ease-in-out 0.5s; -webkit-transition: ease-in-out 0.5s; -moz-transition: ease-in-out 0.5s; -ms-transition: ease-in-out 0.5s; -o-transition: ease-in-out 0.5s;}
-.info-banner-box-2:hover .hover-box {left: 0}
-.info-banner-box-2:hover .content-box {left: -100%}
-
-/* counter box style 1 */
-.counter-feature-box-1 {height:199px;}
-.counter-feature-box-1:hover {background:var(--base-color); border-color: var(--base-color);}
-
-/* counter box style 3 */
-.counter-box-3 .counter-box {display: inline-block; width: 140px; padding: 0; vertical-align: top; text-align: center; position: relative;}
-.counter-box-3 .counter-box:after {position: absolute; right: 0; width: 1px; height: 36px; background-color: #eb214b; content: ""; top: 8px;}
-.counter-box-3 .counter-box:last-child:after {width: 0;}
-.counter-box-3 .counter-box .number {display: block; font-weight: 400; font-size: 32px; line-height: 30px;}
-.counter-box-3 .counter-box span {font-weight: 400; font-size: 12px; line-height: 28px; text-transform: uppercase;}
-
-/* counter box style 4 */
-.counter-box-4 .counter:after {content: "+"; position: absolute; right: -5%; top: 35%; color: #b6b6b6; font-weight: 300;}
-.counter-box-4:last-child .counter:after {display:none;}
-
-/* counter box style 5 */
-.counter-box-5 .counter-box {display: inline-block; width: 13%; padding: 0; vertical-align: top; text-align: center; position: relative;} 
-.counter-box-5 .counter-box .number {display: block; font-weight: 400; font-size: 80px; line-height: 80px; letter-spacing: -3px}
-.counter-box-5 .counter-box span {font-weight: 400; font-size: 12px; letter-spacing: 1px; opacity: 0.5; line-height: 28px; text-transform: uppercase;}
-
 /* progress bar */
 .progress {overflow: visible; height: 5px; position: relative; border-radius: 10px; width: 100%;}
-.progress .progress-title {position: absolute; top: -22px;}
+.progress .progress-title {position: absolute; top: -35px;}
 .progress .progress-bar {position: relative; overflow: visible; border-radius: 10px;}
 .progress .progress-bar span {position: absolute; top: -30px; right: 0; opacity: 0}
 .progress .progress-bar.appear span {opacity: 1;}
@@ -3385,7 +3358,7 @@ aside .search-button {border: 2px solid transparent;}
 .progress-step-style-01.progress {width: 85%;}
 
 /* progress bar style 02 */
-.progress-step-style-02.progress .progress-title {position: absolute; top: 15px;}
+.progress-step-style-02.progress .progress-title {position: absolute; text-align: left}
 .progress-step-style-02 .progress-bar-percent {position: absolute; top: 13px; right: 0;}
 
 /* progress bar style 03 */
@@ -3863,4 +3836,7 @@ aside .instafeed-grid.gutter-extra-large, footer .instafeed-grid.gutter-extra-la
 }
 .nav-header-container {
     padding: 0.5rem; /* Razmak unutar kontejnera */
+}
+body.o-nama {
+    background-color: #6f6f6f;
 }

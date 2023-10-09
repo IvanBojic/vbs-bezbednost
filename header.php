@@ -55,9 +55,9 @@ $data_lang->selected_lang_data = isset($data_lang->langs[$data_lang->selected_la
                         <li class="main-color">
                             <a href="o-nama.php">O Nama</a>
                         </li>
-                        <?php /*<li class="main-color">
-                            <a href="#">Usluge</a>
-                        </li> */ ?>
+                        <li class="main-color">
+                            <a href="usluge.php">Usluge</a>
+                        </li>
                         <li class="main-color">
                             <a href="reference.php">Reference</a>
                         </li>

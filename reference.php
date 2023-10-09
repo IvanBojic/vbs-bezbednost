@@ -25,7 +25,7 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                 <div class="row justify-content-center">
                     <div class="col-12 col-xl-9 col-lg-10 text-center wow animate__fadeIn last-paragraph-no-margin">
                         <h4 class="alt-font font-weight-700 text-uppercase main-color">REFERENCE</h4>
-                        <p class="w-75 mx-auto text-medium-gray lg-w-90 sm-w-100 sm-margin-30px-bottom">Zaposleni u Valjaonici Bezbednost svojim kvalitetom rada doprinose da preduzeće ima dugogodišnje ugovore u pružanju usluga obezbeđenja. Tokom rada, ostvarili smo uspešnu poslovnu saradnju sa velikim brojem institucija, državnih organa, preduzeća, a između ostalih poverenje su nam ukazali:</p>
+                        <p class="w-75 mx-auto text-medium-gray lg-w-90 sm-w-100 sm-margin-30px-bottom">Zaposleni u Valjaonici - Bezbednost d.o.o. svojim znanjem, iskustvom i profesionalnim pristupom doprinose da se kompanija razvija. Tokom godina rada, uspeli smo da prevaziđemo mnoge izazove i ostvarimo uspešnu poslovnu saradnju sa velikim brojem privatnih kompanija i državnih organa, a između ostalih poverenje su nam ukazali:</p>
                     </div>
                 </div>
             </div>
