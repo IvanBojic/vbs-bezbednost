@@ -1881,5 +1881,75 @@
             });
         }
     }
+    // Funkcija za dinamičko generisanje brojeva stranica i kontrole linkova za Prethodna i Sledeća
+    function generatePagination(numPages, currentPage) {
+        var pageList = document.getElementById('page-list');
+        pageList.innerHTML = '';
+
+        // Dodajte Prethodna link, ali postavite ga kao neaktivnog ako je korisnik na prvoj stranici
+        if (currentPage > 1) {
+            pageList.innerHTML += '<li><a href="#" class="page-link" data-page="' + (currentPage - 1) + '"><i class="fas fa-long-arrow-alt-left margin-5px-right d-none d-md-inline-block"></i> Prethodna</a></li>';
+        }
+
+        // Dodajte brojeve stranica
+        for (var i = 1; i <= numPages; i++) {
+            if (i === currentPage) {
+                pageList.innerHTML += '<li class="active"><a href="#" class="page-link" data-page="' + i + '">' + i + '</a></li>';
+            } else {
+                pageList.innerHTML += '<li><a href="#" class="page-link" data-page="' + i + '">' + i + '</a></li>';
+            }
+        }
+
+        // Dodajte Sledeća link, ali postavite ga kao neaktivnog ako je korisnik na poslednjoj stranici
+        if (currentPage < numPages) {
+            pageList.innerHTML += '<li><a href="#" class="page-link" data-page="' + (currentPage + 1) + '">Sledeća <i class="fas fa-long-arrow-alt-right margin-5px-left d-none d-md-inline-block"></i></a></li>';
+        }
+    }
+
+    // Funkcija za prikazivanje vesti na određenoj stranici
+    function showPage(pageNumber) {
+        // Sakrijte sve vesti
+        var blogItems = document.querySelectorAll('.blog-grid .grid-item');
+        blogItems.forEach(function(item) {
+            item.style.display = 'none';
+        });
+
+        // Prikazite vesti za odabrani broj stranice
+        var startIndex = (pageNumber - 1) * 4;
+        var endIndex = startIndex + 4;
+        for (var i = startIndex; i < endIndex; i++) {
+            if (blogItems[i]) {
+                blogItems[i].style.display = 'block';
+            }
+        }
+    }
+
+    // Ovaj deo koda dobija sve vesti unutar elementa sa klasom "blog-grid"
+    var blogGrid = document.querySelector('.blog-grid');
+    var blogItems = blogGrid.querySelectorAll('.grid-item');
+
+    // Broj vesti se postavlja na osnovu broja pronađenih elemenata
+    var numNews = blogItems.length;
+
+    // Broj vesti po stranici
+    var itemsPerPage = 4;
+
+    // Izračunajte broj stranica
+    var numPages = Math.ceil(numNews / itemsPerPage);
+
+    // Trenutna stranica (pretpostavimo da je korisnik na prvoj stranici početno)
+    var currentPage = 1;
+
+    // Pozovite funkciju za generisanje paginacije
+    generatePagination(numPages, currentPage);
+
+    // Postavite događaje za klik na brojeve stranica
+    document.querySelectorAll('.page-link').forEach(function(link) {
+        link.addEventListener('click', function(e) {
+            e.preventDefault();
+            var pageNumber = parseInt(e.target.getAttribute('data-page'));
+            showPage(pageNumber);
+        });
+    });
 
 })(jQuery);

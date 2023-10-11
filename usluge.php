@@ -138,7 +138,7 @@
                                         </div>
                                         <figcaption>
                                             <div class="text-center margin-25px-top">
-                                                <div class="text-extra-dark-gray alt-font font-weight-600">Procena rizika od katastrofa </div>
+                                                <div class="text-extra-dark-gray alt-font font-weight-600">Plan obezbeđenja </div>
                                             </div>
                                         </figcaption>
                                     </figure>

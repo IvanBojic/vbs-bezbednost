@@ -86,14 +86,17 @@
                     </div>
                 </div>
                 <!-- start pagination -->
-                <div class=" text-center margin-100px-top md-margin-50px-top wow animate__fadeInUp">
+                <div class="text-center margin-100px-top md-margin-50px-top wow animate__fadeInUp" id="pagination">
                     <div class="pagination text-small text-uppercase text-extra-dark-gray">
-                        <ul class="mx-auto">
-                            <li><a href="#"><i class="fas fa-long-arrow-alt-left margin-5px-right d-none d-md-inline-block"></i> Prethodna</a></li>
-                            <li class="active"><a href="#">1</a></li>
-                            <li><a href="#">2</a></li>
-                            <li><a href="#">3</a></li>
-                            <li><a href="#">Sledeća <i class="fas fa-long-arrow-alt-right margin-5px-left d-none d-md-inline-block"></i></a></li>
+                        <ul class="mx-auto" id="page-list">
+                            <!-- Dodajte Prethodna link, ali postavite ga kao neaktivnog početno -->
+                            <li><a href="#" class="page-link" data-page="1" class="disabled"><i class="fas fa-long-arrow-alt-left margin-5px-right d-none d-md-inline-block"></i> Prethodna</a></li>
+                            <!-- Brojevi stranica će biti generisani dinamički ovde -->
+                            <li><a href="#" class="page-link" data-page="1">1</a></li>
+                            <li><a href="#" class="page-link" data-page="2">2</a></li>
+                            <li><a href="#" class="page-link" data-page="3">3</a></li>
+                            <!-- Dodajte Sledeća link, ali postavite ga kao neaktivnog početno -->
+                            <li><a href="#" class="page-link" data-page="2" class="disabled">Sledeća <i class="fas fa-long-arrow-alt-right margin-5px-left d-none d-md-inline-block"></i></a></li>
                         </ul>
                     </div>
                 </div>
