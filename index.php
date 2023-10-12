@@ -417,19 +417,21 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                             <!-- start services item -->
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
                                 <figure>
-                                    <div class="feature-box-content sm-w-100">
-                                        <div class="feature-box-image"><img src="images/img/usluga4.jpg" alt=""></div>
-                                        <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
-                                            <div class="padding-twelve-lr">
-                                                <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                    <a href="services/usluga-4.php">
+                                        <div class="feature-box-content sm-w-100">
+                                            <div class="feature-box-image"><img src="images/img/usluga4.jpg" alt=""></div>
+                                            <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
+                                                <div class="padding-twelve-lr">
+                                                    <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <figcaption>
-                                        <div class="text-center margin-25px-top">
-                                            <div class="text-extra-dark-gray alt-font font-weight-600">Procena rizika u zaštiti lica, imovine i poslovanja</div>
-                                        </div>
-                                    </figcaption>
+                                        <figcaption>
+                                            <div class="text-center margin-25px-top">
+                                                <div class="text-extra-dark-gray alt-font font-weight-600">Procena rizika u zaštiti lica, imovine i poslovanja</div>
+                                            </div>
+                                        </figcaption>
+                                    </a>
                                 </figure>
                             </div>
                             <!-- end services item -->
@@ -446,7 +448,7 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                                     </div>
                                     <figcaption>
                                         <div class="text-center margin-25px-top">
-                                            <div class="text-extra-dark-gray alt-font font-weight-600">Procena rizika od katastrofa </div>
+                                            <div class="text-extra-dark-gray alt-font font-weight-600">Plan obezbeđenja </div>
                                         </div>
                                     </figcaption>
                                 </figure>
@@ -455,19 +457,21 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                             <!-- start services item -->
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
                                 <figure>
-                                    <div class="feature-box-content sm-w-100">
-                                        <div class="feature-box-image"><img src="images/img/usluga6.jpg" alt=""></div>
-                                        <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
-                                            <div class="padding-twelve-lr">
-                                                <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                    <a href="services/usluga-6.php">
+                                        <div class="feature-box-content sm-w-100">
+                                            <div class="feature-box-image"><img src="images/img/usluga6.jpg" alt=""></div>
+                                            <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
+                                                <div class="padding-twelve-lr">
+                                                    <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <figcaption>
-                                        <div class="text-center margin-25px-top">
-                                            <div class="text-extra-dark-gray alt-font font-weight-600">Plan zaštite i spasavanja</div>
-                                        </div>
-                                    </figcaption>
+                                        <figcaption>
+                                            <div class="text-center margin-25px-top">
+                                                <div class="text-extra-dark-gray alt-font font-weight-600">Procena rizika od katastrofa i plan zaštite i spasavanja</div>
+                                            </div>
+                                        </figcaption>
+                                    </a>
                                 </figure>
                             </div>
                             <!-- end services item -->

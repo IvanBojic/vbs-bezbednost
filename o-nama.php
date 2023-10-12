@@ -10,7 +10,7 @@
         include 'header.php';
     ?>
         <!-- start page title section -->
-        <section class="p-0 one-third-screen position-relative wow animate__fadeIn">
+        <section class="p-0 one-third-screen position-relative wow animate__fadeIn top-space">
             <div class="opacity-medium bg-extra-dark-gray z-index-0"></div>
             <div class="container position-relative">
                 <div class="row align-items-center">
@@ -51,8 +51,8 @@
                                 2. Tehnička zaštita <br>
                                 3. Centar za obuku službenika obezbeđenja <br>
                                 4. Procena rizika u zaštiti lica, imovine i poslovanja <br>
-                                5. Procena rizika od katastrofa <br>
-                                6. Plan zaštite i spasavanja <br>
+                                5. Plan obezbeđenja <br>
+                                6. Procena rizika od katastrofa i plan zaštite i spasavanja <br>
                                 7. Alkotestiranje zaposlenih <br>
                                 8. Usluge merenja - kontrolna vaga</p>
                         </div>

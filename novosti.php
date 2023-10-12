@@ -10,7 +10,7 @@
             include 'header.php';
         ?>
         <!-- start page title section -->
-        <section class="wow animate__fadeIn parallax" data-parallax-background-ratio="0.5" style="background-image:url('images/img/news_baner.jpg');">
+        <section class="wow animate__fadeIn parallax top-space" data-parallax-background-ratio="0.5" style="background-image:url('images/img/news_baner.jpg');">
             <div class="opacity-medium bg-extra-dark-gray"></div>
             <div class="container position-relative">
                 <div class="row align-items-center">

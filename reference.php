@@ -18,9 +18,8 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
             /* Including header */
             include 'header.php';
         ?>
-        <div class="container">
         <!-- start references content section -->
-        <section class="wow animate__fadeIn">
+        <section class="wow animate__fadeIn top-space">
             <div class="container position-relative padding-50px-bottom padding-50px-top">
                 <div class="row justify-content-center">
                     <div class="col-12 col-xl-9 col-lg-10 text-center wow animate__fadeIn last-paragraph-no-margin">
@@ -94,7 +93,6 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
             </div>
         </section>
         <!-- end references content section -->
-        </div>
         <!-- start footer -->
         <?php
         /* Including footer */
