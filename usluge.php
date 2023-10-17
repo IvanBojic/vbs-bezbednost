@@ -44,8 +44,8 @@
                                                 </div>
                                             </div>
                                             <figcaption class="image-caption">
-                                                <div class="text-center margin-55percent-top">
-                                                    <div class="main-color alt-font font-weight-600">Fizičko - tehnička zaštita</div>
+                                                <div class="text-center margin-30percent-top">
+                                                    <div class="font-large alt-font font-weight-400">Fizičko - tehnička zaštita</div>
                                                 </div>
                                             </figcaption>
                                         </div>
@@ -67,8 +67,8 @@
                                                 </div>
                                             </div>
                                             <figcaption class="image-caption">
-                                                <div class="text-center margin-55percent-top">
-                                                    <div class="main-color alt-font font-weight-600">Tehnička zaštita</div>
+                                                <div class="text-center margin-30percent-top">
+                                                    <div class="font-large alt-font font-weight-400">Tehnička zaštita</div>
                                                 </div>
                                             </figcaption>
                                         </div>
@@ -90,8 +90,8 @@
                                                 </div>
                                             </div>
                                             <figcaption class="image-caption">
-                                                <div class="text-center margin-55percent-top">
-                                                    <div class="main-color alt-font font-weight-600">Centar za obuku službenika obezbeđenja</div>
+                                                <div class="text-center margin-30percent-top">
+                                                    <div class="font-large alt-font font-weight-400">Centar za obuku službenika obezbeđenja</div>
                                                 </div>
                                             </figcaption>
                                         </div>
@@ -114,8 +114,8 @@
                                                     </div>
                                                 </div>
                                                 <figcaption class="image-caption">
-                                                    <div class="text-center margin-55percent-top">
-                                                        <div class="main-color alt-font font-weight-600">Procena rizika u zaštiti lica, imovine i poslovanja</div>
+                                                    <div class="text-center margin-30percent-top">
+                                                        <div class="font-large alt-font font-weight-400">Procena rizika u zaštiti lica, imovine i poslovanja</div>
                                                     </div>
                                                 </figcaption>
                                             </div>
@@ -138,8 +138,8 @@
                                                 </div>
                                             </div>
                                             <figcaption class="image-caption">
-                                                <div class="text-center margin-55percent-top">
-                                                    <div class="main-color alt-font font-weight-600">Plan obezbeđenja</div>
+                                                <div class="text-center margin-30percent-top">
+                                                    <div class="font-large alt-font font-weight-400">Plan obezbeđenja</div>
                                                 </div>
                                             </figcaption>
                                         </div>
@@ -162,8 +162,8 @@
                                                     </div>
                                                 </div>
                                                 <figcaption class="image-caption">
-                                                    <div class="text-center margin-55percent-top">
-                                                        <div class="main-color alt-font font-weight-600">Procena rizika od katastrofa i plan zaštite i spasavanja</div>
+                                                    <div class="text-center margin-30percent-top">
+                                                        <div class="font-large alt-font font-weight-400">Procena rizika od katastrofa i plan zaštite i spasavanja</div>
                                                     </div>
                                                 </figcaption>
                                             </div>
@@ -186,8 +186,8 @@
                                                 </div>
                                             </div>
                                             <figcaption class="image-caption">
-                                                <div class="text-center margin-55percent-top">
-                                                    <div class="main-color alt-font font-weight-600">Alkotestiranje zaposlenih</div>
+                                                <div class="text-center margin-30percent-top">
+                                                    <div class="font-large alt-font font-weight-400">Alkotestiranje zaposlenih</div>
                                                 </div>
                                             </figcaption>
                                         </div>
@@ -209,8 +209,8 @@
                                                 </div>
                                             </div>
                                             <figcaption class="image-caption">
-                                                <div class="text-center margin-55percent-top">
-                                                    <div class="main-color alt-font font-weight-600">Usluge merenja - kontrolna vaga</div>
+                                                <div class="text-center margin-30percent-top">
+                                                    <div class="font-large alt-font font-weight-400">Usluge merenja - kontrolna vaga</div>
                                                 </div>
                                             </figcaption>
                                         </div>

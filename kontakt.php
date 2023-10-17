@@ -30,19 +30,45 @@
     <section class="no-padding bg-extra-dark-gray">
         <div class="container-fluid">
             <div class="row row-cols-1 row-cols-lg-2">
-                <div class="col p-0 cover-background md-h-450px sm-h-350px wow animate__fadeInLeft" style="background: url('images/img/contact_form1.jpg')"></div>
-                <div class="col p-0 wow animate__fadeInRight">
+                <?php /* <div class="col p-0 cover-background md-h-450px sm-h-350px wow animate__fadeInLeft" style="background: url('images/img/contact_form1.jpg')"></div> */ ?>
+                <div class="border-del col text-center padding-six-lr padding-five-half-tb lg-padding-four-lr md-padding-ten-half-tb md-padding-twelve-half-lr sm-padding-15px-lr wow animate__fadeIn">
+                    <h5 class="margin-55px-bottom main-color alt-font font-weight-700 text-uppercase sm-margin-ten-bottom">Kontaktirajte nas!</h5>
+                    <form id="project-contact-form-4" action="email-templates/contact-form.php" method="post">
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="form-results d-none"></div>
+                            </div>
+                            <div class="col-12 col-md-6">
+                                <input type="text" name="name" id="name" placeholder="Ime *" class="bg-transparent border-color-medium-dark-gray medium-input required">
+                            </div>
+                            <div class="col-12 col-md-6">
+                                <input type="tel" name="phone" id="phone" placeholder="Kontakt telefon" class="bg-transparent border-color-medium-dark-gray medium-input">
+                            </div>
+                            <div class="col-12 col-md-6">
+                                <input type="email" name="email" id="email" placeholder="E-mail *" class="bg-transparent border-color-medium-dark-gray medium-input required">
+                            </div>
+                            <div class="col-12">
+                                <textarea name="comment" id="comment" placeholder="Unesite Vašu poruku!" rows="7" class="bg-transparent border-color-medium-dark-gray medium-textarea"></textarea>
+                            </div>
+                            <div class="col-12 text-center">
+                                <button id="project-contact-us-4-button" type="submit" class="btn btn-main-color btn-medium margin-15px-top submit">Pošalji</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="border-del col p-0 wow animate__fadeInRight">
                     <div class="row row-cols-1 row-cols-sm-2 m-0">
                         <!-- start contact item -->
                         <div class="col bg-extra-dark-gray d-flex flex-column justify-content-center align-items-center text-center h-350px lg-h-300px sm-h-250px last-paragraph-no-margin">
-                            <i class="icon-map text-deep-pink icon-medium margin-25px-bottom"></i>
+                            <i class="icon-map text-main-color icon-medium margin-25px-bottom"></i>
                             <div class="text-white-2 text-uppercase alt-font font-weight-600 margin-5px-bottom">Adresa</div>
                             <p class="w-60 lg-w-80 mx-auto text-medium">Prvomajska bb,<br> 31205 Sevojno.</p>
                         </div>
                         <!-- end contact item -->
                         <!-- start contact item -->
                         <div class="col bg-black d-flex flex-column justify-content-center align-items-center text-center h-350px lg-h-300px sm-h-250px last-paragraph-no-margin">
-                            <i class="icon-chat text-deep-pink icon-medium margin-25px-bottom"></i>
+                            <i class="icon-chat text-main-color icon-medium margin-25px-bottom"></i>
                             <div class="text-white-2 text-uppercase alt-font font-weight-600 margin-5px-bottom">Pozovite nas</div>
                             <p class="mx-auto text-medium mb-0">Tel: <a href="tel:+38131594110">031/594-110</a></p>
                             <p class="mx-auto text-medium mb-0">Tel2: <a href="tel:+38131594189">594-189</a></p>
@@ -51,7 +77,7 @@
                         <!-- end contact item -->
                         <!-- start contact item -->
                         <div class="col bg-black d-flex flex-column justify-content-center align-items-center text-center h-350px lg-h-300px sm-h-250px last-paragraph-no-margin">
-                            <i class="icon-envelope text-deep-pink icon-medium margin-25px-bottom"></i>
+                            <i class="icon-envelope text-main-color icon-medium margin-25px-bottom"></i>
                             <div class="text-white-2 text-uppercase alt-font font-weight-600 margin-5px-bottom">Email</div>
                             <p class="mx-auto text-medium mb-0"><a href="mailto:info@domain.com">info@domain.com</a></p>
                             <p class="mx-auto text-medium"><a href="mailto:hire@domain.com">hire@domain.com</a></p>
@@ -59,7 +85,7 @@
                         <!-- end contact item -->
                         <!-- start contact item -->
                         <div class="col bg-extra-dark-gray d-flex flex-column justify-content-center align-items-center text-center h-350px lg-h-300px sm-h-250px last-paragraph-no-margin">
-                            <i class="icon-clock text-deep-pink icon-medium margin-25px-bottom"></i>
+                            <i class="icon-clock text-main-color icon-medium margin-25px-bottom"></i>
                             <div class="text-white-2 text-uppercase alt-font font-weight-600 margin-5px-bottom">Matični podaci</div>
                             <p class="mx-auto text-medium mb-0">PIB: 104704014</p>
                             <p class="mx-auto text-medium">Matični broj: 20214473</p>
@@ -72,7 +98,7 @@
     </section>
     <!-- end contact section -->
     <!-- start contact form -->
-    <section id="contact" class="wow animate__fadeIn p-0 bg-extra-dark-gray">
+    <?php /* <section id="contact" class="wow animate__fadeIn p-0 bg-extra-dark-gray">
         <div class="container-fluid">
             <div class="row row-cols-1 row-cols-lg-2">
                 <div class="col text-center padding-six-lr padding-five-half-tb lg-padding-four-lr md-padding-ten-half-tb md-padding-twelve-half-lr sm-padding-15px-lr wow animate__fadeIn">
@@ -103,11 +129,11 @@
                 <div class="col cover-background md-h-450px sm-h-350px wow animate__fadeIn" style="background: url('images/img/contact_form2.jpg')"></div>
             </div>
         </div>
-    </section>
+    </section> */ ?>
     <!-- end contact form -->
     <!-- start map section -->
     <section class="p-0 one-second-screen md-h-400px sm-h-300px wow animate__fadeIn row-margin-15-top">
-        <iframe class="w-100 h-100" src="https://maps.google.com/?ie=UTF8&t=m&q=43.842068,19.890956&spn=0.007738,0.017123&z=15&output=embed" title="Ovo je opis pina"></iframe>
+        <iframe class="w-100 h-100" src="https://maps.google.com/?ie=UTF8&t=m&q=43.842068,19.890956&spn=0.007738,0.017123&z=15&output=embed" title="Valjaonica - Bezbednost d.o.o."></iframe>
     </section>
     <!-- end map section -->
       <?php /*  <section class="wow animate__fadeIn bg-light-gray">

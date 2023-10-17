@@ -44,17 +44,18 @@
                             <h5 class="alt-font text-white-2"></h5>
                             <p class="text-extra-large font-weight-300 text-extra-light-gray">
                                 Valjaonica - Bezbednost d.o.o. je privredno društvo osnovano 2006. godine, specijalizovano za pružanje usluga privatnog obezbeđenja.
-                                Pored usluga privatnog obezbeđenja, naša kompanija pruža i usluge u oblasti smanjenja rizika od kastrofa, kao i ostale usluge u skladu sa zahtevima tržišta i potrebama klijenata:
+                                Pored usluga privatnog obezbeđenja, naša kompanija pruža i usluge u oblasti smanjenja rizika od katastrofa, kao i ostale usluge u skladu sa zahtevima tržišta i potrebama klijenata:
                             </p>
-                            <p class="text-extra-large font-weight-300 text-extra-light-gray">
-                                1. Fizičko - tehnička zaštita <br>
-                                2. Tehnička zaštita <br>
-                                3. Centar za obuku službenika obezbeđenja <br>
-                                4. Procena rizika u zaštiti lica, imovine i poslovanja <br>
-                                5. Plan obezbeđenja <br>
-                                6. Procena rizika od katastrofa i plan zaštite i spasavanja <br>
-                                7. Alkotestiranje zaposlenih <br>
-                                8. Usluge merenja - kontrolna vaga</p>
+                            <ul class="text-extra-large font-weight-300 text-extra-light-gray services-list">
+                                <li>Fizičko - tehnička zaštita</li>
+                                <li>Tehnička zaštita</li>
+                                <li>Centar za obuku službenika obezbeđenja</li>
+                                <li>Procena rizika u zaštiti lica, imovine i poslovanja</li>
+                                <li>Plan obezbeđenja</li>
+                                <li>Procena rizika od katastrofa i plan zaštite i spasavanja</li>
+                                <li>Alkotestiranje zaposlenih</li>
+                                <li>Usluge merenja - kontrolna vaga</li>
+                            </ul>
                         </div>
                     </div>  
                     <div class="col-12 col-xl-4 col-md-6 bg-extra-dark-gray cover-background sm-h-400px wow animate__fadeIn" style="background-image: url('images/img/o-nama-centar.jpg')"></div>

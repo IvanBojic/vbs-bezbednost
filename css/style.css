@@ -92,6 +92,7 @@ header [class^="container-"] [class^="col-"], header [class^="container-"] [clas
 
 /* base color variable*/
 :root {--base-color: #ff214f;}
+:root {--main-color: #db4513;}
 
 /* ===================================
     03. Typography
@@ -130,6 +131,7 @@ h6 {font-size:25px; line-height:30px}
 .text-light-gray, .btn.text-light-gray {color:#d6d5d5}
 .text-very-light-gray, .btn.text-very-light-gray {color:#ededed}
 .text-deep-pink, .btn.text-deep-pink {color: var(--base-color)}
+.text-main-color, .btn.text-main-color {color: var(--main-color)}
 
 /* dropcap */
 .first-letter {float: left; font-size: 50px; line-height: auto; margin: 0 20px 0 0; text-align: center; padding: 10px 0; font-weight: 600}
@@ -449,6 +451,8 @@ textarea.input-bg {background-color: #f7f7f7; border-radius: 4px; border: 1px so
 .btn.btn-light-gray:hover, .btn.btn-light-gray:focus {background: transparent; border-color: #dbdbdb; color: #dbdbdb}
 .btn.btn-deep-pink {background: var(--base-color); border-color: var(--base-color); color: #ffffff}
 .btn.btn-deep-pink:hover, .btn.btn-deep-pink:focus {background: transparent; border-color: var(--base-color); color: var(--base-color)}
+.btn.btn-main-color {background: var(--main-color); border-color: var(--main-color); color: #ffffff}
+.btn.btn-main-color:hover, .btn.btn-main-color:focus {background: transparent; border-color: var(--main-color); color: var(--main-color)}
 .btn-warning, .btn-warning:hover {color: #fff;}
 
 /* button transparent */
@@ -3246,7 +3250,7 @@ aside .search-button {border: 2px solid transparent;}
 
 /* progress bar */
 .progress {overflow: visible; height: 5px; position: relative; border-radius: 10px; width: 100%;}
-.progress .progress-title {position: absolute; top: -35px;}
+.progress .progress-title {position: absolute; top: -40px;}
 .progress .progress-bar {position: relative; overflow: visible; border-radius: 10px;}
 .progress .progress-bar span {position: absolute; top: -30px; right: 0; opacity: 0}
 .progress .progress-bar.appear span {opacity: 1;}
@@ -3287,51 +3291,9 @@ aside .search-button {border: 2px solid transparent;}
 .team-style-1 figure:hover .overlay-content {opacity: 1; z-index: 1111; top:0}
 .team-style-1 figure figcaption .team-member-position {position: relative; top: 0; transition: all 0.2s; -webkit-transition: all 0.2s; -moz-transition: all 0.2s; -ms-transition: all 0.2s; -o-transition: all 0.2s;}
 
-/* team style 2 */
-.team-style-2 figure {position: relative}
-.team-style-2 figure .team-image {position: relative;}
-.team-style-2 .team-overlay {display: block; position: absolute; overflow: hidden; transition: all 0.3s ease 0s; bottom: 0; left: 0; right: 0; width: 100%; height: 100%; opacity: 0}
-.team-style-2 figure:hover .team-overlay {bottom: 0; left: 0; right: 0; width: 100%; height: 100%; opacity: .9}
-.team-style-2 figure .team-member-position {position: absolute; top: 100%; width: 100%; transition: all 0.2s; -webkit-transition: all 0.2s; -moz-transition: all 0.2s; -ms-transition: all 0.2s; -o-transition: all 0.2s;}
-.team-style-2 figure:hover .team-member-position {top: 50%; transform: translateY(-50%); -webkit-transform: translateY(-50%); -moz-transform: translateY(-50%); -ms-transform: translateY(-50%); -o-transform: translateY(-50%); margin: 0;}
-.team-style-2 figure:hover .team-member-position .text-medium-gray, .team-style-2 figure:hover .team-member-position .text-extra-dark-gray {color: #fff}
-.team-style-2 figure figcaption {min-height: 20px;}
-.team-style-2 figure figcaption .overlay-content {opacity: 0; top:0; position: relative}
-.team-style-2 figure:hover figcaption .overlay-content {opacity: 1; top:30px;}
-
 /* accordion style */
 .panel-title {font-size: 16px;}
 .panel-title > i {font-size: 12px; position: absolute; right: 0; top: 50%; transform: translateY(-50%); -webkit-transform: translateY(-50%); -moz-transform: translateY(-50%); -ms-transform: translateY(-50%); -o-transform: translateY(-50%);}
-
-/* accordion style1 */
-.accordion-style1 .panel  {background: transparent; box-shadow: none; margin-top: 0 !important}
-.accordion-style1.panel-group .panel-heading  {border: 0px; border-bottom: 1px solid #e4e4e4;}
-.accordion-style1 .panel-heading {padding: 16px 0;}
-.accordion-style1 .panel-title {font-size: 13px; padding-right: 30px; position: relative}
-.accordion-style1.panel-group .panel-heading+.panel-collapse>.list-group, .accordion-style1.panel-group .panel-heading+.panel-collapse>.panel-body{border-top:0; padding: 25px 0}
-
-/* accordion style 2 */
-.accordion-style2 .panel {background: transparent; border: none; margin-bottom: 15px; box-shadow: none;}
-.accordion-style2 .panel-title {background: transparent; border: none}
-.accordion-style2 .panel .panel-heading {background: #fff; border-radius:0; padding:18px 28px 19px; position: relative;}
-.accordion-style2 .panel-body{padding: 35px 28px 25px; border-top: 1px solid #ddd;}
-.accordion-style2 .panel-heading i {font-size: 25px; margin: 0; right: 28px;}
-.accordion-style2 .panel-title {padding: 0;}
-.accordion-style2 .tab-tag {font-size: 20px; padding: 0; margin-right: 7px; display: inline-block; vertical-align: top;}
-.accordion-style2 a, .accordion-style2 a:hover, .accordion-style2 a:hover i {color: #282828;}
-.accordion-style2 .panel-default:last-child {border-bottom: 1px solid rgba(0, 0, 0, 0); margin-bottom: 0;}
-.accordion-style2 {margin-bottom: 0;}
-
-/* accordion style 3 */
-.accordion-style3 .panel {background-color:transparent; border: none; margin-bottom: 15px; box-shadow: none; border-radius: 0;}
-.accordion-style3 .panel-title {background: transparent; border: none; font-size: 16px;}
-.accordion-style3 .panel .panel-heading {background: #000; color: #fff; border-radius:0; padding:18px 28px 19px; position: relative;}
-.accordion-style3 .panel-body{padding: 35px 28px 25px; border-top:none}
-.accordion-style3 .panel-title > i {font-size: 25px; margin: 0; right: 28px;}
-.accordion-style3 .tab-tag {font-size: 20px; padding: 0; margin-right: 7px; display: inline-block; vertical-align: top;}
-.accordion-style3 a, .accordion-style2 a:hover, .accordion-style3 a:hover i {color: #fff;}
-.accordion-style3 .panel-default:last-child {border-bottom: 1px solid rgba(0, 0, 0, 0); margin-bottom: 0;}
-.accordion-style3 {margin-bottom: 0;}
 
 /* toggles */
 .toggles .panel  {background: transparent; box-shadow: none; border-radius: 0; border: 1px solid #ddd;}
@@ -3345,61 +3307,6 @@ aside .search-button {border: 2px solid transparent;}
 /* tab */
 .nav-tabs>li>a.active, .nav-tabs>li>a.active:focus, .nav-tabs>li>a.active:hover {border: 0; border-bottom: 1px solid;}
 .nav-tabs a.nav-link {transition: all .3s ease-in-out; -moz-transition: all .3s ease-in-out; -webkit-transition: all .3s ease-in-out; -ms-transition: all .3s ease-in-out; -o-transition: all .3s ease-in-out;}
-
-/* tab style 1 */
-.tab-style1 .nav-tabs{border: none; width: 100%;}
-.tab-style1 .nav-tabs li{display: inline-block; float: none; width:25%;}
-.tab-style1 .nav-tabs li a{margin: 0;}
-.tab-style1 .nav-tabs li:hover{background: transparent;}
-.tab-style1 .nav-tabs > li > a, .tab-style1 .nav-tabs > li > a:focus, .tab-style1 .nav-tabs > li > a:hover{border: none; background-color: transparent;}
-.tab-style1 .nav-tabs li:hover i, .tab-style1 .nav-tabs li .active i{color: var(--base-color);}
-.tab-style1 .nav-tabs li:hover span, .tab-style1 .nav-tabs li .active span{color: #232323;}
-
-/* tab style 2 */
-.tab-style2 .tab-content{padding:55px 0 0; border-top: 1px solid #e5e5e5;}
-.tab-style2 .nav-tabs{border:0;}
-.tab-style2 .nav-tabs li{border:1px solid #e5e5e5; border-bottom: none; border-radius: 0; margin-bottom: 0; display:inline-block; float:none; margin-right: 5px}
-.tab-style2 .nav-tabs li a {background-color:#f7f7f7; border:none; color:#575757; line-height: 44px; margin:0 !important; padding: 0 25px; border-radius: 0;}
-.tab-style2 .nav-tabs-light li:first-child {border-left: 1px solid #e5e5e5; margin-left: 15px;}
-.tab-style2 .nav-tabs > li > a.active {border-color:transparent; border: none; border-radius:0; background:#fff; top:1px; position: relative;}
-
-/* tab style 3 */
-.tab-style3 .nav-tabs {border-bottom: 1px solid transparent}
-.tab-style3 .nav-tabs li {float: none; display: inline-block; vertical-align: middle;}
-.tab-style3 .nav-tabs li {float: none; display: inline-block; vertical-align: middle; margin: 0 23px; padding: 3px 0}
-.tab-style3 .nav-tabs li a.nav-link.active {color: #232323}
-.tab-style3 .nav-tabs>li>a.nav-link, .tab-style3 .nav-tabs>li>a.nav-link:focus, .tab-style3 .nav-tabs>li>a.nav-link.active:hover, .tab-style3 .nav-tabs>li>a.nav-link:hover {background-color: transparent; border: none; padding: 0;}
-.tab-style3 .nav-tabs li a.nav-link.active, .tab-style3 .nav-tabs>li>a.nav-link.active:hover {border-bottom: 1px solid #232323;}
-.tab-style3 .nav-link:hover {color: var(--base-color);}
-
-/* tab style 4 */
-.tab-style4 .tab-content{padding:0 0 0 55px; border-left: 1px solid #e5e5e5;}
-.tab-style4 .nav-tabs{border:0;}
-.tab-style4 .nav-tabs li{border:1px solid #e5e5e5; border-right: none; border-radius: 0; margin-bottom: 0; display:block; float:left; width: 100%; left: 1px;}
-.tab-style4 .nav-tabs li a {background-color:#f7f7f7; border:none; color:#575757; line-height: 44px; margin:0 !important; padding: 0 25px; border-radius: 0; top:1px; position: relative;}
-.tab-style4 .nav-tabs li:last-child a {top: 0}
-.tab-style4 .nav-tabs-light li:first-child {border-left: 1px solid #e5e5e5; margin-left: 15px;}
-.tab-style4 .nav-tabs > li > a.active {border-color:transparent; border: none; border-radius:0; background:#fff; left: 1px;}
-
-/* tab style 5 */
-.tab-style5 .nav-tabs {border: none;}
-.tab-style5 .nav-tabs li {width: 100%; font-size: 26px; line-height: 60px; margin-bottom: 0;}
-.tab-style5 .nav-tabs li a {border: none !important; border-bottom: 2px solid transparent !important; color: #6f6f6f; opacity: 0.6; display: inline-block; background-color: transparent !important; padding: 0; border-radius: 0; color: #6f6f6f;}
-.tab-style5 .nav-tabs li a:hover {background-color: transparent; opacity: 1; color: var(--base-color);}
-.tab-style5 .nav-tabs .nav-link.active {color: var(--base-color) !important; opacity: 1; border-bottom: 2px solid var(--base-color) !important; padding-left: 45px}
-.tab-style5 .nav-tabs li.active a, .tab-style5 .nav-tabs li.active a:hover, .tab-style5 .nav-tabs li.active a:focus {border: none; cursor: pointer; background-color: transparent;}
-.tab-style5 .tab-box {position: absolute; left:23%; top:50%; -webkit-transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);transform: translate(-50%, -50%); z-index: 1; width:500px;}
-
-/* testimonial style 2 */
-.testimonial-style2 .profile-box {margin-top: -50px}
-
-/* testimonial style 3 */
-.testimonial-style3 .arrow-bottom:after {border-top-color: #d6d5d5; left: 15%;  border-width: 10px; margin-left: -10px;}
-.testimonial-style3 .image-box img {width: 100%;}
-
-/* testimonial-box */
-.testimonial-box .image-box {display: table-cell; vertical-align: middle}
-.testimonial-box .name-box {display: table-cell; vertical-align: middle}
 
 /* ===================================
    25. Blog
@@ -3457,15 +3364,6 @@ a img.aligncenter {display: block; margin-left: auto; margin-right: auto}
 .wp-caption p.wp-caption-text {font-size: 11px; line-height: 17px; margin: 0; padding: 0 4px 5px;}
 .screen-reader-text {clip: rect(1px, 1px, 1px, 1px); position: absolute !important; height: 1px; width: 1px; overflow: hidden;}
 .screen-reader-text:focus {background-color: #f1f1f1; border-radius: 3px; box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6); clip: auto !important; color: #21759b; display: block; font-size: 14px; font-size: 0.875rem; font-weight: bold; height: auto; left: 5px; line-height: normal; padding: 15px 23px 14px; text-decoration: none; top: 5px; width: auto; z-index: 1}
-
-/* list style 6 */
-.blog-comment {list-style: none; margin: 0; padding: 0;}
-.blog-comment li {padding: 50px 0; border-bottom: 1px solid #ededed; position: relative}
-.blog-comment li .btn-reply {float: right; border: 1px solid #ededed; padding: 0 8px; font-size: 10px; font-weight: 600; position: relative;}
-.blog-comment > li:first-child {padding-top: 0}
-.blog-comment li:last-child {border-bottom: none; padding-bottom: 0}
-.blog-comment li ul.child-comment {margin-left: 40px; list-style: none}
-.blog-comment li ul.child-comment li {border: none; padding-bottom: 0; border-top: 1px solid #ededed; margin-top: 50px}
 
 /* ===================================
     26. Footer
@@ -3561,29 +3459,12 @@ aside .instafeed-grid.gutter-extra-large, footer .instafeed-grid.gutter-extra-la
 .icon-play img {width: 60%}
 .icon-play:hover img {width: 68%}
 
-/* play icon */
-.icon-play-style-2 {z-index: 1; left: 100%;}
-.icon-play-style-2 > span {display: -webkit-inline-box; display: -ms-inline-flexbox; display: inline-flex; -webkit-box-orient: horizontal; -webkit-box-direction: normal; flex-flow: row wrap; -ms-flex-direction: row wrap; -webkit-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center;}
-.icon-play-style-2 .video-icon {width: 110px; height: 110px; margin-top: 0; font-size: 30px; position: relative; display: -webkit-inline-box; display: -ms-inline-flexbox; display: inline-flex; -webkit-box-align: center; -ms-flex-align: center; align-items: center; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; border-radius: 50%;}
-
 /* home - creative studio */
 .icon-box-holder a:hover {color: #fff;}
 
 /* home - portfolio personal */
 .hover-title-box {position: absolute; right: -100px; opacity: 0; top: 50%; transform: translateY(-53px); -webkit-transform: translateY(-53px); -moz-transform: translateY(-53px); -ms-transform: translateY(-53px); -o-transform: translateY(-53px); z-index: 99; transition: all 0.3s ease-in-out; -webkit-transition: all 0.3s ease-in-out; -moz-transition: all 0.3s ease-in-out; -ms-transition: all 0.3s ease-in-out; -o-transition: all 0.3s ease-in-out;}
 .hover-title-box .separator {height: 1px; content: ""; position: absolute; left:-10px; top: 30px;}
-
-/* home - blog masonry */
-.blog-header-style1 {margin: 0 8px; padding: 0; list-style: none; display: flex; justify-content: start;}
-.blog-header-style1 li {width: 25%; padding: 0 8px; margin: 0 -4px 0 0;display: inline-block; box-sizing: border-box; overflow: hidden; vertical-align: top; transition: 0.8s; -webkit-transition: 0.8s; -moz-transition: 0.8s; -ms-transition: 0.8s; -o-transition: 0.8s;}
-.blog-header-style1 li .blog-banner {display: block; position: relative; height: 100%;}
-.blog-header-style1 li figure figcaption {position: absolute; left: 0; bottom: 0; padding: 50px; transform: translateY(60px); -webkit-transform: translateY(60px); -moz-transform: translateY(60px); -ms-transform: translateY(60px); -o-transform: translateY(60px);}
-.blog-header-style1 li.blog-column-active figure figcaption {transition-delay: 0.5s; -webkit-transition-delay: 0.5s; -moz-transition-delay: 0.5s; -ms-transition-delay: 0.5s; -o-transition-delay: 0.5s; transform: translateY(0px); -webkit-transform: translateY(0px); -moz-transform: translateY(0px); -ms-transform: translateY(0px); -o-transform: translateY(0px);}
-.blog-header-style1 li figure figcaption .btn {opacity: 0; transform: translateY(60px); -webkit-transform: translateY(60px); -moz-transform: translateY(60px); -ms-transform: translateY(60px); -o-transform: translateY(60px); transition-delay: 0.3s; -webkit-transition-delay: 0.3s; -moz-transition-delay: 0.3s; -ms-transition-delay: 0.3s; -o-transition-delay: 0.3s;}
-.blog-header-style1 li.blog-column-active figure figcaption .btn {opacity: 1; transition-delay: 0.6s; transform: translateY(0); -webkit-transform: translateY(0); -moz-transform: translateY(0); -ms-transform: translateY(0); -o-transform: translateY(0); -webkit-transition-property: all; -moz-transition-property: all; -ms-transition-property: all; -o-transition-property: all; transition-property: all;}
-.blog-header-style1 li.blog-column-active figure figcaption .btn:hover {transition-delay: 0; -webkit-transition-property: all; -moz-transition-property: all; -ms-transition-property: all; -o-transition-property: all; transition-property: all;}
-.blog-header-style1 li.blog-column-active {width: 50%; transition-duration: 0.8s; -webkit-transition-duration: 0.8s; -moz-transition-duration: 0.8s; -ms-transition-duration: 0.8s; -o-transition-duration: 0.8s;}
-.blog-header-style1 li .blog-title {width: 100%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}
 
 /* home - blog clean */
 .blog-box .blog-box-image,.blog-box .blog-box-content {position: absolute; top: 0; width: 100%; transition: all 0.5s ease-in-out; -webkit-transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out;}
@@ -3749,7 +3630,24 @@ body.o-nama {
 .feature-box-15 .feature-box-content:hover .image-caption {
     background: rgba(0, 0, 0, 0);
 }
-
-.margin-55percent-top {
-    margin-top:55%!important;
+.margin-30percent-top {
+    margin-top:30%!important;
+}
+.border-del {
+    position: relative; /* Dodajemo relativni položaj kako bismo mogli pozicionirati levu granicu */
+}
+.border-del.p-0::after {
+    content: '';
+    position: absolute;
+    top: 5%; /* Odvojenost od gornje strane */
+    bottom: 5%; /* Odvojenost od donje strane */
+    left: 0; /* Pozicija leva granica */
+    width: 1px; /* Širina granice */
+    background-color: #db4513; /* Boja granice (beli) */
+}
+.font-large {
+    font-size: large;
+}
+.services-list {
+    list-style-type: decimal;
 }
