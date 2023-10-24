@@ -33,6 +33,10 @@
             var $translate_lang = $obj.attr('data-transalte');
 
             doGTranslate($base_lang, $translate_lang);
+
+            // Čuvanje izabranog jezika u localStorage
+            localStorage.setItem('selected_lang', $translate_lang);
+
             $holder.find('.js-translate-selected').html($obj.html());
             $holder.find('.js-translate-list .active').removeClass('active');
             $obj.addClass('active');
@@ -87,6 +91,18 @@
                 teCombo.value = $translate_lang;
                 GTranslateFireEvent(teCombo, 'change');
                 GTranslateFireEvent(teCombo, 'change')
+            }
+        }
+        // Proverite da li postoji sačuvani jezik u localStorage
+        var selectedLang = localStorage.getItem('selected_lang');
+
+        // Ako postoji sačuvani jezik, postavite ga kao trenutni jezik
+        if (selectedLang) {
+            var $holder = $('.js-translate-box');
+            var $selectedLangButton = $holder.find('.js-translate-lang[data-transalte="' + selectedLang + '"]');
+
+            if ($selectedLangButton.length > 0) {
+                $selectedLangButton.addClass('active');
             }
         }
         // Glodal function

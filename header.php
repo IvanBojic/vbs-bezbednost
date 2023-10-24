@@ -3,7 +3,7 @@ include 'components/php_composer.php';
 
 $data_lang                     = (object) array(
     'langs'              => clsLoad::getArrayLangs(),
-    'selected_lang'      => clsLoad::getSelectedLang(),
+    'selected_lang'      => '',
     'selected_lang_data' => array(),
 );
 $data_lang->selected_lang_data = isset($data_lang->langs[$data_lang->selected_lang]) ? $data_lang->langs[$data_lang->selected_lang] : array();
