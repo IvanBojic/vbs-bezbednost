@@ -180,19 +180,21 @@
                                 <!-- start services item -->
                                 <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
                                     <figure class="position-relative">
-                                        <div class="feature-box-content sm-w-100">
-                                            <div class="feature-box-image"><img src="images/img/usluga5.jpg" alt=""></div>
-                                            <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
-                                                <div class="padding-twelve-lr">
-                                                    <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                        <a href="services/usluga-7.php">
+                                            <div class="feature-box-content sm-w-100">
+                                                <div class="feature-box-image"><img src="images/img/usluga5.jpg" alt=""></div>
+                                                <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
+                                                    <div class="padding-twelve-lr">
+                                                        <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                                    </div>
                                                 </div>
+                                                <figcaption class="image-caption">
+                                                    <div class="text-center margin-30percent-top">
+                                                        <div class="font-large alt-font font-weight-400">Alkotestiranje zaposlenih</div>
+                                                    </div>
+                                                </figcaption>
                                             </div>
-                                            <figcaption class="image-caption">
-                                                <div class="text-center margin-30percent-top">
-                                                    <div class="font-large alt-font font-weight-400">Alkotestiranje zaposlenih</div>
-                                                </div>
-                                            </figcaption>
-                                        </div>
+                                        </a>
                                     </figure>
                                 </div>
                                 <!-- end services item -->
@@ -203,19 +205,21 @@
                                 <!-- start services item -->
                                 <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
                                     <figure class="position-relative">
-                                        <div class="feature-box-content sm-w-100">
-                                            <div class="feature-box-image"><img src="images/img/usluga5.jpg" alt=""></div>
-                                            <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
-                                                <div class="padding-twelve-lr">
-                                                    <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                        <a href="services/usluga-8.php">
+                                            <div class="feature-box-content sm-w-100">
+                                                <div class="feature-box-image"><img src="images/img/usluga5.jpg" alt=""></div>
+                                                <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
+                                                    <div class="padding-twelve-lr">
+                                                        <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                                    </div>
                                                 </div>
+                                                <figcaption class="image-caption">
+                                                    <div class="text-center margin-30percent-top">
+                                                        <div class="font-large alt-font font-weight-400">Usluge merenja - kontrolna vaga</div>
+                                                    </div>
+                                                </figcaption>
                                             </div>
-                                            <figcaption class="image-caption">
-                                                <div class="text-center margin-30percent-top">
-                                                    <div class="font-large alt-font font-weight-400">Usluge merenja - kontrolna vaga</div>
-                                                </div>
-                                            </figcaption>
-                                        </div>
+                                        </a>
                                     </figure>
                                 </div>
                                 <!-- end services item -->
