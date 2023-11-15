@@ -28,7 +28,7 @@
         <section class="wow animate__fadeIn">
             <div class="container"> 
                 <div class="row">
-                    <div class="col-12 blog-content">
+                    <div class="col-12 blog-content news-content" style="display: none">
                         <ul class="blog-grid blog-wrapper grid grid-loading grid-3col xl-grid-3col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col hover-option4 blog-post-style3 gutter-extra-large">
                             <li class="grid-sizer"></li>
                             <!-- start post item -->
@@ -41,7 +41,7 @@
                                         </a>
                                     </div>
                                     <div class="post-details padding-40px-all md-padding-20px-all">
-                                        <a href="news/vest-1.php" target="_blank" class="alt-font post-title text-medium text-extra-dark-gray w-100 d-block lg-w-100 margin-15px-bottom">I find modernist design boring, but it so much faster!</a>
+                                        <a href="news/vest-1.php" target="_blank" class="alt-font post-title text-medium text-extra-dark-gray w-100 d-block lg-w-100 margin-15px-bottom">Vest 1</a>
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy...</p>
                                         <div class="separator-line-horrizontal-full bg-medium-gray margin-20px-tb"></div>
                                     </div>
@@ -58,7 +58,7 @@
                                         </a>
                                     </div>
                                     <div class="post-details padding-40px-all md-padding-20px-all">
-                                        <a href="news/vest-1.php" class="alt-font post-title text-medium text-extra-dark-gray w-100 d-block lg-w-100 margin-15px-bottom">Being a famous designer is like being a famous dentist.</a>
+                                        <a href="news/vest-1.php" class="alt-font post-title text-medium text-extra-dark-gray w-100 d-block lg-w-100 margin-15px-bottom">Vest 2</a>
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy...</p>
                                         <div class="separator-line-horrizontal-full bg-medium-gray margin-20px-tb"></div>
                                     </div>
@@ -75,7 +75,58 @@
                                         </a>
                                     </div>
                                     <div class="post-details padding-40px-all md-padding-20px-all">
-                                        <a href="" class="alt-font post-title text-medium text-extra-dark-gray w-100 d-block lg-w-100 margin-15px-bottom">Designers are meant to be loved, not to be understood.</a>
+                                        <a href="" class="alt-font post-title text-medium text-extra-dark-gray w-100 d-block lg-w-100 margin-15px-bottom">Vest 3</a>
+                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy....</p>
+                                        <div class="separator-line-horrizontal-full bg-medium-gray margin-20px-tb"></div>
+                                    </div>
+                                </div>
+                            </li>
+                            <!-- end post item -->
+                            <!-- start post item -->
+                            <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp">
+                                <div class="blog-post bg-light-gray">
+                                    <div class="blog-post-images overflow-hidden position-relative">
+                                        <a href="news/vest-1.php" target="_blank">
+                                            <img src="https://via.placeholder.com/900x650" alt="">
+                                            <div class="blog-hover-icon"><span class="text-extra-large font-weight-300">+</span></div>
+                                        </a>
+                                    </div>
+                                    <div class="post-details padding-40px-all md-padding-20px-all">
+                                        <a href="news/vest-1.php" target="_blank" class="alt-font post-title text-medium text-extra-dark-gray w-100 d-block lg-w-100 margin-15px-bottom">Vest 4</a>
+                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy...</p>
+                                        <div class="separator-line-horrizontal-full bg-medium-gray margin-20px-tb"></div>
+                                    </div>
+                                </div>
+                            </li>
+                            <!-- end post item -->
+                            <!-- start post item -->
+                            <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp" data-wow-delay="0.2s">
+                                <div class="blog-post bg-light-gray">
+                                    <div class="blog-post-images overflow-hidden position-relative">
+                                        <a href="news/vest-1.php">
+                                            <img src="https://via.placeholder.com/900x650" alt="">
+                                            <div class="blog-hover-icon"><span class="text-extra-large font-weight-300">+</span></div>
+                                        </a>
+                                    </div>
+                                    <div class="post-details padding-40px-all md-padding-20px-all">
+                                        <a href="news/vest-1.php" class="alt-font post-title text-medium text-extra-dark-gray w-100 d-block lg-w-100 margin-15px-bottom">Vest 5</a>
+                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy...</p>
+                                        <div class="separator-line-horrizontal-full bg-medium-gray margin-20px-tb"></div>
+                                    </div>
+                                </div>
+                            </li>
+                            <!-- end post item -->
+                            <!-- start post item -->
+                            <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp" data-wow-delay="0.4s">
+                                <div class="blog-post bg-light-gray">
+                                    <div class="blog-post-images overflow-hidden position-relative">
+                                        <a href="">
+                                            <img src="https://via.placeholder.com/900x650" alt="">
+                                            <div class="blog-hover-icon"><span class="text-extra-large font-weight-300">+</span></div>
+                                        </a>
+                                    </div>
+                                    <div class="post-details padding-40px-all md-padding-20px-all">
+                                        <a href="" class="alt-font post-title text-medium text-extra-dark-gray w-100 d-block lg-w-100 margin-15px-bottom">Vest 6</a>
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy....</p>
                                         <div class="separator-line-horrizontal-full bg-medium-gray margin-20px-tb"></div>
                                     </div>
@@ -86,20 +137,18 @@
                     </div>
                 </div>
                 <!-- start pagination -->
-                <div class="text-center margin-100px-top md-margin-50px-top wow animate__fadeInUp" id="pagination">
-                    <div class="pagination text-small text-uppercase text-extra-dark-gray">
-                        <ul class="mx-auto" id="page-list">
-                            <!-- Dodajte Prethodna link, ali postavite ga kao neaktivnog početno -->
-                            <li><a href="#" class="page-link" data-page="1" class="disabled"><i class="fas fa-long-arrow-alt-left margin-5px-right d-none d-md-inline-block"></i> Prethodna</a></li>
-                            <!-- Brojevi stranica će biti generisani dinamički ovde -->
-                            <li><a href="#" class="page-link" data-page="1">1</a></li>
-                            <li><a href="#" class="page-link" data-page="2">2</a></li>
-                            <li><a href="#" class="page-link" data-page="3">3</a></li>
-                            <!-- Dodajte Sledeća link, ali postavite ga kao neaktivnog početno -->
-                            <li><a href="#" class="page-link" data-page="2" class="disabled">Sledeća <i class="fas fa-long-arrow-alt-right margin-5px-left d-none d-md-inline-block"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
+                <ul class="pagination-news">
+                    <?php /*
+                        <li class="page-item previous-page disable"><a class="page-link-news" href="#">Prev</a></li>
+                        <li class="page-item current-page active"><a class="page-link-news" href="#">1</a></li>
+                        <li class="page-item dots"><a class="page-link-news" href="#">...</a></li>
+                        <li class="page-item current-page"><a class="page-link-news" href="#">5</a></li>
+                        <li class="page-item current-page"><a class="page-link-news" href="#">6</a></li>
+                        <li class="page-item dots"><a class="page-link-news" href="#">...</a></li>
+                        <li class="page-item current-page"><a class="page-link-news" href="#">10</a></li>
+                        <li class="page-item next-page"><a class="page-link-news" href="#">Next</a></li>
+                    */ ?>
+                </ul>
                 <!-- end pagination -->
             </div>
         </section>

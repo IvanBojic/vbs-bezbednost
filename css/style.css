@@ -3554,7 +3554,7 @@ aside .instafeed-grid.gutter-extra-large, footer .instafeed-grid.gutter-extra-la
 
 /* Main colors */
 .main-color, li.main-color a {
-    color:#db4513 !important;
+    color:var(--main-color) !important;
 }
 
 /* references post style 3 */
@@ -3579,7 +3579,7 @@ aside .instafeed-grid.gutter-extra-large, footer .instafeed-grid.gutter-extra-la
     border: unset;
 }
 .top-menu .translate-lang {
-    border-right: 1px solid #db4513;
+    border-right: 1px solid var(--main-color);
     padding-left: 0.9rem;
     padding-right: 0.9rem;
 }
@@ -3587,13 +3587,13 @@ aside .instafeed-grid.gutter-extra-large, footer .instafeed-grid.gutter-extra-la
     border: none;
 }
 .top-menu .translate-lang.active{
-    color: #db4513;
+    color: var(--main-color);
 }
 .skiptranslate {
     display: none;
 }
 .nl-link:hover a {
-    color: #db4513;
+    color: var(--main-color);
     transition: all .2s ease-in;
     -moz-transition: all .2s ease-in;
     -webkit-transition: all .2s ease-in;
@@ -3640,11 +3640,55 @@ body.o-nama {
     bottom: 5%; /* Odvojenost od donje strane */
     left: 0; /* Pozicija leva granica */
     width: 1px; /* Širina granice */
-    background-color: #db4513; /* Boja granice (beli) */
+    background-color: var(--main-color); /* Boja granice (beli) */
 }
 .font-large {
     font-size: large;
 }
 .services-list {
     list-style-type: decimal;
+}
+
+
+.pagination-news {
+    text-align: center;
+    margin: 30px 30px 60px;
+    user-select: none;
+}
+.pagination-news li {
+    display: inline-block;
+    margin: 5px;
+    box-shadow: 0 5px 25px rgb(1 1 1 / 10%);
+}
+.pagination-news li a {
+    color: var(--main-color) !important;
+    text-decoration: none;
+    font-size: 1.2em;
+    line-height: 45px;
+}
+.previous-page, .next-page {
+    background: #cccccc;
+    width: 80px;
+    border-radius: 45px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+.previous-page:hover {
+    transform: translateX(-5px);
+}
+.next-page:hover {
+    transform: translateX(5px);
+}
+.current-page, .dots {
+    background: #f7f7f7 !important;
+    width: 45px;
+    border-radius: 50px;
+    cursor: pointer;
+
+}
+.active-news {
+    background: #cccccc !important;
+}
+.disabled-button {
+    background: #f7f7f7;
 }

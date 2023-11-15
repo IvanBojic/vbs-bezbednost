@@ -1883,85 +1883,72 @@
     }
 
     if (window.location.href.indexOf("novosti.php") > -1) {
-        // Funkcija za dinamičko generisanje brojeva stranica i kontrole linkova za Prethodna i Sledeća
-        function generatePagination(numPages, currentPage) {
-            var pageList = document.getElementById('page-list');
-            pageList.innerHTML = '';
-
-            // Dodajte Prethodna link, ali postavite ga kao neaktivnog ako je korisnik na prvoj stranici
-            if (currentPage > 1) {
-                pageList.innerHTML += '<li><a href="#" class="page-link" data-page="' + (currentPage - 1) + '"><i class="fas fa-long-arrow-alt-left margin-5px-right d-none d-md-inline-block"></i> Prethodna</a></li>';
+        function getPageList(totalPages, page, maxLength) {
+            function range(start, end) {
+                return Array.from({ length: end - start + 1 }, (_, index) => index + start);
             }
 
-            // Dodajte brojeve stranica
-            for (var i = 1; i <= numPages; i++) {
-                if (i === currentPage) {
-                    pageList.innerHTML += '<li class="active"><a href="#" class="page-link" data-page="' + i + '">' + i + '</a></li>';
-                } else {
-                    pageList.innerHTML += '<li><a href="#" class="page-link" data-page="' + i + '">' + i + '</a></li>';
-                }
+            var sideWidth = maxLength < 9 ? 1 : 2;
+            var leftWidth = (maxLength - sideWidth * 2 - 3) >> 1;
+            var rightWidth = (maxLength - sideWidth * 2 - 3) >> 1;
+
+            if(totalPages <= maxLength) {
+                return range(1, totalPages);
+            }
+            if(page <= maxLength - sideWidth - 1 - rightWidth) {
+                return (1, maxLength - sideWidth - 1).concat(0, range(totalPages - sideWidth + 1, totalPages));
+            }
+            if(page >= totalPages - sideWidth - 1 - rightWidth) {
+                return (1, sideWidth).concat(0, range(totalPages - sideWidth - 1 - rightWidth - leftWidth, totalPages));
             }
 
-            // Dodajte Sledeća link, ali postavite ga kao neaktivnog ako je korisnik na poslednjoj stranici
-            if (currentPage < numPages) {
-                pageList.innerHTML += '<li><a href="#" class="page-link" data-page="' + (currentPage + 1) + '">Sledeća <i class="fas fa-long-arrow-alt-right margin-5px-left d-none d-md-inline-block"></i></a></li>';
-            }
+            return range(1, sideWidth).concat(0, range(page - leftWidth, page + rightWidth), 0, range(totalPages - sideWidth + 1, totalPages));
         }
 
-        // Funkcija za prikazivanje vesti na određenoj stranici
-        function showPage(pageNumber) {
-            // Sakrijte sve vesti
-            var blogItems = document.querySelectorAll('.blog-grid .grid-item');
-            blogItems.forEach(function(item) {
-                item.style.display = 'none';
-            });
+        $(function (){
+           var numberOfItems = $(".news-content .blog-post").length;
+           var limitPerPage = 6;
+           var totalPages = Math.ceil(numberOfItems / limitPerPage);
+           var paginationSize = 7;
+           var currentPage;
 
-            // Prikazite vesti za odabrani broj stranice
-            var startIndex = (pageNumber - 1) * 4;
-            var endIndex = startIndex + 4;
-            for (var i = startIndex; i < endIndex; i++) {
-                if (blogItems[i]) {
-                    blogItems[i].style.display = 'block';
-                }
-            }
-        }
+           function showPage(whichPage) {
+               if(whichPage < 1 || whichPage > totalPages) return false;
 
-        // Ovaj deo koda dobija sve vesti unutar elementa sa klasom "blog-grid"
-        var blogGrid = document.querySelector('.blog-grid');
-        var blogItems = blogGrid.querySelectorAll('.grid-item');
+               currentPage = whichPage;
 
-        // Broj vesti se postavlja na osnovu broja pronađenih elemenata
-        var numNews = blogItems.length;
+               $(".news-content .blog-post").hide().slice((currentPage - 1) * limitPerPage, currentPage * limitPerPage).show();
+               $(".pagination-news li").slice(1, -1).remove();
 
-        // Broj vesti po stranici
-        var itemsPerPage = 4;
+               getPageList(totalPages, currentPage, paginationSize).forEach(item => {
+                  $("<li>").addClass("page-item").addClass(item ? "current-page" : "dots")
+                      .toggleClass("active-news", item === currentPage).append($("<a>").addClass("page-link-news")
+                      .attr({href: "javascript:void(0)"}).text(item || "...")).insertBefore(".next-page");
+               });
 
-        // Izračunajte broj stranica
-        var numPages = Math.ceil(numNews / itemsPerPage);
+               $(".previous-page").toggleClass("disabled-button", currentPage === 1);
+               $(".next-page").toggleClass("disabled-button", currentPage === totalPages);
+               return true;
+           }
 
-        // Trenutna stranica (pretpostavimo da je korisnik na prvoj stranici početno)
-        var currentPage = 1;
+           $(".pagination-news").append(
+               $("<li>").addClass("page-item").addClass("previous-page").append($("<a>").addClass("page-link-news").attr({href: "javascript:void(0)"}).text("<<")),
+               $("<li>").addClass("page-item").addClass("next-page").append($("<a>").addClass("page-link-news").attr({href: "javascript:void(0)"}).text(">>"))
+           );
 
-        // Pozovite funkciju za generisanje paginacije
-        generatePagination(numPages, currentPage);
+           $(".news-content").show();
+           showPage(1);
 
-        // Postavite događaje za klik na brojeve stranica
-        document.querySelectorAll('.page-link').forEach(function(link) {
-            link.addEventListener('click', function(e) {
-                e.preventDefault();
-                var pageNumber = parseInt(e.target.getAttribute('data-page'));
-                showPage(pageNumber);
-            });
+           $(document).on("click", ".pagination-news li.current-page:not(.active-news)", function () {
+               return showPage(+$(this).text());
+           });
+
+           $(".next-page").on("click", function () {
+               return showPage(currentPage + 1);
+           })
+           $(".previous-page").on("click", function () {
+               return showPage(currentPage - 1);
+           })
         });
-        // Funkcija koja simulira klik na element
-        function simulirajKlik() {
-            var element = document.getElementById('myButton'); // Promenite ID prema vašem elementu
-            if (element) {
-                element.click(); // Simulacija klika
-            }
-        }
-
-        // Poziv funkcije za simulaciju klika prilikom učitavanja stranice
-        window.addEventListener('load', simulirajKlik);
     }
 })(jQuery);
