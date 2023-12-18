@@ -69,31 +69,31 @@
                             <div class="col-12 margin-30px-bottom text-center">                        
                                 <!-- start progress bar item -->
                                 <div class="progress progress-step-style-02 bg-transparent-white2 rounded-0 margin-55px-bottom">
-                                    <span class="progress-title text-extra-small text-uppercase text-dark-gray">1. Fizičko tehnička zaštita - <br>Licenca 03.39 br. 17746 od 28.11.2022. godine</span>
+                                    <span class="progress-title text-extra-small text-uppercase text-white">1. Fizičko tehnička zaštita - <br>Licenca 03.39 br. 17746 od 28.11.2022. godine</span>
                                     <div class="progress-bar bg-gradient-light-red-light-white rounded-0" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                                 <!-- end progress bar item -->
                                 <!-- start  progress bar item -->
                                 <div class="progress progress-step-style-02 bg-transparent-white2 rounded-0 margin-55px-bottom">
-                                    <span class="progress-title text-extra-small text-uppercase text-dark-gray">2. Tehnička zaštita - <br>Licence 03.39 br. 25970, 25971, 25972 od 14.09.2022. godine.</span>
+                                    <span class="progress-title text-extra-small text-uppercase text-white">2. Tehnička zaštita - <br>Licence 03.39 br. 25970, 25971, 25972 od 14.09.2022. godine.</span>
                                     <div class="progress-bar bg-gradient-light-red-light-white rounded-0" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                                 <!-- end progress bar item -->
                                 <!-- start  progress bar item -->
                                 <div class="progress progress-step-style-02 bg-transparent-white2 rounded-0 margin-55px-bottom">
-                                    <span class="progress-title text-extra-small text-uppercase text-dark-gray">3. Centar za obuku službenika obezbeđenja - <br>Ovlašćenje 03.39 br. 01-218/19-1 od 17.12.2019. godine.</span>
+                                    <span class="progress-title text-extra-small text-uppercase text-white">3. Centar za obuku službenika obezbeđenja - <br>Ovlašćenje 03.39 br. 01-218/19-1 od 17.12.2019. godine.</span>
                                     <div class="progress-bar bg-gradient-light-red-light-white rounded-0" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                                 <!-- end progress bar item -->
                                 <!-- start  progress bar item -->
                                 <div class="progress progress-step-style-02 bg-transparent-white2 rounded-0 margin-55px-bottom">
-                                    <span class="progress-title text-extra-small text-uppercase text-dark-gray">4. Procena rizika u zaštiti lica, imovine i poslovanja - <br>Licenca 03.39 br. 17747 od 11.05.2022. godine.</span>
+                                    <span class="progress-title text-extra-small text-uppercase text-white">4. Procena rizika u zaštiti lica, imovine i poslovanja - <br>Licenca 03.39 br. 17747 od 11.05.2022. godine.</span>
                                     <div class="progress-bar bg-gradient-light-red-light-white rounded-0" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                                 <!-- end progress bar item -->
                                 <!-- start  progress bar item -->
                                 <div class="progress progress-step-style-02 bg-transparent-white2 rounded-0">
-                                    <span class="progress-title text-extra-small text-uppercase text-dark-gray">5. Procena rizika od katastrofa i plan zaštite i spasavanja - <br>Ovlašćenje 09 br. 217-752/22 od 30.05.2022. godine.</span>
+                                    <span class="progress-title text-extra-small text-uppercase text-white">5. Procena rizika od katastrofa i plan zaštite i spasavanja - <br>Ovlašćenje 09 br. 217-752/22 od 30.05.2022. godine.</span>
                                     <div class="progress-bar bg-gradient-light-red-light-white rounded-0" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                                 <!-- end progress bar item -->

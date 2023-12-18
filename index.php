@@ -28,29 +28,12 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                                 <div class="opacity-extra-medium bg-black position-relative z-index-1"></div>
                                 <!-- main image -->
                                 <img src="images/img/pocetna.jpg"  alt="Ocean"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg">
-                                <!-- layer nr. 3 -->
-                                <div class="tp-caption NotGeneric-Title tp-resizeme" 
-                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                                     data-y="['middle','middle','middle','middle']" data-voffset="['-115','-110','-90','-90']"
-                                     data-fontsize="['12','12','12','12']"
-                                     data-lineheight="['20','20','20','20']"
-                                     data-width="none"
-                                     data-height="none"
-                                     data-whitespace="nowrap"
-                                     data-type="text" 
-                                     data-responsive_offset="on" 
-                                     data-frames='[{"from":"y:50px;opacity:0;","speed":1000,"to":"o:1;","delay":300,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:2px 2px 2px 2px;"}]'
-                                     data-textAlign="['center','center','center','center']"
-                                     data-paddingtop="[10,10,10,10]"
-                                     data-paddingright="[0,0,0,0]"
-                                     data-paddingbottom="[10,10,10,10]"
-                                     data-paddingleft="[0,0,0,0]"
-                                     style="z-index: 7; white-space: nowrap; text-transform: uppercase; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing:2px;">we work hard, we play hard</div>
+
                                 <!-- layer nr. 4 -->
                                 <div class="tp-caption NotGeneric-SubTitle tp-resizeme " 
                                      data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
                                      data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
-                                     data-fontsize="['70','70','60','50']"
+                                     data-fontsize="['60','60','50','40']"
                                      data-lineheight="['75','75','60','60']"
                                      data-width="none"
                                      data-height="none"
@@ -63,10 +46,10 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                                      data-paddingright="[0,0,0,0]"
                                      data-paddingbottom="[10,10,10,10]"
                                      data-paddingleft="[0,0,0,0]"
-                                     style="z-index: 8; white-space: nowrap; font-family:'Montserrat', sans-serif !important; font-weight: 600; letter-spacing: -1px;">A print & digital<br>creative studio</div>
+                                     style="z-index: 8; white-space: nowrap; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Fizičko - tehnička zaštita</div>
 
                                 <!-- layer nr. 5 -->
-                                <a href="portfolio-full-width-grid-overlay.html" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5" 
+                                <a href="services/usluga-1.php" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5"
                                    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
                                    data-y="['middle','middle','middle','middle']" data-voffset="['130','130','110','110']" 
                                    data-fontsize="['12','14','14','14']"
@@ -82,7 +65,7 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                                    data-paddingright="[26,26,26,26]"
                                    data-paddingbottom="[6,6,6,6]"
                                    data-paddingleft="[26,26,26,26]"
-                                   data-basealign="slide">Explore Work</a>
+                                   data-basealign="slide">Saznajte više</a>
                                 <!-- LAYER NR. 6 -->
                             </li>
                             <!-- slide  -->
@@ -90,34 +73,12 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                                 <div class="opacity-extra-medium bg-black position-relative z-index-1"></div>
                                 <!-- main image -->
                                 <img src="images/img/pocetna2.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
-                                <!-- layer nr. 3 -->
-                                <div class="tp-caption NotGeneric-Title tp-resizeme" 
-                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                                     data-y="['middle','middle','middle','middle']" data-voffset="['-115','-110','-90','-90']"
-                                     data-fontsize="['12','12','12','12']"
-                                     data-lineheight="['20','20','20','20']"
-                                     data-width="none"
-                                     data-height="none"
-                                     data-whitespace="nowrap"
-                                     data-visibility="['on', 'on', 'on', 'on']"
-                                     data-type="text"
-                                     data-color="['#FFF']"
-                                     data-responsive_offset="on" 
-                                     data-responsive="on"
-                                     data-frames='[{"from":"y:50px;opacity:0;","speed":1000,"to":"o:1;","delay":300,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:2px 2px 2px 2px;"}]'
-                                     data-textAlign="['inherit', 'inherit', 'right', 'center']"
-                                     data-paddingtop="[10,10,10,10]"
-                                     data-paddingright="[30,30,30,30]"
-                                     data-paddingbottom="[10,10,10,10]"
-                                     data-paddingleft="[30,30,30,30]"
-                                     data-basealign="slide" 
-                                     style="z-index: 7; white-space: nowrap; text-transform: uppercase; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing:2px;">we work hard, we play hard</div>
 
                                 <!-- layer nr. 4 -->
                                 <div class="tp-caption NotGeneric-SubTitle tp-resizeme " 
                                      data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
                                      data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
-                                     data-fontsize="['70','70','60','50']"
+                                     data-fontsize="['60','60','50','40']"
                                      data-lineheight="['75','75','60','60']"
                                      data-width="none"
                                      data-height="none"
@@ -134,9 +95,9 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                                      data-paddingbottom="[10,10,10,10]"
                                      data-paddingleft="[30,30,30,30]"
                                      data-basealign="slide" 
-                                     style="z-index: 8; white-space: nowrap; font-family:'Montserrat', sans-serif !important; font-weight: 600; letter-spacing: -1px;">We are a web<br>design agency</div>
+                                     style="z-index: 8; white-space: nowrap; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Tehnička zaštita</div>
                                 <!-- layer nr. 5 -->
-                                <a href="portfolio-full-width-grid-overlay.html" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5" 
+                                <a href="services/usluga-2.php" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5"
                                    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
                                    data-y="['middle','middle','middle','middle']" data-voffset="['130','130','110','110']" 
                                    data-fontsize="['12','14','14','14']"
@@ -152,41 +113,19 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                                    data-paddingright="[26,26,26,26]"
                                    data-paddingbottom="[6,6,6,6]"
                                    data-paddingleft="[26,26,26,26]"
-                                   data-basealign="slide">Explore Work</a>
+                                   data-basealign="slide">Saznajte više</a>
                                 <!-- layer nr. 6 -->
                             </li>
                             <li data-index="rs-3" data-transition="fade" data-slotamount="3" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="500"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                                 <div class="opacity-extra-medium bg-black position-relative z-index-1"></div>
                                 <!-- main image -->
                                 <img src="images/img/pocetna3.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
-                                <!-- layer nr. 3 -->
-                                <div class="tp-caption NotGeneric-Title tp-resizeme" 
-                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                                     data-y="['middle','middle','middle','middle']" data-voffset="['-115','-110','-90','-90']"
-                                     data-fontsize="['12','12','12','12']"
-                                     data-lineheight="['20','20','20','20']"
-                                     data-width="none"
-                                     data-height="none"
-                                     data-whitespace="nowrap"
-                                     data-visibility="['on', 'on', 'on', 'on']"
-                                     data-type="text"
-                                     data-color="['#FFF']"
-                                     data-responsive_offset="on" 
-                                     data-responsive="on"
-                                     data-frames='[{"from":"y:50px;opacity:0;","speed":1000,"to":"o:1;","delay":300,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:2px 2px 2px 2px;"}]'
-                                     data-textAlign="['inherit', 'inherit', 'right', 'center']"
-                                     data-paddingtop="[10,10,10,10]"
-                                     data-paddingright="[30,30,30,30]"
-                                     data-paddingbottom="[10,10,10,10]"
-                                     data-paddingleft="[30,30,30,30]"
-                                     data-basealign="slide" 
-                                     style="z-index: 7; white-space: nowrap; text-transform: uppercase; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing:2px;">we work hard, we play hard</div>
 
                                 <!-- layer nr. 4 -->
                                 <div class="tp-caption NotGeneric-SubTitle tp-resizeme " 
                                      data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
                                      data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
-                                     data-fontsize="['70','70','60','50']"
+                                     data-fontsize="['60','60','50','40']"
                                      data-lineheight="['75','75','60','60']"
                                      data-width="none"
                                      data-height="none"
@@ -203,11 +142,11 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                                      data-paddingbottom="[10,10,10,10]"
                                      data-paddingleft="[30,30,30,30]"
                                      data-basealign="slide" 
-                                     style="z-index: 8; white-space: nowrap; font-family:'Montserrat', sans-serif !important; font-weight: 600; letter-spacing: -1px;">We are delivering<br>beautiful products</div>
+                                     style="z-index: 8; white-space: nowrap; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Centar za obuku <br>službenika obezbeđenja</div>
 
                                 <!-- layer nr. 5 -->
                                 <!-- layer nr. 5 -->
-                                <a href="portfolio-full-width-grid-overlay.html" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5" 
+                                <a href="services/usluga-3.php" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5"
                                    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
                                    data-y="['middle','middle','middle','middle']" data-voffset="['130','130','110','110']" 
                                    data-fontsize="['12','14','14','14']"
@@ -223,7 +162,7 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                                    data-paddingright="[26,26,26,26]"
                                    data-paddingbottom="[6,6,6,6]"
                                    data-paddingleft="[26,26,26,26]"
-                                   data-basealign="slide">Explore Work</a>
+                                   data-basealign="slide">Saznajte više</a>
                                 <!-- layer nr. 6 -->
                             </li>
                         </ul>
@@ -233,7 +172,7 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
             </article>
         </section>
         <!-- end slider section -->
-        <!-- start about section --> 
+        <!-- start O NAMA section -->
         <section class="wow animate__fadeIn overflow-hidden cover-background md-no-background-img bg-medium-light-gray row-margin-15-top" style="background: url('images/img/about_us.jpg')">
             <div class="container">
                 <div class="row"> 
@@ -241,22 +180,33 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                         <div class="row m-0">
                             <div class="col-12 text-center text-lg-start sm-no-padding-lr last-paragraph-no-margin margin-60px-bottom md-margin-30px-bottom">
                                 <h5 class="alt-font text-extra-dark-gray font-weight-600">Ukratko o nama</h5>
-                                <p class="w-90 md-w-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the 's standard dummy text. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum is simply dummy text.</p>
+                                <p class="w-90 md-w-100">
+                                    <strong>Valjaonica - Bezbednost d.o.o.</strong> kao specijalizovano pravno lice u oblasti
+                                    privatnog obezbeđenja sa tradicijom dugom blizu 20 godina svoje poslovanje zasniva se na znanju,
+                                    iskustvu i predanom radu svakog zaposlenog.
+                                    Profesionalan i odgovoran pristup prema korisnicima usluga su temelj našeg uspeha.
+                                </p>
                             </div>
                         </div>
                         <div class="row row-cols-1 row-cols-lg-2 row-cols-sm-2 m-0">
                             <!-- start features box item -->
                             <div class="col text-center text-lg-start xs-margin-40px-bottom xs-no-padding-lr wow animate__fadeInUp last-paragraph-no-margin">
                                 <i class="icon-tools icon-extra-medium text-deep-pink margin-20px-bottom"></i>
-                                <div class="alt-font text-extra-dark-gray font-weight-600 margin-5px-bottom">Modern Framework</div>
-                                <p class="d-inline-block w-80 lg-w-90 md-w-100 xs-w-90">Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
+                                <div class="alt-font text-extra-dark-gray font-weight-600 margin-5px-bottom">Misija</div>
+                                <p class="d-inline-block w-80 lg-w-90 md-w-100 xs-w-90">
+                                    Misija naše kompanije je stvaranje bezbednog i sigurnog poslovnog okruženja uz
+                                    profesionalan i odgovoran pristup prema korisnicima usluga i naravno, njihovo zadovoljstvo.
+                                </p>
                             </div>
                             <!-- end features box item -->
                             <!-- start features box item -->
                             <div class="col text-center text-lg-start xs-no-padding-lr wow animate__fadeInUp last-paragraph-no-margin" data-wow-delay="0.2s">
                                 <i class="icon-layers icon-extra-medium text-deep-pink margin-20px-bottom"></i>
-                                <div class="alt-font text-extra-dark-gray font-weight-600 margin-5px-bottom">Live Website Builder</div>
-                                <p class="d-inline-block w-80 lg-w-90 md-w-100 xs-w-90">Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
+                                <div class="alt-font text-extra-dark-gray font-weight-600 margin-5px-bottom">Vizija</div>
+                                <p class="d-inline-block w-80 lg-w-90 md-w-100 xs-w-90">
+                                    Vizija naše kompanije je razvoj i širenje usluga u oblasti korporativne bezbednosti i
+                                    dominantna pozicija na tržištu zapadne Srbije u svojoj delatnosti.
+                                </p>
                             </div>
                             <!-- end features box item -->
                         </div>
@@ -264,9 +214,9 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                 </div>
             </div>
         </section>
-        <!-- end about section -->
+        <!-- end O NAMA section -->
         <!-- start parallax feature box -->
-        <section class="p-0 wow animate__fadeIn bg-light-gray">
+        <?php /* <section class="p-0 wow animate__fadeIn bg-light-gray">
             <div class="container-fluid">
                 <div class="row row-margin-15-top row-margin-15-bottom row-cols-1 row-cols-lg-2">
                     <div class="col wow animate__fadeInLeft padding-four-all md-padding-eight-all md-padding-15px-lr sm-padding-50px-tb">
@@ -342,9 +292,9 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                     <div class="col cover-background md-h-400px wow animate__fadeInRight" style="background-image:url('https://via.placeholder.com/945x663');"></div>
                 </div>
             </div>
-        </section>
+        </section> */ ?>
         <!-- end parallax feature box -->   
-        <!-- start services section -->
+        <!-- start USLUGE section -->
         <section class="wow animate__fadeIn">
             <div class="container">
                 <div class="row">
@@ -428,7 +378,7 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                                         </div>
                                         <figcaption>
                                             <div class="text-center margin-25px-top">
-                                                <div class="text-extra-dark-gray alt-font font-weight-600">Procena rizika u zaštiti lica, imovine i poslovanja</div>
+                                                <div class="text-extra-dark-gray alt-font font-weight-600">Procena rizika u zaštiti lica, imovine i poslovanja i plan obezbeđenja</div>
                                             </div>
                                         </figcaption>
                                     </a>
@@ -438,28 +388,9 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                             <!-- start services item -->
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
                                 <figure>
-                                    <div class="feature-box-content sm-w-100">
-                                        <div class="feature-box-image"><img src="images/img/usluga5.jpg" alt=""></div>
-                                        <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
-                                            <div class="padding-twelve-lr">
-                                                <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <figcaption>
-                                        <div class="text-center margin-25px-top">
-                                            <div class="text-extra-dark-gray alt-font font-weight-600">Plan obezbeđenja </div>
-                                        </div>
-                                    </figcaption>
-                                </figure>
-                            </div>
-                            <!-- end services item -->
-                            <!-- start services item -->
-                            <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
-                                <figure>
                                     <a href="services/usluga-6.php">
                                         <div class="feature-box-content sm-w-100">
-                                            <div class="feature-box-image"><img src="images/img/usluga6.jpg" alt=""></div>
+                                            <div class="feature-box-image"><img src="images/img/usluga5.jpg" alt=""></div>
                                             <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                                 <div class="padding-twelve-lr">
                                                     <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
@@ -479,7 +410,7 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
                                 <figure>
                                     <div class="feature-box-content sm-w-100">
-                                        <div class="feature-box-image"><img src="images/img/usluga5.jpg" alt=""></div>
+                                        <div class="feature-box-image"><img src="images/img/usluga6.jpg" alt=""></div>
                                         <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                             <div class="padding-twelve-lr">
                                                 <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
@@ -498,7 +429,7 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
                                 <figure>
                                     <div class="feature-box-content sm-w-100">
-                                        <div class="feature-box-image"><img src="images/img/usluga5.jpg" alt=""></div>
+                                        <div class="feature-box-image"><img src="images/img/usluga7.jpg" alt=""></div>
                                         <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                             <div class="padding-twelve-lr">
                                                 <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
@@ -518,9 +449,9 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                 </div>
             </div>
         </section>
-        <!-- end services section -->
+        <!-- end USLUGE section -->
         <!-- start video section -->
-        <section class="parallax" data-parallax-background-ratio="0" style="background-image:url('images/img/video_baner.jpg');">
+        <?php /* <section class="parallax" data-parallax-background-ratio="0" style="background-image:url('images/img/video_baner.jpg');">
             <div class="opacity-full bg-extra-dark-gray"></div>
             <div class="container position-relative">
                 <div class="row justify-content-center">
@@ -532,18 +463,25 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                     </div>
                 </div>
             </div>
-        </section>
+        </section> */ ?>
         <!-- end video section -->
-        <!-- start references slider section  -->
-        <section class="wow animate__fadeIn">
+        <!-- start REFERENCE section  -->
+        <section class="border-top border-color-extra-light-gray wow animate__fadeIn">
             <div class="container text-center">
+                <div class="row">
+                    <div class="col-12 text-center margin-100px-bottom md-margin-70px-bottom sm-margin-50px-bottom">
+                        <!--                        <div class="alt-font margin-5px-bottom text-uppercase text-small text-medium-gray">What We Do</div>-->
+                        <h5 class="text-uppercase alt-font text-extra-dark-gray margin-20px-bottom font-weight-700 md-w-100">Reference</h5>
+                        <span class="separator-line-horrizontal-medium-light2 bg-deep-pink d-table mx-auto w-100px"></span>
+                    </div>
+                </div>
                 <div class="row">
                     <div class="col-12 position-relative">
                         <div class="swiper-container text-center black-move wow animate__fadeIn" data-slider-options='{ "slidesPerView": "1", "loop":false, "allowTouchMove":true, "autoplay": { "delay": 3000, "disableOnInteraction": false}, "keyboard": { "enabled": true, "onlyInViewport": true }, "navigation": { "nextEl": ".swiper-button-next-1", "prevEl": ".swiper-button-prev-1" }, "pagination": { "el": ".swiper-pagination-1", "clickable": true }, "breakpoints": { "1200":{ "slidesPerView":"5" }, "992": { "slidesPerView":"4" }, "768": { "slidesPerView":"4" } } }'>
                             <div class="swiper-wrapper">
                                 <!-- start slide -->
                                 <?php foreach ($slike as $slika) { ?>
-                                    <div class="swiper-slide"><img src="<?= $slika['path']; ?>" alt=""><span class="text-small font-weight-300"><?= $slika['title']; ?></span></div>
+                                    <div class="swiper-slide"><img src="<?= $slika['path']; ?>" alt=""><span class="text-medium font-weight-300"><?= $slika['title']; ?></span></div>
                                 <?php }  ?>
                                 <!-- end slide -->
                                 <?php /*
@@ -576,8 +514,8 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                 </div>
             </div>
         </section>
-        <!-- end clients slider section -->
-        <!-- start latest blog section  -->
+        <!-- end REFERENCE section -->
+        <!-- start NOVOSTI section  -->
         <section class="border-top border-color-extra-light-gray wow animate__fadeIn">
             <div class="container">
                 <div class="row">
@@ -660,7 +598,7 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                 </div>
             </div>
         </section>
-        <!-- end latest blog section -->
+        <!-- end NOVOSTI section -->
     <?php
     /* Including footer */
     include 'footer.php';

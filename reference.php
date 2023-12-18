@@ -39,7 +39,7 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                                     <div class="blog-post bg-light-gray">
                                         <div class="blog-post-images overflow-hidden position-relative">
                                                 <img src="<?= $slika['path']; ?>" alt="">
-                                                <div class="references-hover-icon-hover-icon"><span class="text-small font-weight-300"><?= $slika['title']; ?></span></div>
+                                                <div class="references-hover-icon-hover-icon"><span class="text-medium font-weight-300"><?= $slika['title']; ?></span></div>
                                         </div>
                                     </div>
                                 </li>

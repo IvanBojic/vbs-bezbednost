@@ -2784,7 +2784,6 @@
     header .sidebar-part2 nav.navbar.bootsnav ul.second-level li.active > a, header .sidebar-part2 nav.navbar.bootsnav ul.second-level li.active ul li.active > a { color: var(--base-color) !important; }
     header .sidebar-part2 nav.navbar.bootsnav ul > li > a > .fas { top: -4px; }
     nav.navbar .container-fluid { position: initial;}
-    .header-with-topbar .navbar-top {top: 45px}
     #search-header {width: 75%}
     header nav.nav-box-width.navbar-default, header nav.nav-box-width { padding: 0 25px; }
     .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm, .navbar>.container-xl, .navbar>.container-xxl, .top-header-area>.container-lg, .top-header-area>.container-md, .top-header-area>.container-sm, .top-header-area>.container-xl, .top-header-area>.container-xxl { padding-left: 40px; padding-right: 40px; }
