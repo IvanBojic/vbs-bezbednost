@@ -50,8 +50,7 @@
                                 <li>Fizičko - tehnička zaštita</li>
                                 <li>Tehnička zaštita</li>
                                 <li>Centar za obuku službenika obezbeđenja</li>
-                                <li>Procena rizika u zaštiti lica, imovine i poslovanja</li>
-                                <li>Plan obezbeđenja</li>
+                                <li>Procena rizika u zaštiti lica, imovine i poslovanja i plan obezbeđenja</li>
                                 <li>Procena rizika od katastrofa i plan zaštite i spasavanja</li>
                                 <li>Alkotestiranje zaposlenih</li>
                                 <li>Usluge merenja - kontrolna vaga</li>
@@ -87,7 +86,7 @@
                                 <!-- end progress bar item -->
                                 <!-- start  progress bar item -->
                                 <div class="progress progress-step-style-02 bg-transparent-white2 rounded-0 margin-55px-bottom">
-                                    <span class="progress-title text-extra-small text-uppercase text-white">4. Procena rizika u zaštiti lica, imovine i poslovanja - <br>Licenca 03.39 br. 17747 od 11.05.2022. godine.</span>
+                                    <span class="progress-title text-extra-small text-uppercase text-white">4. Procena rizika u zaštiti lica, imovine i poslovanja i plan obezbeđenja - <br>Licenca 03.39 br. 17747 od 11.05.2022. godine.</span>
                                     <div class="progress-bar bg-gradient-light-red-light-white rounded-0" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                                 <!-- end progress bar item -->

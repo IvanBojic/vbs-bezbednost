@@ -484,31 +484,7 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                                     <div class="swiper-slide"><img src="<?= $slika['path']; ?>" alt=""><span class="text-medium font-weight-300"><?= $slika['title']; ?></span></div>
                                 <?php }  ?>
                                 <!-- end slide -->
-                                <?php /*
-                                <!-- start slide -->
-                                <div class="swiper-slide"><a href="https://www.woocommerce.com"><img src="images/logo-2.png" alt=""></a></div>
-                                <!-- end slide -->
-                                <!-- start slide -->
-                                <div class="swiper-slide"><a href="https://www.wordpress.com"><img src="images/logo-3.png" alt=""></a></div>
-                                <!-- end slide -->
-                                <!-- start slide -->
-                                <div class="swiper-slide"><a href="https://www.magento.com"><img src="images/logo-4.png" alt=""></a></div>
-                                <!-- end slide -->
-                                <!-- start slide -->
-                                <div class="swiper-slide"><a href="https://www.sass-lang.com"><img src="images/logo-5.png" alt=""></a></div>
-                                <!-- end slide -->
-                                <!-- start slide -->
-                                <div class="swiper-slide"><a href="https://www.pingdom.com"><img src="images/logo-6.png" alt=""></a></div>
-                                <!-- end slide -->
-                                <!-- start slide -->
-                                <div class="swiper-slide"><a href="https://www.lesscss.org"><img src="images/logo-7.png" alt=""></a></div>
-                                <!-- end slide -->
-                                <!-- start slide -->
-                                <div class="swiper-slide"><a href="https://www.jquery.com"><img src="images/logo-8.png" alt=""></a></div>
-                                <!-- end slide -->
-                                */ ?>
                             </div>
-                            <!-- <div class="swiper-pagination"></div> -->
                         </div>
                     </div>    
                 </div>
