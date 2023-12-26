@@ -165,6 +165,202 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                                    data-basealign="slide">Saznajte više</a>
                                 <!-- layer nr. 6 -->
                             </li>
+                            <li data-index="rs-4" data-transition="fade" data-slotamount="3" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="500"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                                <div class="opacity-extra-medium bg-black position-relative z-index-1"></div>
+                                <!-- main image -->
+                                <img src="images/img/pocetna3.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
+
+                                <!-- layer nr. 4 -->
+                                <div class="tp-caption NotGeneric-SubTitle tp-resizeme "
+                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                                     data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
+                                     data-fontsize="['60','60','50','40']"
+                                     data-lineheight="['75','75','60','60']"
+                                     data-width="none"
+                                     data-height="none"
+                                     data-whitespace="nowrap"
+                                     data-visibility="['on', 'on', 'on', 'on']"
+                                     data-type="button"
+                                     data-color="['#FFF']"
+                                     data-responsive_offset="on"
+                                     data-responsive="on"
+                                     data-frames='[{"from":"y:50px;opacity:0;","speed":1500,"to":"o:1;","delay":600,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:2px 2px 2px 2px;"}]'
+                                     data-textAlign="['center', 'center', 'center', 'center']"
+                                     data-paddingtop="[10,10,10,10]"
+                                     data-paddingright="[30,30,30,30]"
+                                     data-paddingbottom="[10,10,10,10]"
+                                     data-paddingleft="[30,30,30,30]"
+                                     data-basealign="slide"
+                                     style="z-index: 8; white-space: nowrap; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Procena rizika u zaštiti lica, imovine <br> i poslovanja i plan obezbeđenja</div>
+
+                                <!-- layer nr. 5 -->
+                                <!-- layer nr. 5 -->
+                                <a href="services/usluga-4.php" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5"
+                                   data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                                   data-y="['middle','middle','middle','middle']" data-voffset="['130','130','110','110']"
+                                   data-fontsize="['12','14','14','14']"
+                                   data-whitespace="nowrap"
+                                   data-visibility="['on', 'on', 'on', 'on']"
+                                   data-type="text"
+                                   data-color="['#FFFFFF']"
+                                   data-responsive_offset="on"
+                                   data-responsive="on"
+                                   data-frames='[{"from":"y:150px;opacity:0;","speed":1500,"to":"o:1;","delay":900,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bc:rgba(255, 255, 255, 1.00);bw:2px 2px 2px 2px;"}]'
+                                   data-textAlign="['inherit', 'inherit', 'right', 'center']"
+                                   data-paddingtop="[6,6,6,6]"
+                                   data-paddingright="[26,26,26,26]"
+                                   data-paddingbottom="[6,6,6,6]"
+                                   data-paddingleft="[26,26,26,26]"
+                                   data-basealign="slide">Saznajte više</a>
+                                <!-- layer nr. 6 -->
+                            </li>
+                            <li data-index="rs-5" data-transition="fade" data-slotamount="3" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="500"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                                <div class="opacity-extra-medium bg-black position-relative z-index-1"></div>
+                                <!-- main image -->
+                                <img src="images/img/pocetna3.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
+
+                                <!-- layer nr. 4 -->
+                                <div class="tp-caption NotGeneric-SubTitle tp-resizeme "
+                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                                     data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
+                                     data-fontsize="['60','60','50','40']"
+                                     data-lineheight="['75','75','60','60']"
+                                     data-width="none"
+                                     data-height="none"
+                                     data-whitespace="nowrap"
+                                     data-visibility="['on', 'on', 'on', 'on']"
+                                     data-type="button"
+                                     data-color="['#FFF']"
+                                     data-responsive_offset="on"
+                                     data-responsive="on"
+                                     data-frames='[{"from":"y:50px;opacity:0;","speed":1500,"to":"o:1;","delay":600,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:2px 2px 2px 2px;"}]'
+                                     data-textAlign="['center', 'center', 'center', 'center']"
+                                     data-paddingtop="[10,10,10,10]"
+                                     data-paddingright="[30,30,30,30]"
+                                     data-paddingbottom="[10,10,10,10]"
+                                     data-paddingleft="[30,30,30,30]"
+                                     data-basealign="slide"
+                                     style="z-index: 8; white-space: nowrap; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Procena rizika od katastrofa <br> i plan zaštite i spasavanja</div>
+
+                                <!-- layer nr. 5 -->
+                                <!-- layer nr. 5 -->
+                                <a href="services/usluga-6.php" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5"
+                                   data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                                   data-y="['middle','middle','middle','middle']" data-voffset="['130','130','110','110']"
+                                   data-fontsize="['12','14','14','14']"
+                                   data-whitespace="nowrap"
+                                   data-visibility="['on', 'on', 'on', 'on']"
+                                   data-type="text"
+                                   data-color="['#FFFFFF']"
+                                   data-responsive_offset="on"
+                                   data-responsive="on"
+                                   data-frames='[{"from":"y:150px;opacity:0;","speed":1500,"to":"o:1;","delay":900,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bc:rgba(255, 255, 255, 1.00);bw:2px 2px 2px 2px;"}]'
+                                   data-textAlign="['inherit', 'inherit', 'right', 'center']"
+                                   data-paddingtop="[6,6,6,6]"
+                                   data-paddingright="[26,26,26,26]"
+                                   data-paddingbottom="[6,6,6,6]"
+                                   data-paddingleft="[26,26,26,26]"
+                                   data-basealign="slide">Saznajte više</a>
+                                <!-- layer nr. 6 -->
+                            </li>
+                            <li data-index="rs-6" data-transition="fade" data-slotamount="3" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="500"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                                <div class="opacity-extra-medium bg-black position-relative z-index-1"></div>
+                                <!-- main image -->
+                                <img src="images/img/pocetna3.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
+
+                                <!-- layer nr. 4 -->
+                                <div class="tp-caption NotGeneric-SubTitle tp-resizeme "
+                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                                     data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
+                                     data-fontsize="['60','60','50','40']"
+                                     data-lineheight="['75','75','60','60']"
+                                     data-width="none"
+                                     data-height="none"
+                                     data-whitespace="nowrap"
+                                     data-visibility="['on', 'on', 'on', 'on']"
+                                     data-type="button"
+                                     data-color="['#FFF']"
+                                     data-responsive_offset="on"
+                                     data-responsive="on"
+                                     data-frames='[{"from":"y:50px;opacity:0;","speed":1500,"to":"o:1;","delay":600,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:2px 2px 2px 2px;"}]'
+                                     data-textAlign="['center', 'center', 'center', 'center']"
+                                     data-paddingtop="[10,10,10,10]"
+                                     data-paddingright="[30,30,30,30]"
+                                     data-paddingbottom="[10,10,10,10]"
+                                     data-paddingleft="[30,30,30,30]"
+                                     data-basealign="slide"
+                                     style="z-index: 8; white-space: nowrap; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Alkotestiranje zaposlenih</div>
+
+                                <!-- layer nr. 5 -->
+                                <!-- layer nr. 5 -->
+                                <a href="services/usluga-7.php" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5"
+                                   data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                                   data-y="['middle','middle','middle','middle']" data-voffset="['130','130','110','110']"
+                                   data-fontsize="['12','14','14','14']"
+                                   data-whitespace="nowrap"
+                                   data-visibility="['on', 'on', 'on', 'on']"
+                                   data-type="text"
+                                   data-color="['#FFFFFF']"
+                                   data-responsive_offset="on"
+                                   data-responsive="on"
+                                   data-frames='[{"from":"y:150px;opacity:0;","speed":1500,"to":"o:1;","delay":900,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bc:rgba(255, 255, 255, 1.00);bw:2px 2px 2px 2px;"}]'
+                                   data-textAlign="['inherit', 'inherit', 'right', 'center']"
+                                   data-paddingtop="[6,6,6,6]"
+                                   data-paddingright="[26,26,26,26]"
+                                   data-paddingbottom="[6,6,6,6]"
+                                   data-paddingleft="[26,26,26,26]"
+                                   data-basealign="slide">Saznajte više</a>
+                                <!-- layer nr. 6 -->
+                            </li>
+                            <li data-index="rs-7" data-transition="fade" data-slotamount="3" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="500"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                                <div class="opacity-extra-medium bg-black position-relative z-index-1"></div>
+                                <!-- main image -->
+                                <img src="images/img/pocetna3.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
+
+                                <!-- layer nr. 4 -->
+                                <div class="tp-caption NotGeneric-SubTitle tp-resizeme "
+                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                                     data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
+                                     data-fontsize="['60','60','50','40']"
+                                     data-lineheight="['75','75','60','60']"
+                                     data-width="none"
+                                     data-height="none"
+                                     data-whitespace="nowrap"
+                                     data-visibility="['on', 'on', 'on', 'on']"
+                                     data-type="button"
+                                     data-color="['#FFF']"
+                                     data-responsive_offset="on"
+                                     data-responsive="on"
+                                     data-frames='[{"from":"y:50px;opacity:0;","speed":1500,"to":"o:1;","delay":600,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:2px 2px 2px 2px;"}]'
+                                     data-textAlign="['center', 'center', 'center', 'center']"
+                                     data-paddingtop="[10,10,10,10]"
+                                     data-paddingright="[30,30,30,30]"
+                                     data-paddingbottom="[10,10,10,10]"
+                                     data-paddingleft="[30,30,30,30]"
+                                     data-basealign="slide"
+                                     style="z-index: 8; white-space: nowrap; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Usluge merenja -<br>kontrolna vaga</div>
+
+                                <!-- layer nr. 5 -->
+                                <!-- layer nr. 5 -->
+                                <a href="services/usluga-8.php" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5"
+                                   data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                                   data-y="['middle','middle','middle','middle']" data-voffset="['130','130','110','110']"
+                                   data-fontsize="['12','14','14','14']"
+                                   data-whitespace="nowrap"
+                                   data-visibility="['on', 'on', 'on', 'on']"
+                                   data-type="text"
+                                   data-color="['#FFFFFF']"
+                                   data-responsive_offset="on"
+                                   data-responsive="on"
+                                   data-frames='[{"from":"y:150px;opacity:0;","speed":1500,"to":"o:1;","delay":900,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bc:rgba(255, 255, 255, 1.00);bw:2px 2px 2px 2px;"}]'
+                                   data-textAlign="['inherit', 'inherit', 'right', 'center']"
+                                   data-paddingtop="[6,6,6,6]"
+                                   data-paddingright="[26,26,26,26]"
+                                   data-paddingbottom="[6,6,6,6]"
+                                   data-paddingleft="[26,26,26,26]"
+                                   data-basealign="slide">Saznajte više</a>
+                                <!-- layer nr. 6 -->
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -310,57 +506,63 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                             <!-- start services item -->
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
                                 <figure>
-                                    <div class="feature-box-content sm-w-100">
-                                        <div class="feature-box-image"><img src="images/img/usluga1.jpg" alt=""></div>
-                                        <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
-                                            <div class="padding-twelve-lr">
-                                                <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                    <a href="services/usluga-1.php">
+                                        <div class="feature-box-content sm-w-100">
+                                            <div class="feature-box-image"><img src="images/img/usluga1.jpg" alt=""></div>
+                                            <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
+                                                <div class="padding-twelve-lr">
+                                                    <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <figcaption>
-                                        <div class="text-center margin-25px-top">
-                                            <div class="text-extra-dark-gray alt-font font-weight-600">Fizičko - tehnička zaštita</div>
-                                        </div>
-                                    </figcaption>
+                                        <figcaption>
+                                            <div class="text-center margin-25px-top">
+                                                <div class="text-extra-dark-gray alt-font font-weight-600">Fizičko - tehnička zaštita</div>
+                                            </div>
+                                        </figcaption>
+                                    </a>
                                 </figure>
                             </div>
                             <!-- end services item -->
                             <!-- start services item -->
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.2s">
                                 <figure>
-                                    <div class="feature-box-content sm-w-100">
-                                        <div class="feature-box-image"><img src="images/img/usluga2.jpg" alt=""></div>
-                                        <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
-                                            <div class="padding-twelve-lr">
-                                                <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                    <a href="services/usluga-2.php">
+                                        <div class="feature-box-content sm-w-100">
+                                            <div class="feature-box-image"><img src="images/img/usluga2.jpg" alt=""></div>
+                                            <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
+                                                <div class="padding-twelve-lr">
+                                                    <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <figcaption>
-                                        <div class="text-center margin-25px-top">
-                                            <div class="text-extra-dark-gray alt-font font-weight-600">Tehnička zaštita</div>
-                                        </div>
-                                    </figcaption>
+                                        <figcaption>
+                                            <div class="text-center margin-25px-top">
+                                                <div class="text-extra-dark-gray alt-font font-weight-600">Tehnička zaštita</div>
+                                            </div>
+                                        </figcaption>
+                                    </a>
                                 </figure>
                             </div>
                             <!-- end services item -->
                             <!-- start services item -->
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
                                 <figure>
-                                    <div class="feature-box-content sm-w-100">
-                                        <div class="feature-box-image"><img src="images/img/usluga3.jpg" alt=""></div>
-                                        <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
-                                            <div class="padding-twelve-lr">
-                                                <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                    <a href="services/usluga-3.php">
+                                        <div class="feature-box-content sm-w-100">
+                                            <div class="feature-box-image"><img src="images/img/usluga3.jpg" alt=""></div>
+                                            <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
+                                                <div class="padding-twelve-lr">
+                                                    <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <figcaption>
-                                        <div class="text-center margin-25px-top">
-                                            <div class="text-extra-dark-gray alt-font font-weight-600">Centar za obuku službenika obezbeđenja</div>
-                                        </div>
-                                    </figcaption>
+                                        <figcaption>
+                                            <div class="text-center margin-25px-top">
+                                                <div class="text-extra-dark-gray alt-font font-weight-600">Centar za obuku službenika obezbeđenja</div>
+                                            </div>
+                                        </figcaption>
+                                    </a>
                                 </figure>
                             </div>
                             <!-- end services item -->
@@ -409,38 +611,42 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                             <!-- start services item -->
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
                                 <figure>
-                                    <div class="feature-box-content sm-w-100">
-                                        <div class="feature-box-image"><img src="images/img/usluga6.jpg" alt=""></div>
-                                        <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
-                                            <div class="padding-twelve-lr">
-                                                <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                    <a href="services/usluga-7.php">
+                                        <div class="feature-box-content sm-w-100">
+                                            <div class="feature-box-image"><img src="images/img/usluga6.jpg" alt=""></div>
+                                            <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
+                                                <div class="padding-twelve-lr">
+                                                    <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <figcaption>
-                                        <div class="text-center margin-25px-top">
-                                            <div class="text-extra-dark-gray alt-font font-weight-600">Alkotestiranje zaposlenih</div>
-                                        </div>
-                                    </figcaption>
+                                        <figcaption>
+                                            <div class="text-center margin-25px-top">
+                                                <div class="text-extra-dark-gray alt-font font-weight-600">Alkotestiranje zaposlenih</div>
+                                            </div>
+                                        </figcaption>
+                                    </a>
                                 </figure>
                             </div>
                             <!-- end services item -->
                             <!-- start services item -->
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
                                 <figure>
-                                    <div class="feature-box-content sm-w-100">
-                                        <div class="feature-box-image"><img src="images/img/usluga7.jpg" alt=""></div>
-                                        <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
-                                            <div class="padding-twelve-lr">
-                                                <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                    <a href="services/usluga-8.php">
+                                        <div class="feature-box-content sm-w-100">
+                                            <div class="feature-box-image"><img src="images/img/usluga7.jpg" alt=""></div>
+                                            <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
+                                                <div class="padding-twelve-lr">
+                                                    <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                                </div>
                                             </div>
                                         </div>
-                                    </div>
-                                    <figcaption>
-                                        <div class="text-center margin-25px-top">
-                                            <div class="text-extra-dark-gray alt-font font-weight-600">Usluge merenja - kontrolna vaga</div>
-                                        </div>
-                                    </figcaption>
+                                        <figcaption>
+                                            <div class="text-center margin-25px-top">
+                                                <div class="text-extra-dark-gray alt-font font-weight-600">Usluge merenja - kontrolna vaga</div>
+                                            </div>
+                                        </figcaption>
+                                    </a>
                                 </figure>
                             </div>
                             <!-- end services item -->
