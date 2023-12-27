@@ -9,34 +9,6 @@ email:      info@themepunch.com
 website:    http://www.themepunch.com
 -----------------------------------------------------------------------------*/
 /* ARROWS */
-.zeus.tparrows {
-  cursor:pointer;
-  min-width:70px;
-  min-height:70px;
-  position:absolute;
-  display:block;
-  z-index:100;
-  border-radius:35px;   
-  overflow:hidden;
-  background:rgba(0,0,0,0.10);
-}
-
-.zeus.tparrows:before {
-  font-family: "revicons";
-  font-size:20px;
-  color:#fff;
-  display:block;
-  line-height: 70px;
-  text-align: center;    
-  z-index:2;
-  position:relative;
-}
-.zeus.tparrows.tp-leftarrow:before {
-  content: "\e824";
-}
-.zeus.tparrows.tp-rightarrow:before {
-  content: "\e825";
-}
 
 .zeus .tp-title-wrap {
   background:#000;
@@ -116,40 +88,9 @@ website:    http://www.themepunch.com
     -webkit-transform: scale(1.2);
   transform: scale(1.2);
 }
-  
- .zeus .tp-bullet-image,
- .zeus .tp-bullet-imageoverlay{
-        width:135px;
-        height:60px;
-        position:absolute;
-        background:#000;
-        background:rgba(0,0,0,0.5);
-        bottom:25px;
-        left:50%;
-        margin-left:-65px;
-        box-sizing:border-box;
-        background-size:cover;
-        background-position:center center;
-        visibility:hidden;
-        opacity:0;
-         -webkit-backface-visibility: hidden; 
-      	backface-visibility: hidden;
-        -webkit-transform-origin: 50% 50%;
-		transform-origin: 50% 50%;
-  		-webkit-transition: all 0.3s ease;
-  		transition: all 0.3s ease;
-        border-radius:4px;
 
-}
-          
 
-.zeus .tp-bullet-title,
-.zeus .tp-bullet-imageoverlay {
-        z-index:2;
-        -webkit-transition: all 0.5s ease;
-	  	transition: all 0.5s ease;
-}     
-.zeus .tp-bullet-title { 
+.zeus .tp-bullet-title {
         color:#fff;
         text-align:center;
         line-height:15px;
@@ -170,15 +111,6 @@ website:    http://www.themepunch.com
     	vertical-align:middle;
         left:-57px;
 }
-      
-.zeus .tp-bullet:hover .tp-bullet-title,
-.zeus .tp-bullet:hover .tp-bullet-image,
-.zeus .tp-bullet:hover .tp-bullet-imageoverlay{
-      opacity:1;
-      visibility:visible;
-	  -webkit-transform:translateY(0px);
-      transform:translateY(0px);         
-    }
 
 /* THUMBS */
 .zeus .tp-thumb {

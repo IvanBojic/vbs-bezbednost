@@ -9,43 +9,7 @@ email:      info@themepunch.com
 website:    http://www.themepunch.com
 -----------------------------------------------------------------------------*/
 /* ARROWS */
-.hebe.tparrows {
-  cursor:pointer;
-  background:#fff;
-  min-width:70px;
-    min-height:70px;
-  position:absolute;
-  display:block;
-  z-index:100;
-}
-.hebe.tparrows:hover {
-}
-.hebe.tparrows:before {
-  font-family: "revicons";
-  font-size:30px;
-  color:#aaa;
-  display:block;
-  line-height: 70px;
-  text-align: center;
-  -webkit-transition: color 0.3s;
-  -moz-transition: color 0.3s;
-  transition: color 0.3s;
-  z-index:2;
-  position:relative;
-   background:#fff;
-  min-width:70px;
-    min-height:70px;
-}
-.hebe.tparrows.tp-leftarrow:before {
-  content: "\e824";
-}
-.hebe.tparrows.tp-rightarrow:before {
-  content: "\e825";
-}
-.hebe.tparrows:hover:before {
- color:#000;
-      }
-.tp-title-wrap { 
+.tp-title-wrap {
   position:absolute;
   z-index:0;
   display:inline-block;
@@ -70,28 +34,6 @@ website:    http://www.themepunch.com
   transform:scaleX(1);
   -webkit-transform:scaleX(1);
 }
-.hebe .tp-arr-titleholder {
-  position:relative;
-  text-transform:uppercase;
-  color:#fff;
-  font-weight:600;
-  font-size:12px;
-  line-height:90px;
-  white-space:nowrap;
-  padding:0px 20px 0px 90px;
-}
-
-.hebe.tp-rightarrow .tp-arr-titleholder {
-   margin-left:0px; 
-   padding:0px 90px 0px 20px;
- }
-
-.hebe.tparrows:hover .tp-arr-titleholder {
-   transform:translateX(0px);
-   -webkit-transform:translateX(0px);
-  transition-delay: 0.1s;
-  opacity:1;
-}
 
 .hebe .tp-arr-imgholder{
       width:90px;
@@ -108,18 +50,6 @@ website:    http://www.themepunch.com
       }
 
 /* BULLETS */
-.hebe.tp-bullets {
-}
-.hebe.tp-bullets:before {
-  content:" ";
-  position:absolute;
-  width:100%;
-  height:100%;
-  background:transparent;
-  padding:10px;
-  margin-left:-10px;margin-top:-10px;
-  box-sizing:content-box;
-}
 
 .hebe .tp-bullet {
   width:3px;
@@ -181,16 +111,8 @@ border-radius:6px;
     font-size:13px;
     font-weight:700;
     text-transform:uppercase;
-    font-family:"Roboto Slab"
+    font-family:"Roboto Slab";
     margin-bottom:5px;
-}
-
-.hebe .tp-tab-desc {
-	font-size:18px;
-    font-weight:400;
-    color:#fff;
-    line-height:25px;
-	font-family:"Roboto Slab";
 }
 
 

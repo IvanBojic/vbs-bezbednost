@@ -1245,34 +1245,6 @@ website:   	http://www.themepunch.com
 	text-decoration:none;
 }
 
-.tp-caption.News-Subtitle,.News-Subtitle
-{
-	background-color:rgba(255,255,255,0);
-	border-color:transparent;
-	border-radius:0 0 0 0;
-	border-style:none;
-	border-width:0;
-	color:rgba(255,255,255,1.00);
-	font-family:"Roboto Slab";
-	font-size:15px;
-	font-style:normal;
-	font-weight:300;
-	line-height:24px;
-	padding:0;
-	text-decoration:none;
-}
-
-.tp-caption.News-Subtitle:hover,.News-Subtitle:hover
-{
-	background-color:rgba(255,255,255,0);
-	border-color:transparent;
-	border-radius:0 0 0 0;
-	border-style:solid;
-	border-width:0;
-	color:rgba(255,255,255,0.65);
-	text-decoration:none;
-}
-
 .tp-caption.Photography-Display,.Photography-Display
 {
 	background-color:transparent;
@@ -1309,62 +1281,6 @@ website:   	http://www.themepunch.com
 	text-decoration:none;
 }
 
-.tp-caption.Photography-ImageHover,.Photography-ImageHover
-{
-	background-color:transparent;
-	border-color:rgba(255,255,255,0);
-	border-radius:0 0 0 0;
-	border-style:none;
-	border-width:0;
-	color:rgba(255,255,255,1.00);
-	font-size:20px;
-	font-style:normal;
-	font-weight:400;
-	line-height:22;
-	padding:0;
-	text-decoration:none;
-}
-
-.tp-caption.Photography-ImageHover:hover,.Photography-ImageHover:hover
-{
-	background-color:transparent;
-	border-color:transparent;
-	border-radius:0 0 0 0;
-	border-style:none;
-	border-width:0;
-	color:rgba(255,255,255,1.00);
-	text-decoration:none;
-}
-
-.tp-caption.Photography-Menuitem,.Photography-Menuitem
-{
-	background-color:rgba(0,0,0,0.65);
-	border-color:transparent;
-	border-radius:0 0 0 0;
-	border-style:none;
-	border-width:0;
-	color:rgba(255,255,255,1.00);
-	font-family:Raleway;
-	font-size:20px;
-	font-style:normal;
-	font-weight:300;
-	letter-spacing:2px;
-	line-height:20px;
-	padding:3px 5px 3px 8px;
-	text-decoration:none;
-}
-
-.tp-caption.Photography-Menuitem:hover,.Photography-Menuitem:hover
-{
-	background-color:rgba(0,255,222,0.65);
-	border-color:transparent;
-	border-radius:0 0 0 0;
-	border-style:none;
-	border-width:0;
-	color:rgba(255,255,255,1.00);
-	text-decoration:none;
-}
-
 .tp-caption.Photography-Textblock,.Photography-Textblock
 {
 	background-color:transparent;
@@ -1398,34 +1314,6 @@ website:   	http://www.themepunch.com
 	letter-spacing:3px;
 	line-height:30px;
 	padding:0;
-	text-decoration:none;
-}
-
-.tp-caption.Photography-ImageHover2,.Photography-ImageHover2
-{
-	background-color:transparent;
-	border-color:rgba(255,255,255,0);
-	border-radius:0 0 0 0;
-	border-style:none;
-	border-width:0;
-	color:rgba(255,255,255,1.00);
-	font-family:Arial;
-	font-size:20px;
-	font-style:normal;
-	font-weight:400;
-	line-height:22;
-	padding:0;
-	text-decoration:none;
-}
-
-.tp-caption.Photography-ImageHover2:hover,.Photography-ImageHover2:hover
-{
-	background-color:transparent;
-	border-color:transparent;
-	border-radius:0 0 0 0;
-	border-style:none;
-	border-width:0;
-	color:rgba(255,255,255,1.00);
 	text-decoration:none;
 }
 
@@ -1477,36 +1365,6 @@ website:   	http://www.themepunch.com
 	font-weight:600;
 	line-height:24px;
 	padding:0;
-	text-decoration:none;
-}
-
-.tp-caption.WebProduct-Menuitem,.WebProduct-Menuitem
-{
-	background-color:rgba(51,51,51,1.00);
-	border-color:transparent;
-	border-radius:0 0 0 0;
-	border-style:none;
-	border-width:0;
-	color:rgba(255,255,255,1.00);
-	font-family:Raleway;
-	font-size:15px;
-	font-style:normal;
-	font-weight:500;
-	letter-spacing:2px;
-	line-height:20px;
-	padding:3px 5px 3px 8px;
-	text-align:left;
-	text-decoration:none;
-}
-
-.tp-caption.WebProduct-Menuitem:hover,.WebProduct-Menuitem:hover
-{
-	background-color:rgba(255,255,255,1.00);
-	border-color:transparent;
-	border-radius:0 0 0 0;
-	border-style:none;
-	border-width:0;
-	color:rgba(153,153,153,1.00);
 	text-decoration:none;
 }
 
@@ -1564,36 +1422,6 @@ website:   	http://www.themepunch.com
 	text-decoration:none;
 }
 
-.tp-caption.FatRounded,.FatRounded
-{
-	background-color:rgba(0,0,0,0.50);
-	border-color:rgba(211,211,211,1.00);
-	border-radius:50px 50px 50px 50px;
-	border-style:none;
-	border-width:0;
-	color:rgba(255,255,255,1.00);
-	font-family:Raleway;
-	font-size:30px;
-	font-style:normal;
-	font-weight:900;
-	line-height:30px;
-	padding:20px 22px 20px 25px;
-	text-align:left;
-	text-decoration:none;
-	text-shadow:none;
-}
-
-.tp-caption.FatRounded:hover,.FatRounded:hover
-{
-	background-color:rgba(0,0,0,1.00);
-	border-color:rgba(211,211,211,1.00);
-	border-radius:50px 50px 50px 50px;
-	border-style:none;
-	border-width:0;
-	color:rgba(255,255,255,1.00);
-	text-decoration:none;
-}
-
 .tp-caption.NotGeneric-Title,.NotGeneric-Title
 {
 	background-color:transparent;
@@ -1630,36 +1458,6 @@ website:   	http://www.themepunch.com
 	text-decoration:none;
 }
 
-.tp-caption.NotGeneric-CallToAction,.NotGeneric-CallToAction
-{
-	background-color:rgba(0,0,0,0);
-	border-color:rgba(255,255,255,0.50);
-	border-radius:0 0 0 0;
-	border-style:solid;
-	border-width:1px;
-	color:rgba(255,255,255,1.00);
-	font-family:Raleway;
-	font-size:14px;
-	font-style:normal;
-	font-weight:500;
-	letter-spacing:3px;
-	line-height:14px;
-	padding:10px 30px;
-	text-align:left;
-	text-decoration:none;
-}
-
-.tp-caption.NotGeneric-CallToAction:hover,.NotGeneric-CallToAction:hover
-{
-	background-color:transparent;
-	border-color:rgba(255,255,255,1.00);
-	border-radius:0 0 0 0;
-	border-style:solid;
-	border-width:1px;
-	color:rgba(255,255,255,1.00);
-	text-decoration:none;
-}
-
 .tp-caption.NotGeneric-Icon,.NotGeneric-Icon
 {
 	background-color:rgba(0,0,0,0);
@@ -1676,36 +1474,6 @@ website:   	http://www.themepunch.com
 	line-height:30px;
 	padding:0;
 	text-align:left;
-	text-decoration:none;
-}
-
-.tp-caption.NotGeneric-Menuitem,.NotGeneric-Menuitem
-{
-	background-color:rgba(0,0,0,0);
-	border-color:rgba(255,255,255,0.15);
-	border-radius:0 0 0 0;
-	border-style:solid;
-	border-width:1px;
-	color:rgba(255,255,255,1.00);
-	font-family:Raleway;
-	font-size:14px;
-	font-style:normal;
-	font-weight:500;
-	letter-spacing:3px;
-	line-height:14px;
-	padding:27px 30px;
-	text-align:left;
-	text-decoration:none;
-}
-
-.tp-caption.NotGeneric-Menuitem:hover,.NotGeneric-Menuitem:hover
-{
-	background-color:rgba(0,0,0,0);
-	border-color:rgba(255,255,255,1.00);
-	border-radius:0 0 0 0;
-	border-style:solid;
-	border-width:1px;
-	color:rgba(255,255,255,1.00);
 	text-decoration:none;
 }
 
@@ -1727,102 +1495,6 @@ website:   	http://www.themepunch.com
 	text-decoration:none;
 }
 
-.tp-caption.Gym-Menuitem,.Gym-Menuitem
-{
-	background-color:rgba(0,0,0,1.00);
-	border-color:rgba(255,255,255,0);
-	border-radius:3px 3px 3px 3px;
-	border-style:solid;
-	border-width:2px;
-	color:rgba(255,255,255,1.00);
-	font-family:Raleway;
-	font-size:20px;
-	font-style:normal;
-	font-weight:300;
-	letter-spacing:2px;
-	line-height:20px;
-	padding:3px 5px 3px 8px;
-	text-align:left;
-	text-decoration:none;
-}
-
-.tp-caption.Gym-Menuitem:hover,.Gym-Menuitem:hover
-{
-	background-color:rgba(0,0,0,1.00);
-	border-color:rgba(255,255,255,0.25);
-	border-radius:3px 3px 3px 3px;
-	border-style:solid;
-	border-width:2px;
-	color:rgba(255,255,255,1.00);
-	text-decoration:none;
-}
-
-.tp-caption.Newspaper-Button,.Newspaper-Button
-{
-	background-color:rgba(255,255,255,0);
-	border-color:rgba(255,255,255,0.25);
-	border-radius:0 0 0 0;
-	border-style:solid;
-	border-width:1px;
-	color:rgba(255,255,255,1.00);
-	font-family:Roboto;
-	font-size:13px;
-	font-style:normal;
-	font-weight:700;
-	letter-spacing:2px;
-	line-height:17px;
-	padding:12px 35px;
-	text-align:left;
-	text-decoration:none;
-}
-
-.tp-caption.Newspaper-Button:hover,.Newspaper-Button:hover
-{
-	background-color:rgba(255,255,255,1.00);
-	border-color:rgba(255,255,255,1.00);
-	border-radius:0 0 0 0;
-	border-style:solid;
-	border-width:1px;
-	color:rgba(0,0,0,1.00);
-	text-decoration:none;
-}
-
-.tp-caption.Newspaper-Subtitle,.Newspaper-Subtitle
-{
-	background-color:transparent;
-	border-color:transparent;
-	border-radius:0 0 0 0;
-	border-style:none;
-	border-width:0;
-	color:rgba(168,216,238,1.00);
-	font-family:Roboto;
-	font-size:15px;
-	font-style:normal;
-	font-weight:900;
-	line-height:20px;
-	padding:0;
-	text-align:left;
-	text-decoration:none;
-}
-
-.tp-caption.Newspaper-Title,.Newspaper-Title
-{
-	background-color:transparent;
-	border-color:transparent;
-	border-radius:0 0 0 0;
-	border-style:none;
-	border-width:0;
-	color:rgba(255,255,255,1.00);
-	font-family:"Roboto Slab";
-	font-size:50px;
-	font-style:normal;
-	font-weight:400;
-	line-height:55px;
-	padding:0 0 10px;
-	text-align:left;
-	text-decoration:none;
-}
-
 .tp-caption.Newspaper-Title-Centered,.Newspaper-Title-Centered
 {
 	background-color:transparent;
@@ -1838,103 +1510,6 @@ website:   	http://www.themepunch.com
 	line-height:55px;
 	padding:0 0 10px;
 	text-align:center;
-	text-decoration:none;
-}
-
-.tp-caption.Hero-Button,.Hero-Button
-{
-	background-color:rgba(0,0,0,0);
-	border-color:rgba(255,255,255,0.50);
-	border-radius:0 0 0 0;
-	border-style:solid;
-	border-width:1px;
-	color:rgba(255,255,255,1.00);
-	font-family:Raleway;
-	font-size:14px;
-	font-style:normal;
-	font-weight:500;
-	letter-spacing:3px;
-	line-height:14px;
-	padding:10px 30px;
-	text-align:left;
-	text-decoration:none;
-}
-
-.tp-caption.Hero-Button:hover,.Hero-Button:hover
-{
-	background-color:rgba(255,255,255,1.00);
-	border-color:rgba(255,255,255,1.00);
-	border-radius:0 0 0 0;
-	border-style:solid;
-	border-width:1px;
-	color:rgba(0,0,0,1.00);
-	text-decoration:none;
-}
-
-.tp-caption.Video-Title,.Video-Title
-{
-	background-color:rgba(0,0,0,1.00);
-	border-color:transparent;
-	border-radius:0 0 0 0;
-	border-style:none;
-	border-width:0;
-	color:rgba(255,255,255,1.00);
-	font-family:Raleway;
-	font-size:30px;
-	font-style:normal;
-	font-weight:900;
-	line-height:30px;
-	padding:5px;
-	text-align:left;
-	text-decoration:none;
-}
-
-.tp-caption.Video-SubTitle,.Video-SubTitle
-{
-	background-color:rgba(0,0,0,0.35);
-	border-color:transparent;
-	border-radius:0 0 0 0;
-	border-style:none;
-	border-width:0;
-	color:rgba(255,255,255,1.00);
-	font-family:Raleway;
-	font-size:12px;
-	font-style:normal;
-	font-weight:600;
-	letter-spacing:2px;
-	line-height:12px;
-	padding:5px;
-	text-align:left;
-	text-decoration:none;
-}
-
-.tp-caption.NotGeneric-Button,.NotGeneric-Button
-{
-	background-color:rgba(0,0,0,0);
-	border-color:rgba(255,255,255,0.50);
-	border-radius:0 0 0 0;
-	border-style:solid;
-	border-width:1px;
-	color:rgba(255,255,255,1.00);
-	font-family:Raleway;
-	font-size:14px;
-	font-style:normal;
-	font-weight:500;
-	letter-spacing:3px;
-	line-height:14px;
-	padding:10px 30px;
-	text-align:left;
-	text-decoration:none;
-}
-
-.tp-caption.NotGeneric-Button:hover,.NotGeneric-Button:hover
-{
-	background-color:transparent;
-	border-color:rgba(255,255,255,1.00);
-	border-radius:0 0 0 0;
-	border-style:solid;
-	border-width:1px;
-	color:rgba(255,255,255,1.00);
 	text-decoration:none;
 }
 
@@ -2671,41 +2246,7 @@ website:   	http://www.themepunch.com
     border-width: 1px;
     border-radius: 30px 30px 30px 30px
 }
-.tp-caption.Video-SubTitle,
-.Video-SubTitle {
-    color: rgba(255, 255, 255, 1.00);
-    font-size: 12px;
-    line-height: 12px;
-    font-weight: 600;
-    font-style: normal;
-    font-family: Raleway;
-    padding: 5px 5px 5px 5px;
-    text-decoration: none;
-    background-color: rgba(0, 0, 0, 0.35);
-    border-color: transparent;
-    border-style: none;
-    border-width: 0px;
-    border-radius: 0 0 0 0px;
-    letter-spacing: 2px;
-    text-align: left
-}
-.tp-caption.Video-Title,
-.Video-Title {
-    color: rgba(255, 255, 255, 1.00);
-    font-size: 30px;
-    line-height: 30px;
-    font-weight: 900;
-    font-style: normal;
-    font-family: Raleway;
-    padding: 5px 5px 5px 5px;
-    text-decoration: none;
-    background-color: rgba(0, 0, 0, 1.00);
-    border-color: transparent;
-    border-style: none;
-    border-width: 0px;
-    border-radius: 0 0 0 0px;
-    text-align: left
-}
+
 .tp-caption.Travel-BigCaption,
 .Travel-BigCaption {
     color: rgba(255, 255, 255, 1.00);
@@ -3005,68 +2546,7 @@ website:   	http://www.themepunch.com
     border-width: 1px;
     border-radius: 30px 30px 30px 30px
 }
-.tp-caption.Newspaper-Title,
-.Newspaper-Title {
-    color: rgba(255, 255, 255, 1.00);
-    font-size: 50px;
-    line-height: 55px;
-    font-weight: 400;
-    font-style: normal;
-    font-family: "Roboto Slab";
-    padding: 0 0 10px 0;
-    text-decoration: none;
-    background-color: transparent;
-    border-color: transparent;
-    border-style: none;
-    border-width: 0px;
-    border-radius: 0 0 0 0px;
-    text-align: left
-}
-.tp-caption.Newspaper-Subtitle,
-.Newspaper-Subtitle {
-    color: rgba(168, 216, 238, 1.00);
-    font-size: 15px;
-    line-height: 20px;
-    font-weight: 900;
-    font-style: normal;
-    font-family: Roboto;
-    padding: 0 0 0 0px;
-    text-decoration: none;
-    background-color: transparent;
-    border-color: transparent;
-    border-style: none;
-    border-width: 0px;
-    border-radius: 0 0 0 0px;
-    text-align: left
-}
-.tp-caption.Newspaper-Button,
-.Newspaper-Button {
-    color: rgba(255, 255, 255, 1.00);
-    font-size: 13px;
-    line-height: 17px;
-    font-weight: 700;
-    font-style: normal;
-    font-family: Roboto;
-    padding: 12px 35px 12px 35px;
-    text-decoration: none;
-    background-color: rgba(255, 255, 255, 0);
-    border-color: rgba(255, 255, 255, 0.25);
-    border-style: solid;
-    border-width: 1px;
-    border-radius: 0px 0px 0px 0px;
-    letter-spacing: 2px;
-    text-align: left
-}
-.tp-caption.Newspaper-Button:hover,
-.Newspaper-Button:hover {
-    color: rgba(0, 0, 0, 1.00);
-    text-decoration: none;
-    background-color: rgba(255, 255, 255, 1.00);
-    border-color: rgba(255, 255, 255, 1.00);
-    border-style: solid;
-    border-width: 1px;
-    border-radius: 0px 0px 0px 0px
-}
+
 .tp-caption.rtwhitemedium,
 .rtwhitemedium {
     font-size: 22px;
@@ -3563,63 +3043,8 @@ website:   	http://www.themepunch.com
         text-align: center;
         
     }
-    .tp-caption.Woo-ProductInfo,
-    .Woo-ProductInfo {
-        color: rgba(0, 0, 0, 1.00);
-        font-size: 15px;
-        line-height: 15px;
-        font-weight: 500;
-        font-style: normal;
-        font-family: Roboto;
-        padding: 12px 75px 12px 50px;
-        text-decoration: none;
-        background-color: rgba(254, 207, 114, 1.00);
-        border-color: rgba(0, 0, 0, 1.00);
-        border-style: solid;
-        border-width: 1px;
-        border-radius: 4px 4px 4px 4px;
-        text-align: left;
-        
-    }
-    .tp-caption.Woo-ProductInfo:hover,
-    .Woo-ProductInfo:hover {
-        color: rgba(0, 0, 0, 1.00);
-        text-decoration: none;
-        background-color: rgba(243, 168, 71, 1.00);
-        border-color: rgba(0, 0, 0, 1.00);
-        border-style: solid;
-        border-width: 1px;
-        border-radius: 4px 4px 4px 4px
-    }
-    .tp-caption.Woo-AddToCart,
-    .Woo-AddToCart {
-        color: rgba(0, 0, 0, 1.00);
-        font-size: 15px;
-        line-height: 15px;
-        font-weight: 500;
-        font-style: normal;
-        font-family: Roboto;
-        padding: 12px 35px 12px 35px;
-        text-decoration: none;
-        background-color: rgba(254, 207, 114, 1.00);
-        border-color: rgba(0, 0, 0, 1.00);
-        border-style: solid;
-        border-width: 1px;
-        border-radius: 4px 4px 4px 4px;
-        text-align: left;
-        
-    }
-    .tp-caption.Woo-AddToCart:hover,
-    .Woo-AddToCart:hover {
-        color: rgba(0, 0, 0, 1.00);
-        text-decoration: none;
-        background-color: rgba(243, 168, 71, 1.00);
-        border-color: rgba(0, 0, 0, 1.00);
-        border-style: solid;
-        border-width: 1px;
-        border-radius: 4px 4px 4px 4px
-    }
-    .tp-caption.Woo-TitleLarge,
+
+.tp-caption.Woo-TitleLarge,
     .Woo-TitleLarge {
         color: rgba(0, 0, 0, 1.00);
         font-size: 40px;
@@ -3674,64 +3099,8 @@ website:   	http://www.themepunch.com
         text-align: center;
         
     }
-    .tp-caption.Woo-ProductInfo,
-    .Woo-ProductInfo {
-        color: rgba(0, 0, 0, 1.00);
-        font-size: 15px;
-        line-height: 15px;
-        font-weight: 500;
-        font-style: normal;
-        font-family: Roboto;
-        padding: 12px 75px 12px 50px;
-        text-decoration: none;
-        background-color: rgba(254, 207, 114, 1.00);
-        border-color: rgba(0, 0, 0, 1.00);
-        border-style: solid;
-        border-width: 1px;
-        border-radius: 4px 4px 4px 4px;
-        text-align: left;
-        
-    }
-    .tp-caption.Woo-ProductInfo:hover,
-    .Woo-ProductInfo:hover {
-        color: rgba(0, 0, 0, 1.00);
-        text-decoration: none;
-        background-color: rgba(243, 168, 71, 1.00);
-        border-color: rgba(0, 0, 0, 1.00);
-        border-style: solid;
-        border-width: 1px;
-        border-radius: 4px 4px 4px 4px
-    }
-    .tp-caption.Woo-AddToCart,
-    .Woo-AddToCart {
-        color: rgba(0, 0, 0, 1.00);
-        font-size: 15px;
-        line-height: 15px;
-        font-weight: 500;
-        font-style: normal;
-        font-family: Roboto;
-        padding: 12px 35px 12px 35px;
-        text-decoration: none;
-        background-color: rgba(254, 207, 114, 1.00);
-        border-color: rgba(0, 0, 0, 1.00);
-        border-style: solid;
-        border-width: 1px;
-        border-radius: 4px 4px 4px 4px;
-        text-align: left;
-        
-    }
-    .tp-caption.Woo-AddToCart:hover,
-    .Woo-AddToCart:hover {
-        color: rgba(0, 0, 0, 1.00);
-        text-decoration: none;
-        background-color: rgba(243, 168, 71, 1.00);
-        border-color: rgba(0, 0, 0, 1.00);
-        border-style: solid;
-        border-width: 1px;
-        border-radius: 4px 4px 4px 4px
-    }
 
-    .tp-caption.FullScreen-Toggle,
+.tp-caption.FullScreen-Toggle,
     .FullScreen-Toggle {
         color: rgba(255, 255, 255, 1.00);
         font-size: 20px;
@@ -4665,25 +4034,7 @@ tp-caption.Team-Thumb,
     border: 1px solid #666;
     border-right: 0;
 }
-#mc_embed_signup input#mc-embedded-subscribe,
-#mc_embed_signup input#mc-embedded-subscribe:focus {
-    font-family: "Lato", sans-serif;
-    line-height: 46px;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    font-size: 13px;
-    font-weight: 900;
-    padding: 0 20px;
-    border: 1px solid #009aee;
-    background: #009aee;
-    color: #fff;
-    
-    
-    border-radius: 0px;
-}
-#mc_embed_signup input#mc-embedded-subscribe:hover {
-    background: #0083d4;
-}
+
 @media only screen and (max-width: 767px) {
     #mc_embed_signup input#mce-EMAIL {
         width: 200px;
@@ -5096,354 +4447,8 @@ tp-caption.Team-Thumb,
         left: 0px;
         width: 100%
     }
-    .tp-caption.FullSiteBlock-Title,
-    .FullSiteBlock-Title {
-        color: rgba(51, 51, 51, 1.00);
-        font-size: 55px;
-        line-height: 65px;
-        font-weight: 300;
-        font-style: normal;
-        font-family: Lato;
-        padding: 0 0 0 0px;
-        text-decoration: none;
-        text-align: center;
-        background-color: transparent;
-        border-color: transparent;
-        border-style: none;
-        border-width: 0px;
-        border-radius: 0 0 0 0px;
-        text-align: center
-    }
-    .tp-caption.FullSiteBlock-SubTitle,
-    .FullSiteBlock-SubTitle {
-        color: rgba(51, 51, 51, 1.00);
-        font-size: 25px;
-        line-height: 34px;
-        font-weight: 300;
-        font-style: normal;
-        font-family: Lato;
-        padding: 0 0 0 0px;
-        text-decoration: none;
-        text-align: center;
-        background-color: transparent;
-        border-color: transparent;
-        border-style: none;
-        border-width: 0px;
-        border-radius: 0 0 0 0px;
-        text-align: center
-    }
-    .tp-caption.FullSiteBlock-Link,
-    .FullSiteBlock-Link {
-        color: rgba(0, 150, 255, 1.00);
-        font-size: 25px;
-        line-height: 24px;
-        font-weight: 300;
-        font-style: normal;
-        font-family: Lato;
-        padding: 0 0 0 0px;
-        text-decoration: none;
-        text-align: center;
-        background-color: transparent;
-        border-color: transparent;
-        border-style: none;
-        border-width: 0px;
-        border-radius: 0 0 0 0px;
-        text-align: center
-    }
-    .tp-caption.FullSiteBlock-Link:hover,
-    .FullSiteBlock-Link:hover {
-        color: rgba(51, 51, 51, 1.00);
-        text-decoration: none;
-        background-color: transparent;
-        border-color: transparent;
-        border-style: none;
-        border-width: 0px;
-        border-radius: 0 0 0 0px;
-        cursor: pointer
-    }
-    .tp-caption.FullSiteBlock-DownButton,
-    .FullSiteBlock-DownButton {
-        color: rgba(51, 51, 51, 1.00);
-        font-size: 25px;
-        line-height: 32px;
-        font-weight: 500;
-        font-style: normal;
-        font-family: Roboto;
-        padding: 1px 1px 1px 1px;
-        text-decoration: none;
-        text-align: center;
-        background-color: transparent;
-        border-color: rgba(51, 51, 51, 1.00);
-        border-style: solid;
-        border-width: 1px;
-        border-radius: 30px 30px 30px 30px;
-        text-align: center
-    }
-    .tp-caption.FullSiteBlock-DownButton:hover,
-    .FullSiteBlock-DownButton:hover {
-        color: rgba(0, 150, 255, 1.00);
-        text-decoration: none;
-        background-color: transparent;
-        border-color: rgba(0, 150, 255, 1.00);
-        border-style: solid;
-        border-width: 1px;
-        border-radius: 30px 30px 30px 30px;
-        cursor: pointer
-    }
-    .tp-caption.FullSiteBlock-Title,
-    .FullSiteBlock-Title {
-        color: rgba(51, 51, 51, 1.00);
-        font-size: 55px;
-        line-height: 65px;
-        font-weight: 300;
-        font-style: normal;
-        font-family: Lato;
-        padding: 0 0 0 0px;
-        text-decoration: none;
-        text-align: center;
-        background-color: transparent;
-        border-color: transparent;
-        border-style: none;
-        border-width: 0px;
-        border-radius: 0 0 0 0px;
-        text-align: center
-    }
-    .tp-caption.FullSiteBlock-SubTitle,
-    .FullSiteBlock-SubTitle {
-        color: rgba(51, 51, 51, 1.00);
-        font-size: 25px;
-        line-height: 34px;
-        font-weight: 300;
-        font-style: normal;
-        font-family: Lato;
-        padding: 0 0 0 0px;
-        text-decoration: none;
-        text-align: center;
-        background-color: transparent;
-        border-color: transparent;
-        border-style: none;
-        border-width: 0px;
-        border-radius: 0 0 0 0px;
-        text-align: center
-    }
-    .tp-caption.FullSiteBlock-Link,
-    .FullSiteBlock-Link {
-        color: rgba(0, 150, 255, 1.00);
-        font-size: 25px;
-        line-height: 24px;
-        font-weight: 300;
-        font-style: normal;
-        font-family: Lato;
-        padding: 0 0 0 0px;
-        text-decoration: none;
-        text-align: center;
-        background-color: transparent;
-        border-color: transparent;
-        border-style: none;
-        border-width: 0px;
-        border-radius: 0 0 0 0px;
-        text-align: center
-    }
-    .tp-caption.FullSiteBlock-Link:hover,
-    .FullSiteBlock-Link:hover {
-        color: rgba(51, 51, 51, 1.00);
-        text-decoration: none;
-        background-color: transparent;
-        border-color: transparent;
-        border-style: none;
-        border-width: 0px;
-        border-radius: 0 0 0 0px;
-        cursor: pointer
-    }
-    .tp-caption.FullSiteBlock-DownButton,
-    .FullSiteBlock-DownButton {
-        color: rgba(51, 51, 51, 1.00);
-        font-size: 25px;
-        line-height: 32px;
-        font-weight: 500;
-        font-style: normal;
-        font-family: Roboto;
-        padding: 1px 1px 1px 1px;
-        text-decoration: none;
-        text-align: center;
-        background-color: transparent;
-        border-color: rgba(51, 51, 51, 1.00);
-        border-style: solid;
-        border-width: 1px;
-        border-radius: 30px 30px 30px 30px;
-        text-align: center
-    }
-    .tp-caption.FullSiteBlock-DownButton:hover,
-    .FullSiteBlock-DownButton:hover {
-        color: rgba(0, 150, 255, 1.00);
-        text-decoration: none;
-        background-color: transparent;
-        border-color: rgba(0, 150, 255, 1.00);
-        border-style: solid;
-        border-width: 1px;
-        border-radius: 30px 30px 30px 30px;
-        cursor: pointer
-    }
-    .tp-caption.FullSiteBlock-Title,
-    .FullSiteBlock-Title {
-        color: rgba(51, 51, 51, 1.00);
-        font-size: 55px;
-        line-height: 65px;
-        font-weight: 300;
-        font-style: normal;
-        font-family: Lato;
-        padding: 0 0 0 0px;
-        text-decoration: none;
-        text-align: center;
-        background-color: transparent;
-        border-color: transparent;
-        border-style: none;
-        border-width: 0px;
-        border-radius: 0 0 0 0px;
-        text-align: center
-    }
-    .tp-caption.FullSiteBlock-SubTitle,
-    .FullSiteBlock-SubTitle {
-        color: rgba(51, 51, 51, 1.00);
-        font-size: 25px;
-        line-height: 34px;
-        font-weight: 300;
-        font-style: normal;
-        font-family: Lato;
-        padding: 0 0 0 0px;
-        text-decoration: none;
-        text-align: center;
-        background-color: transparent;
-        border-color: transparent;
-        border-style: none;
-        border-width: 0px;
-        border-radius: 0 0 0 0px;
-        text-align: center
-    }
-    .tp-caption.FullSiteBlock-DownButton,
-    .FullSiteBlock-DownButton {
-        color: rgba(51, 51, 51, 1.00);
-        font-size: 25px;
-        line-height: 32px;
-        font-weight: 500;
-        font-style: normal;
-        font-family: Roboto;
-        padding: 1px 1px 1px 1px;
-        text-decoration: none;
-        text-align: center;
-        background-color: transparent;
-        border-color: rgba(51, 51, 51, 1.00);
-        border-style: solid;
-        border-width: 1px;
-        border-radius: 30px 30px 30px 30px;
-        text-align: center
-    }
-    .tp-caption.FullSiteBlock-DownButton:hover,
-    .FullSiteBlock-DownButton:hover {
-        color: rgba(0, 150, 255, 1.00);
-        text-decoration: none;
-        background-color: transparent;
-        border-color: rgba(0, 150, 255, 1.00);
-        border-style: solid;
-        border-width: 1px;
-        border-radius: 30px 30px 30px 30px;
-        cursor: pointer
-    }
-    .tp-caption.FullSiteBlock-Title,
-    .FullSiteBlock-Title {
-        color: rgba(51, 51, 51, 1.00);
-        font-size: 55px;
-        line-height: 65px;
-        font-weight: 300;
-        font-style: normal;
-        font-family: Lato;
-        padding: 0 0 0 0px;
-        text-decoration: none;
-        text-align: center;
-        background-color: transparent;
-        border-color: transparent;
-        border-style: none;
-        border-width: 0px;
-        border-radius: 0 0 0 0px;
-        text-align: center
-    }
-    .tp-caption.FullSiteBlock-SubTitle,
-    .FullSiteBlock-SubTitle {
-        color: rgba(51, 51, 51, 1.00);
-        font-size: 25px;
-        line-height: 34px;
-        font-weight: 300;
-        font-style: normal;
-        font-family: Lato;
-        padding: 0 0 0 0px;
-        text-decoration: none;
-        text-align: center;
-        background-color: transparent;
-        border-color: transparent;
-        border-style: none;
-        border-width: 0px;
-        border-radius: 0 0 0 0px;
-        text-align: center
-    }
-    .tp-caption.FullSiteBlock-Link,
-    .FullSiteBlock-Link {
-        color: rgba(0, 150, 255, 1.00);
-        font-size: 25px;
-        line-height: 24px;
-        font-weight: 300;
-        font-style: normal;
-        font-family: Lato;
-        padding: 0 0 0 0px;
-        text-decoration: none;
-        text-align: center;
-        background-color: transparent;
-        border-color: transparent;
-        border-style: none;
-        border-width: 0px;
-        border-radius: 0 0 0 0px;
-        text-align: center
-    }
-    .tp-caption.FullSiteBlock-Link:hover,
-    .FullSiteBlock-Link:hover {
-        color: rgba(51, 51, 51, 1.00);
-        text-decoration: none;
-        background-color: transparent;
-        border-color: transparent;
-        border-style: none;
-        border-width: 0px;
-        border-radius: 0 0 0 0px;
-        cursor: pointer
-    }
-    .tp-caption.FullSiteBlock-DownButton,
-    .FullSiteBlock-DownButton {
-        color: rgba(51, 51, 51, 1.00);
-        font-size: 25px;
-        line-height: 32px;
-        font-weight: 500;
-        font-style: normal;
-        font-family: Roboto;
-        padding: 1px 1px 1px 1px;
-        text-decoration: none;
-        text-align: center;
-        background-color: transparent;
-        border-color: rgba(51, 51, 51, 1.00);
-        border-style: solid;
-        border-width: 1px;
-        border-radius: 30px 30px 30px 30px;
-        text-align: center
-    }
-    .tp-caption.FullSiteBlock-DownButton:hover,
-    .FullSiteBlock-DownButton:hover {
-        color: rgba(0, 150, 255, 1.00);
-        text-decoration: none;
-        background-color: transparent;
-        border-color: rgba(0, 150, 255, 1.00);
-        border-style: solid;
-        border-width: 1px;
-        border-radius: 30px 30px 30px 30px;
-        cursor: pointer
-    }
-    .rev_slider {
+
+.rev_slider {
         overflow: hidden;
     }
     .effect_layer {
@@ -5486,108 +4491,8 @@ tp-caption.Team-Thumb,
         background: -ms-linear-gradient(top, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 100%);
         background: linear-gradient(to bottom, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 100%);
     }
-    .tp-caption.FullSiteBlock-Title,
-    .FullSiteBlock-Title {
-        color: rgba(51, 51, 51, 1.00);
-        font-size: 55px;
-        line-height: 65px;
-        font-weight: 300;
-        font-style: normal;
-        font-family: Lato;
-        padding: 0 0 0 0px;
-        text-decoration: none;
-        text-align: center;
-        background-color: transparent;
-        border-color: transparent;
-        border-style: none;
-        border-width: 0px;
-        border-radius: 0 0 0 0px;
-        text-align: center
-    }
-    .tp-caption.FullSiteBlock-SubTitle,
-    .FullSiteBlock-SubTitle {
-        color: rgba(51, 51, 51, 1.00);
-        font-size: 25px;
-        line-height: 34px;
-        font-weight: 300;
-        font-style: normal;
-        font-family: Lato;
-        padding: 0 0 0 0px;
-        text-decoration: none;
-        text-align: center;
-        background-color: transparent;
-        border-color: transparent;
-        border-style: none;
-        border-width: 0px;
-        border-radius: 0 0 0 0px;
-        text-align: center
-    }
-    .tp-caption.FullSiteBlock-Link,
-    .FullSiteBlock-Link {
-        color: rgba(0, 150, 255, 1.00);
-        font-size: 25px;
-        line-height: 24px;
-        font-weight: 300;
-        font-style: normal;
-        font-family: Lato;
-        padding: 0 0 0 0px;
-        text-decoration: none;
-        text-align: center;
-        background-color: transparent;
-        border-color: transparent;
-        border-style: none;
-        border-width: 0px;
-        border-radius: 0 0 0 0px;
-        text-align: center
-    }
-    .tp-caption.FullSiteBlock-Link:hover,
-    .FullSiteBlock-Link:hover {
-        color: rgba(51, 51, 51, 1.00);
-        text-decoration: none;
-        background-color: transparent;
-        border-color: transparent;
-        border-style: none;
-        border-width: 0px;
-        border-radius: 0 0 0 0px;
-        cursor: pointer
-    }
-    .tp-caption.FullSiteBlock-SubTitle,
-    .FullSiteBlock-SubTitle {
-        color: rgba(51, 51, 51, 1.00);
-        font-size: 25px;
-        line-height: 34px;
-        font-weight: 300;
-        font-style: normal;
-        font-family: Lato;
-        padding: 0 0 0 0px;
-        text-decoration: none;
-        text-align: center;
-        background-color: transparent;
-        border-color: transparent;
-        border-style: none;
-        border-width: 0px;
-        border-radius: 0 0 0 0px;
-        text-align: center
-    }
-    .tp-caption.FullSiteBlock-SubTitle,
-    .FullSiteBlock-SubTitle {
-        color: rgba(51, 51, 51, 1.00);
-        font-size: 25px;
-        line-height: 34px;
-        font-weight: 300;
-        font-style: normal;
-        font-family: Lato;
-        padding: 0 0 0 0px;
-        text-decoration: none;
-        text-align: center;
-        background-color: transparent;
-        border-color: transparent;
-        border-style: none;
-        border-width: 0px;
-        border-radius: 0 0 0 0px;
-        text-align: center
-    }
-    .tp-caption.FullSiteBlock-FooterLink,
+
+.tp-caption.FullSiteBlock-FooterLink,
     .FullSiteBlock-FooterLink {
         color: rgba(85, 85, 85, 1.00);
         font-size: 15px;
@@ -5685,25 +4590,8 @@ tp-caption.Team-Thumb,
         background-color: #f5f5f5;
         color: #454545;
     }
-    #mc_embed_signup input#mc-embedded-subscribe,
-    #mc_embed_signup input#mc-embedded-subscribe:focus {
-        font-family: "Lato", sans-serif;
-        line-height: 46px;
-        font-size: 16px;
-        font-weight: 700;
-        padding: 0 30px;
-        border: 0;
-        background: #f04531;
-        text-transform: none;
-        color: #fff;
-        -webkit-border-radius: 3px;
-        -moz-border-radius: 3px;
-        border-radius: 3px;
-    }
-    #mc_embed_signup input#mc-embedded-subscribe:hover {
-        background: #e03727;
-    }
-    @media only screen and (max-width: 767px) {
+
+@media only screen and (max-width: 767px) {
         #mc_embed_signup input[type="email"] {
             width: 260px;
         }
@@ -5729,25 +4617,8 @@ tp-caption.Team-Thumb,
     #rev_slider_167_6 .uranus.tparrows:hover:before {
         opacity: 0.75;
     }
-    .tp-caption.FullSiteBlock-SubTitle,
-    .FullSiteBlock-SubTitle {
-        color: rgba(51, 51, 51, 1.00);
-        font-size: 25px;
-        line-height: 34px;
-        font-weight: 300;
-        font-style: normal;
-        font-family: Lato;
-        padding: 0 0 0 0px;
-        text-decoration: none;
-        text-align: center;
-        background-color: transparent;
-        border-color: transparent;
-        border-style: none;
-        border-width: 0px;
-        border-radius: 0 0 0 0px;
-        text-align: center
-    }
-    .tp-caption.ParallaxWebsite-FooterItem,
+
+.tp-caption.ParallaxWebsite-FooterItem,
     .ParallaxWebsite-FooterItem {
         color: rgba(255, 255, 255, 0.50);
         font-size: 16px;
@@ -5785,21 +4656,3 @@ tp-caption.Team-Thumb,
         display: none;
     }
 
-    .tp-caption.FullSiteBlock-Link, 
-    .FullSiteBlock-Link {
-    color: rgba(0,150,255,1.00);
-    font-size: 25px;
-    line-height: 24px;
-    font-weight: 300;
-    font-style: normal;
-    font-family: Lato;
-    padding: 0 0 0 0px;
-    text-decoration: none;
-    text-align: center;
-    background-color: transparent;
-    border-color: transparent;
-    border-style: none;
-    border-width: 0px;
-    border-radius: 0 0 0 0px;
-    text-align: center;
-}

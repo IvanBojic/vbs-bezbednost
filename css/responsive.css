@@ -35,10 +35,7 @@
     .xl-margin-two-half-all {margin:2.5%;}
     .xl-margin-three-all {margin:3%;}
     .xl-margin-three-half-all {margin:3.5%;}
-    .xl-margin-four-all {margin:4%;}
-    .xl-margin-four-half-all {margin:4.5%;}
-    .xl-margin-five-all {margin:5%;}
-    .xl-margin-five-half-all {margin:5.5%;}
+
     .xl-margin-six-all {margin:6%;}
     .xl-margin-six-half-all {margin:6.5%;}
     .xl-margin-seven-all {margin:7%;}
@@ -4141,7 +4138,6 @@
     /* homepage 14 */
     .right-image {position: relative; width: 100%; bottom:0; padding: 0 15px 0; right: 0; clear: both;}
     .box-separator-line { left: -45px; top: 66px; }
-    .content-right-slider .swiper-button-next, .content-right-slider .swiper-button-prev, .swiper-button-prev.slider-long-arrow-white, .swiper-container-rtl .swiper-button-next.slider-long-arrow-white, .swiper-button-next.slider-long-arrow-white, .swiper-container-rtl .swiper-button-prev.slider-long-arrow-white { background-size: 25px auto; width: 30px; height: 30px;}
 
     /* full width menu nav */
     .full-width-pull-menu .link-style-2 ul li a {font-size: 36px; line-height: 70px}
@@ -5705,10 +5701,6 @@
     .sidebar-part2 .widget ul {bottom: -12px;}
 
     /* homepage 14 */
-    .content-right-slider .swiper-button-next, .swiper-button-next.slider-long-arrow-white, .swiper-container-rtl .swiper-button-prev.slider-long-arrow-white {right: 10px;}
-    .content-right-slider .swiper-button-prev, .swiper-button-prev.slider-long-arrow-white, .swiper-container-rtl .swiper-button-next.slider-long-arrow-white {left: 10px;}
-    .content-right-slider .swiper-button-next, .content-right-slider .swiper-button-prev, .swiper-button-prev.slider-long-arrow-white, .swiper-container-rtl .swiper-button-next.slider-long-arrow-white, .swiper-button-next.slider-long-arrow-white, .swiper-container-rtl .swiper-button-prev.slider-long-arrow-white { background-size: 20px auto; width: 25px; height: 25px;}
-
     /* swiper bootom scroll bar for portfoio personal */
     .swiper-bottom-scrollbar-full.swiper-container {height: 100%; top: 0; padding-top: 50px; overflow: hidden; float: left; display: block; position: relative;}
     .swiper-bottom-scrollbar-full .swiper-wrapper {display: block; overflow-y: auto; overflow-x: hidden; transform: inherit !important; transition-duration: inherit !important;}

@@ -30,37 +30,6 @@
 	
 }
 
-.rev-colorpicker .rev-colorbox {
-	border-right: 1px solid #ddd;
-	width: 32px;
-	background: url(../images/tpcolorpicker/trans_tile.png);	
-	
-}
-
-.rev-colorpicker .rev-colorbtn {
-	
-	font-family: 'Open Sans';
-	font-size: 11px;
-	padding: 0 6px 1px;
-	background: #E5E5E5;
-	position: relative;
-	top: -1px;
-	
-}
-
-.rev-colorpicker.dark .rev-colorbtn {
-	
-	color: #FFF;
-	background: #555;
-	
-}
-
-.rev-colorpicker-open .tipsy-inner {
-	
-	max-width: none;
-	
-}
-
 .rev-cpicker-wrap {
 	
 	position: fixed;
@@ -94,12 +63,6 @@
 	font-size: 13px;
 	white-space: nowrap;
 
-}
-
-.rev-cpicker-wrap.onajax {
-	
-	pointer-events: none;
-	
 }
 
 .rev-cpicker-wrap.onajax .rev-cpicker-section:not(#rev-cpicker-section-right):before {
@@ -198,12 +161,6 @@
 	height: 100%;
 	cursor: move;
 	
-}
-
-.rev-cpicker-gradient {
-	
-	display: none;
-
 }
 
 .rev-cpicker-main-btn {
@@ -551,32 +508,6 @@
 	
 }
 
-#rev-cpicker .ps-container .ps-scrollbar-x-rail {
-	
-	display: none;
-	
-}
-
-#rev-cpicker .ps-container .ps-scrollbar-y-rail {
-	
-	display: block;
-	left: 10px;
-	right: auto;
-	
-}
-
-#rev-cpicker .ps-active-y:hover .ps-scrollbar-y-rail {
-	
-	opacity: 1;
-	
-}
-
-#rev-cpicker .ps-active-y .ps-scrollbar-y-rail:hover {
-	
-	background-color: #EEE;
-	
-}
-
 .rev-cpicker-presets-custom {
 	
 	display: none;
@@ -711,12 +642,6 @@
 	
 }
 
-.rev-picker-color-custom.selected {
-	
-	border-radius: 5px 0 5px 5px;
-	
-}
-
 .rev-picker-color-custom.selected .rev-cpicker-delete-icon {
 	
 	cursor: pointer;
@@ -762,30 +687,9 @@
 	
 }
 
-#rev-cpicker .wp-picker-holder {
-	
-	top: 1px;
-	left: -10px;
-	
-}
-
 .rev-cpicker-iris {
 	
 	margin-top: 3px;
-	
-}
-
-#rev-cpicker .iris-picker {
-	
-	background: transparent !important;
-	border: none !important;
-	display: block !important;
-	
-}
-
-#rev-cpicker .wp-picker-input-wrap {
-	
-	display: none !important;
 	
 }
 
@@ -913,54 +817,6 @@
 	position: absolute;
 	top: 0;
 	left: 0;
-	
-}
-
-.rev-cpicker-point  {
-	
-	position: absolute;
-	display: block;
-	width: 12px;
-	height: 17px;
-	
-}
-
-.rev-cpicker-point.active {
-	
-	z-index: 999;
-	background-position: left bottom;
-	
-}
-
-.rev-cpicker-point.warning {
-	
-	transition: 0.1s transform linear;
-	
-}
-
-.rev-cpicker-point-top.warning {
-
-	transform: translate(0, -5px) scale(0.75);
-
-}
-
-.rev-cpicker-point-bottom.warning {
-
-	transform: translate(0, 5px) scale(0.75);
-
-}
-
-.rev-cpicker-point-top {
-	
-	top: -17px;
-	background: url(../images/tpcolorpicker/point_top.png) left top no-repeat;
-	
-}
-
-.rev-cpicker-point-bottom {
-	
-	bottom: -17px;
-	background: url(../images/tpcolorpicker/point_bottom.png) left top no-repeat;
 	
 }
 
@@ -1252,12 +1108,6 @@
 #rev-cpicker-colors .iris-strip {
 	
 	width: 22px !important;
-	
-}
-
-#rev-cpicker-colors .iris-picker .iris-square {
-	
-	margin-right: 15px;
 	
 }
 

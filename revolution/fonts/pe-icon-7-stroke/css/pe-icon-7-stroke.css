@@ -24,24 +24,6 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.pe-7s-album:before {
-	content: "\e6aa";
-}
-.pe-7s-arc:before {
-	content: "\e6ab";
-}
-.pe-7s-back-2:before {
-	content: "\e6ac";
-}
-.pe-7s-bandaid:before {
-	content: "\e6ad";
-}
-.pe-7s-car:before {
-	content: "\e6ae";
-}
-.pe-7s-diamond:before {
-	content: "\e6af";
-}
 .pe-7s-door-lock:before {
 	content: "\e6b0";
 }
