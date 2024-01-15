@@ -14,7 +14,7 @@
     <section class="wow animate__fadeIn bg-light-gray padding-35px-tb page-title-small top-space">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-8 col-md-6 text-md-start text-center">
+                <div class="col-lg-12 col-md-12 text-md-center text-center">
                     <!-- start page title -->
                     <h1 class="alt-font text-extra-dark-gray font-weight-600 mb-0 text-uppercase">Kontakt</h1>
                     <!-- end page title -->
@@ -70,7 +70,7 @@
             <div class="row row-cols-1 row-cols-lg-2">
                 <?php /* <div class="col p-0 cover-background md-h-450px sm-h-350px wow animate__fadeInLeft" style="background: url('images/img/contact_form1.jpg')"></div> */ ?>
                 <div class="border-del col text-center padding-six-lr padding-five-half-tb lg-padding-four-lr md-padding-ten-half-tb md-padding-twelve-half-lr sm-padding-15px-lr wow animate__fadeIn">
-                    <h5 class="margin-55px-bottom main-color alt-font font-weight-700 text-uppercase sm-margin-ten-bottom">Kontaktirajte nas!</h5>
+                    <h5 class="margin-55px-bottom text-extra-dark-gray alt-font font-weight-700 text-uppercase sm-margin-ten-bottom">Kontaktirajte nas!</h5>
                     <form id="project-contact-form-4" action="email-templates/contact-form.php" method="post">
                         <div class="row">
                             <div class="col-12">

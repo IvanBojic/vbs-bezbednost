@@ -66,7 +66,7 @@ require_once('./../config.php');
                 <div class="row margin-90px-top">
                     <div class="col-12 page-title-large d-flex flex-column justify-content-center text-center">
                         <!-- start sub title -->
-                        <span class="d-block opacity6 margin-10px-bottom alt-font">Naš tim stručnjaka na raspolaganju Vam je za sva dodatna pitanja i informacije.</span>
+                        <span class="d-block margin-10px-bottom alt-font text-extra-dark-gray">Naš tim stručnjaka na raspolaganju Vam je za sva dodatna pitanja i informacije.</span>
                         <!-- end sub title -->
                     </div>
                 </div>

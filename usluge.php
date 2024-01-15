@@ -41,7 +41,7 @@
                                                 <div class="feature-box-image"><img src="images/img/usluga1.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                                     <div class="padding-twelve-lr">
-                                                        <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                                        <span class="text-white-2 d-inline-block text-center">Iskustvo, odgovornost, profesionalnost.</span>
                                                     </div>
                                                 </div>
                                                 <figcaption class="image-caption">
@@ -66,7 +66,7 @@
                                                 <div class="feature-box-image"><img src="images/img/usluga2.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                                     <div class="padding-twelve-lr">
-                                                        <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                                        <span class="text-white-2 d-inline-block text-center">Iskustvo, odgovornost, profesionalnost.</span>
                                                     </div>
                                                 </div>
                                                 <figcaption class="image-caption">
@@ -91,7 +91,7 @@
                                                 <div class="feature-box-image"><img src="images/img/usluga3.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                                     <div class="padding-twelve-lr">
-                                                        <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                                        <span class="text-white-2 d-inline-block text-center">Iskustvo, odgovornost, profesionalnost.</span>
                                                     </div>
                                                 </div>
                                                 <figcaption class="image-caption">
@@ -116,7 +116,7 @@
                                                 <div class="feature-box-image"><img src="images/img/usluga4.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                                     <div class="padding-twelve-lr">
-                                                        <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                                        <span class="text-white-2 d-inline-block text-center">Iskustvo, odgovornost, profesionalnost.</span>
                                                     </div>
                                                 </div>
                                                 <figcaption class="image-caption">
@@ -141,7 +141,7 @@
                                                 <div class="feature-box-image"><img src="images/img/usluga5.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                                     <div class="padding-twelve-lr">
-                                                        <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                                        <span class="text-white-2 d-inline-block text-center">Iskustvo, odgovornost, profesionalnost.</span>
                                                     </div>
                                                 </div>
                                                 <figcaption class="image-caption">
@@ -166,7 +166,7 @@
                                                 <div class="feature-box-image"><img src="images/img/usluga6.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                                     <div class="padding-twelve-lr">
-                                                        <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                                        <span class="text-white-2 d-inline-block text-center">Iskustvo, odgovornost, profesionalnost.</span>
                                                     </div>
                                                 </div>
                                                 <figcaption class="image-caption">
@@ -191,7 +191,7 @@
                                                 <div class="feature-box-image"><img src="images/img/usluga7.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                                     <div class="padding-twelve-lr">
-                                                        <span class="text-white-2 d-inline-block text-center">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</span>
+                                                        <span class="text-white-2 d-inline-block text-center">Iskustvo, odgovornost, profesionalnost.</span>
                                                     </div>
                                                 </div>
                                                 <figcaption class="image-caption">
