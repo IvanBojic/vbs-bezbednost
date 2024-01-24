@@ -31,4 +31,32 @@ class clsFunctions
 
         return $slike;
     }
+
+    public static function procitajSlikeIzJSON($jsonFile)
+    {
+
+        $slike = array();
+
+        $jsonFile = isset($jsonData) ? $jsonFile : __DIR__ . '/../reference.json';
+
+        $jsonData = file_get_contents($jsonFile); // Učitava JSON datoteku
+        $data = json_decode($jsonData, true); // Pretvara JSON u PHP niz
+
+        // Iteracija kroz JSON niz
+        foreach ($data as $slika) {
+            // Pristupanje elementima pomoću ključeva
+            $title = $slika['title'];
+            $path = $slika['path'];
+            $link = $slika['link'];
+
+            // Dodavanje slike u rezultujući niz
+            $slike[] = [
+                'title' => $title,
+                'path' => $path,
+                'link' => $link
+            ];
+        }
+
+        return $slike;
+    }
 }

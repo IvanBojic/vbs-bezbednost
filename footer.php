@@ -15,16 +15,16 @@
                 <div class="col-lg-3 col-md-4 col-12 sm-margin-30px-bottom text-medium">
                     <a>Valjaonica Bezbednost d.o.o.</a><br>
                     <i class="fa fa-map-marker" aria-hidden="true"></i> <a>Prvomajska bb, 31205 Sevojno.</a><br>
-                    <i class="fa fa-phone" aria-hidden="true"></i> Tel: <a href="tel:+38131594110">031/594-110</a>; <a href="tel:+38131594189">594-189</a><br>
-                    <i class="fa fa-phone" aria-hidden="true"></i> Mob: <a href="tel:+38164123456">064/12-34-456</a><br>
-                    <i class="fa fa-envelope" aria-hidden="true"></i> Email: <a href="mailto:test@vbs-bezbednost.com">test@vbs-bezbednost.com</a>
+                    <i class="fa fa-phone" aria-hidden="true"></i> Tel: <a href="tel:+38131532203">+381 31 532 203</a><br>
+                    <i class="fa fa-phone" aria-hidden="true"></i> Mob: <a href="tel:+381668684435">+381 66 868 4435</a><br>
+                    <i class="fa fa-envelope" aria-hidden="true"></i> Email: <a href="mailto:valjaonicabezbednost@vbs.co.rs">valjaonicabezbednost@vbs.co.rs</a>
                 </div>
                 <!-- end copyright -->
                 <!-- start social media -->
                 <div class="col-lg-3 col-md-3 text-center text-md-center">
                     <div class="social-icon-style-8 d-inline-block align-middle">
                         <ul class="medium-icon mb-0">
-                            <li><a class="google text-white-2" href="" target="_blank"><i class="fab fa-google-plus-g"></i></a></li>
+                            <li><a class="google text-white-2" href="mailto:pmilutinovic@vbs.co.rs" target="_blank"><i class="fab fa-google-plus-g"></i></a></li>
                         </ul>
                     </div>
                 </div>

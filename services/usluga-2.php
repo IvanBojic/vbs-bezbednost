@@ -45,14 +45,13 @@ require_once('./../config.php');
                     <div class="col-12 col-lg-6 col-md-6 col-sm-12 wow animate__fadeInUp">
                         <div class="sm-margin-30px-bottom wow animate__fadeIn margin-30px-left">
                             <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                                Naša kompanija poseduje  licence u skladu sa Zakonom i pruža usluge u domenu sistema tehničke zaštite:
                             </p>
-                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-                            </p>
+                            <ul class="font-weight-500">
+                                <li>planiranje sistema tehničke zaštite,</li>
+                                <li>projektovanje i nadzor nad izvođenjem sistema tehničke zaštite,</li>
+                                <li>montaža, puštanje u rad i održavanje sistema tehničke zaštite i obuka korisnika.</li>
+                            </ul>
                             <div class="separator-line-horrizontal-medium-light margin-30px-top md-no-margin-top bg-deep-pink"></div>
                         </div>
                     </div>

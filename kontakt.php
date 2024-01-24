@@ -16,7 +16,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-12 col-md-12 text-md-center text-center">
                     <!-- start page title -->
-                    <h1 class="alt-font text-extra-dark-gray font-weight-600 mb-0 text-uppercase">Kontakt</h1>
+                    <h4 class="alt-font text-extra-dark-gray font-weight-700 mb-0 text-uppercase">Kontakt</h4>
                     <!-- end page title -->
                 </div>
                 <div class="col-lg-4 col-md-6 breadcrumb text-small alt-font justify-content-center justify-content-md-end sm-margin-15px-top">
@@ -30,33 +30,32 @@
     <section class="wow animate__fadeIn bg-light-gray padding-35px-tb">
         <div class="row m-0 row-cols-2 row-cols-sm-4">
             <!-- start contact item -->
-            <div class="col bg-extra-dark-gray d-flex flex-column justify-content-center align-items-center text-center h-300px lg-h-300px sm-h-250px last-paragraph-no-margin">
+            <div class="col border-all d-flex flex-column justify-content-center align-items-center text-center h-300px lg-h-300px sm-h-250px last-paragraph-no-margin">
                 <i class="icon-map text-main-color icon-medium margin-25px-bottom"></i>
-                <div class="text-white-2 text-uppercase alt-font font-weight-600 margin-5px-bottom">Adresa</div>
-                <p class="w-60 lg-w-80 mx-auto text-medium">Prvomajska bb,<br> 31205 Sevojno.</p>
+                <div class="text-uppercase alt-font font-weight-600 margin-5px-bottom">Adresa</div>
+                <p class="w-60 lg-w-80 mx-auto text-medium">Prvomajska bb,<br> 31205 Sevojno</p>
             </div>
             <!-- end contact item -->
             <!-- start contact item -->
-            <div class="col bg-black d-flex flex-column justify-content-center align-items-center text-center h-300px lg-h-300px sm-h-250px last-paragraph-no-margin">
+            <div class="col border-all phone-contact-square d-flex flex-column justify-content-center align-items-center text-center h-300px lg-h-300px sm-h-250px last-paragraph-no-margin">
                 <i class="icon-chat text-main-color icon-medium margin-25px-bottom"></i>
-                <div class="text-white-2 text-uppercase alt-font font-weight-600 margin-5px-bottom">Pozovite nas</div>
-                <p class="mx-auto text-medium mb-0">Tel: <a href="tel:+38131594110">031/594-110</a></p>
-                <p class="mx-auto text-medium mb-0">Tel2: <a href="tel:+38131594189">594-189</a></p>
-                <p class="mx-auto text-medium">Fax: 031/532-203</p>
+                <div class="text-uppercase alt-font font-weight-600 margin-5px-bottom">Pozovite nas</div>
+                <p class="mx-auto text-medium mb-0">Tel: <a href="tel:+38131532203">+381 31 532 203</a></p>
+                <p class="mx-auto text-medium mb-0">Mob: <a href="tel:+381668684435">+381 66 868 4435</a></p>
             </div>
             <!-- end contact item -->
             <!-- start contact item -->
-            <div class="col bg-black d-flex flex-column justify-content-center align-items-center text-center h-300px lg-h-300px sm-h-250px last-paragraph-no-margin">
+            <div class="col border-all phone-contact-square d-flex flex-column justify-content-center align-items-center text-center h-300px lg-h-300px sm-h-250px last-paragraph-no-margin">
                 <i class="icon-envelope text-main-color icon-medium margin-25px-bottom"></i>
-                <div class="text-white-2 text-uppercase alt-font font-weight-600 margin-5px-bottom">Email</div>
-                <p class="mx-auto text-medium mb-0"><a href="mailto:info@domain.com">info@domain.com</a></p>
-                <p class="mx-auto text-medium"><a href="mailto:hire@domain.com">hire@domain.com</a></p>
+                <div class="text-uppercase alt-font font-weight-600 margin-5px-bottom">Email</div>
+                <p class="mx-auto text-medium mb-0"><a href="mailto:valjaonicabezbednost@vbs.co.rs">valjaonicabezbednost@vbs.co.rs</a></p>
+                <p class="mx-auto text-medium"><a href="mailto:pmilutinovic@vbs.co.rs">pmilutinovic@vbs.co.rs</a></p>
             </div>
             <!-- end contact item -->
             <!-- start contact item -->
-            <div class="col bg-extra-dark-gray d-flex flex-column justify-content-center align-items-center text-center h-300px lg-h-300px sm-h-250px last-paragraph-no-margin">
+            <div class="col border-all d-flex flex-column justify-content-center align-items-center text-center h-300px lg-h-300px sm-h-250px last-paragraph-no-margin">
                 <i class="icon-clock text-main-color icon-medium margin-25px-bottom"></i>
-                <div class="text-white-2 text-uppercase alt-font font-weight-600 margin-5px-bottom">Matični podaci</div>
+                <div class="text-uppercase alt-font font-weight-600 margin-5px-bottom">Matični podaci</div>
                 <p class="mx-auto text-medium mb-0">PIB: 104704014</p>
                 <p class="mx-auto text-medium">Matični broj: 20214473</p>
             </div>
@@ -70,7 +69,7 @@
             <div class="row row-cols-1 row-cols-lg-2">
                 <?php /* <div class="col p-0 cover-background md-h-450px sm-h-350px wow animate__fadeInLeft" style="background: url('images/img/contact_form1.jpg')"></div> */ ?>
                 <div class="border-del col text-center padding-six-lr padding-five-half-tb lg-padding-four-lr md-padding-ten-half-tb md-padding-twelve-half-lr sm-padding-15px-lr wow animate__fadeIn">
-                    <h5 class="margin-55px-bottom text-extra-dark-gray alt-font font-weight-700 text-uppercase sm-margin-ten-bottom">Kontaktirajte nas!</h5>
+                    <h5 class="margin-55px-bottom text-extra-dark-gray alt-font font-weight-600 text-uppercase sm-margin-ten-bottom">Kontaktirajte nas!</h5>
                     <form id="project-contact-form-4" action="email-templates/contact-form.php" method="post">
                         <div class="row">
                             <div class="col-12">

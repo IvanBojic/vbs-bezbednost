@@ -43,7 +43,7 @@
                         <div class="padding-six-all md-padding-nine-all sm-padding-50px-tb sm-padding-15px-lr">
                             <h5 class="alt-font text-white-2"></h5>
                             <p class="text-extra-large font-weight-300 text-extra-light-gray">
-                                Valjaonica - Bezbednost d.o.o. je privredno društvo osnovano 2006. godine. Osnivač društva je <a href="https://www.vbs.co.rs/" target="_blank">Valjaonica bakra Sevojno a.d.</a> i specijalizovano za pružanje usluga privatnog obezbeđenja.
+                                Valjaonica - Bezbednost d.o.o. je privredno društvo osnovano 2006. godine. Osnivač društva je <a href="https://www.vbs.co.rs/" target="_blank">Valjaonica bakra Sevojno a.d.</a> i društvo je specijalizovano za pružanje usluga privatnog obezbeđenja.
                                 Pored usluga privatnog obezbeđenja, naša kompanija pruža i usluge u oblasti smanjenja rizika od katastrofa, kao i ostale usluge u skladu sa zahtevima tržišta i potrebama klijenata:
                             </p>
                             <ul class="text-extra-large font-weight-300 text-extra-light-gray services-list">

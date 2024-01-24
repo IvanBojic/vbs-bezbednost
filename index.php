@@ -1,8 +1,7 @@
 <?php
 include_once 'components/php_composer.php';
 
-$folder = 'images/reference';
-$slike = clsFunctions::procitajSlikeIzFoldera($folder);
+$slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
 
 ?>
 
@@ -369,12 +368,15 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
         </section>
         <!-- end slider section -->
         <!-- start O NAMA section -->
-        <section class="wow animate__fadeIn overflow-hidden cover-background md-no-background-img bg-medium-light-gray row-margin-15-top" style="background: url('images/img/about_us.jpg')">
-            <div class="container">
+        <section class="wow animate__fadeIn overflow-hidden cover-background md-no-background-img row-margin-15-top">
+            <div class="container-fluid">
                 <div class="row"> 
-                    <div class="col-12 col-lg-6 offset-lg-6 wow animate__fadeIn">
+                    <div class="col-12 col-xl-6 col-lg-6 wow animate__fadeIn about-us">
+                        <img src="images/img/about_us.jpg" alt="O nama">
+                    </div>
+                    <div class="col-12 col-xl-6 col-lg-6 wow animate__fadeIn padding-15-top">
                         <div class="row m-0">
-                            <div class="col-12 text-center text-lg-start sm-no-padding-lr last-paragraph-no-margin margin-60px-bottom md-margin-30px-bottom">
+                            <div class="col-12 text-center text-lg-start sm-no-padding-lr last-paragraph-no-margin margin-60px-bottom md-margin-30px-bottom xl-margin-20px-bottom">
                                 <h5 class="alt-font text-extra-dark-gray font-weight-600">Ukratko o nama</h5>
                                 <p class="w-90 md-w-100">
                                     <strong>Valjaonica - Bezbednost d.o.o.</strong> kao specijalizovano pravno lice u oblasti
@@ -406,7 +408,7 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                             </div>
                             <!-- end features box item -->
                         </div>
-                    </div> 
+                    </div>
                 </div>
             </div>
         </section>
@@ -491,7 +493,7 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
         </section> */ ?>
         <!-- end parallax feature box -->   
         <!-- start USLUGE section -->
-        <section class="wow animate__fadeIn">
+        <section class="border-top border-color-extra-light-gray wow animate__fadeIn">
             <div class="container">
                 <div class="row">
                     <div class="col-12 text-center margin-100px-bottom md-margin-70px-bottom sm-margin-50px-bottom">
@@ -507,7 +509,8 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
                                 <figure>
                                     <a href="services/usluga-1.php">
-                                        <div class="feature-box-content sm-w-100">
+                                        <?php /* Dodati klasu feature-box-content za prikaz druge strane figure */ ?>
+                                        <div class="sm-w-100">
                                             <div class="feature-box-image"><img src="images/img/usluga1.jpg" alt=""></div>
                                             <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                                 <div class="padding-twelve-lr">
@@ -528,7 +531,7 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.2s">
                                 <figure>
                                     <a href="services/usluga-2.php">
-                                        <div class="feature-box-content sm-w-100">
+                                        <div class="sm-w-100">
                                             <div class="feature-box-image"><img src="images/img/usluga2.jpg" alt=""></div>
                                             <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                                 <div class="padding-twelve-lr">
@@ -549,7 +552,7 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
                                 <figure>
                                     <a href="services/usluga-3.php">
-                                        <div class="feature-box-content sm-w-100">
+                                        <div class="sm-w-100">
                                             <div class="feature-box-image"><img src="images/img/usluga3.jpg" alt=""></div>
                                             <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                                 <div class="padding-twelve-lr">
@@ -570,7 +573,7 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
                                 <figure>
                                     <a href="services/usluga-4.php">
-                                        <div class="feature-box-content sm-w-100">
+                                        <div class="sm-w-100">
                                             <div class="feature-box-image"><img src="images/img/usluga4.jpg" alt=""></div>
                                             <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                                 <div class="padding-twelve-lr">
@@ -591,7 +594,7 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
                                 <figure>
                                     <a href="services/usluga-6.php">
-                                        <div class="feature-box-content sm-w-100">
+                                        <div class="sm-w-100">
                                             <div class="feature-box-image"><img src="images/img/usluga5.jpg" alt=""></div>
                                             <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                                 <div class="padding-twelve-lr">
@@ -612,7 +615,7 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
                                 <figure>
                                     <a href="services/usluga-7.php">
-                                        <div class="feature-box-content sm-w-100">
+                                        <div class="sm-w-100">
                                             <div class="feature-box-image"><img src="images/img/usluga6.jpg" alt=""></div>
                                             <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                                 <div class="padding-twelve-lr">
@@ -622,18 +625,19 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                                         </div>
                                         <figcaption>
                                             <div class="text-center margin-25px-top">
-                                                <div class="text-extra-dark-gray alt-font font-weight-600">Alkotestiranje zaposlenih</div>
+                                                <div class="text-extra-dark-gray alt-font font-weight-600">Ostale usluge</div>
                                             </div>
                                         </figcaption>
                                     </a>
                                 </figure>
                             </div>
                             <!-- end services item -->
+                            <?php /*
                             <!-- start services item -->
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
                                 <figure>
                                     <a href="services/usluga-8.php">
-                                        <div class="feature-box-content sm-w-100">
+                                        <div class="sm-w-100">
                                             <div class="feature-box-image"><img src="images/img/usluga7.jpg" alt=""></div>
                                             <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                                 <div class="padding-twelve-lr">
@@ -650,6 +654,7 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                                 </figure>
                             </div>
                             <!-- end services item -->
+                            */ ?>
                         </div>
                     </div>
                 </div>
@@ -697,6 +702,7 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
             </div>
         </section>
         <!-- end REFERENCE section -->
+    <?php /*
         <!-- start NOVOSTI section  -->
         <section class="border-top border-color-extra-light-gray wow animate__fadeIn">
             <div class="container">
@@ -781,6 +787,7 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
             </div>
         </section>
         <!-- end NOVOSTI section -->
+    */ ?>
     <?php
     /* Including footer */
     include 'footer.php';

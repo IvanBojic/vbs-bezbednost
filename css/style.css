@@ -113,11 +113,11 @@ h5 {font-size:32px; line-height:40px}
 h6 {font-size:25px; line-height:30px}
 
 /* text size */
-.text-extra-small {font-size:11px; line-height:14px}
+.text-extra-small {font-size:13px; line-height:14px}
 .text-small {font-size:12px; line-height:20px}
 .text-medium {font-size:16px; line-height:23px}
 .text-large {font-size:18px; line-height:26px}
-.text-extra-large {font-size: 20px; line-height:26px}
+.text-extra-large {font-size: 18px; line-height:26px}
 .title-large {font-size: 100px; line-height:95px}
 .title-extra-large {font-size: 130px; line-height:120px}
 
@@ -441,8 +441,8 @@ textarea.input-bg {background-color: #f7f7f7; border-radius: 4px; border: 1px so
 .btn.btn-light-gray {background: #dbdbdb; border-color: #dbdbdb; color: #232323}
 .btn.btn-light-gray:hover, .btn.btn-light-gray:focus {background: transparent; border-color: #dbdbdb; color: #dbdbdb}
 
-.btn.btn-main-color {background: var(--main-color); border-color: var(--main-color); color: #ffffff}
-.btn.btn-main-color:hover, .btn.btn-main-color:focus {background: transparent; border-color: var(--main-color); color: var(--main-color)}
+.btn.btn-main-color {background: transparent; border-color: #1c1c1c; color: #1c1c1c}
+.btn.btn-main-color:hover, .btn.btn-main-color:focus {background: #1c1c1c; border-color: #1c1c1c; color: #ffffff}
 .btn-warning, .btn-warning:hover {color: #fff;}
 
 /* button transparent */
@@ -484,7 +484,7 @@ textarea.input-bg {background-color: #f7f7f7; border-radius: 4px; border: 1px so
 /* ===================================
     07. Border
 ====================================== */
-.border-all {border: 1px solid #ededed}
+.border-all {border: 1px solid #939393}
 
 /* boder width */
 .border-width-1 {border-width:1px;}
@@ -3180,7 +3180,7 @@ aside .search-button {border: 2px solid transparent;}
 
 /* progress bar */
 .progress {overflow: visible; height: 5px; position: relative; border-radius: 10px; width: 100%;}
-.progress .progress-title {position: absolute; top: -40px;}
+.progress .progress-title {position: absolute; top: -44px;}
 .progress .progress-bar {position: relative; overflow: visible; border-radius: 10px;}
 .progress .progress-bar span {position: absolute; top: -30px; right: 0; opacity: 0}
 .progress .progress-bar.appear span {opacity: 1;}
@@ -3560,7 +3560,7 @@ body.o-nama {
     bottom: 5%; /* Odvojenost od donje strane */
     left: 0; /* Pozicija leva granica */
     width: 1px; /* Širina granice */
-    background-color: var(--main-color); /* Boja granice (beli) */
+    background-color: #1c1c1c; /* Boja granice (beli) */
 }
 .font-large {
     font-size: large;
@@ -3614,4 +3614,10 @@ body.o-nama {
 }
 .padding-15percent-top {
     padding-top: 15%;
+}
+.about-us img {
+    border-radius: 1.5rem;
+    box-shadow: 10px 10px 23px 0px rgba(190,190,190,0.75);
+    -webkit-box-shadow: 10px 10px 23px 0px rgba(190,190,190,0.75);
+    -moz-box-shadow: 10px 10px 23px 0px rgba(190,190,190,0.75);
 }

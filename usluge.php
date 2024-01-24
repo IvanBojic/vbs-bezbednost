@@ -37,7 +37,7 @@
                                 <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
                                     <figure class="position-relative">
                                         <a href="services/usluga-1.php">
-                                            <div class="feature-box-content sm-w-100">
+                                            <div class="sm-w-100">
                                                 <div class="feature-box-image"><img src="images/img/usluga1.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                                     <div class="padding-twelve-lr">
@@ -62,7 +62,7 @@
                                 <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
                                     <figure class="position-relative">
                                         <a href="services/usluga-2.php">
-                                            <div class="feature-box-content sm-w-100">
+                                            <div class=" sm-w-100">
                                                 <div class="feature-box-image"><img src="images/img/usluga2.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                                     <div class="padding-twelve-lr">
@@ -87,7 +87,7 @@
                                 <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
                                     <figure class="position-relative">
                                         <a href="services/usluga-3.php">
-                                            <div class="feature-box-content sm-w-100">
+                                            <div class=" sm-w-100">
                                                 <div class="feature-box-image"><img src="images/img/usluga3.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                                     <div class="padding-twelve-lr">
@@ -112,7 +112,7 @@
                                 <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
                                     <figure class="position-relative">
                                         <a href="services/usluga-4.php">
-                                            <div class="feature-box-content sm-w-100">
+                                            <div class=" sm-w-100">
                                                 <div class="feature-box-image"><img src="images/img/usluga4.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                                     <div class="padding-twelve-lr">
@@ -137,7 +137,7 @@
                                 <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
                                     <figure class="position-relative">
                                         <a href="services/usluga-6.php">
-                                            <div class="feature-box-content sm-w-100">
+                                            <div class=" sm-w-100">
                                                 <div class="feature-box-image"><img src="images/img/usluga5.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                                     <div class="padding-twelve-lr">
@@ -162,7 +162,7 @@
                                 <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
                                     <figure class="position-relative">
                                         <a href="services/usluga-7.php">
-                                            <div class="feature-box-content sm-w-100">
+                                            <div class=" sm-w-100">
                                                 <div class="feature-box-image"><img src="images/img/usluga6.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                                     <div class="padding-twelve-lr">
@@ -171,7 +171,7 @@
                                                 </div>
                                                 <figcaption class="image-caption">
                                                     <div class="text-center margin-30percent-top">
-                                                        <div class="font-large alt-font font-weight-400">Alkotestiranje zaposlenih</div>
+                                                        <div class="font-large alt-font font-weight-400">Ostale usluge</div>
                                                     </div>
                                                 </figcaption>
                                             </div>
@@ -181,47 +181,36 @@
                                 <!-- end services item -->
                             </li>
                             <!-- end post item -->
-                            <!-- start post item -->
-                            <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp" data-wow-delay="0.4s">
-                                <!-- start services item -->
-                                <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
-                                    <figure class="position-relative">
-                                        <a href="services/usluga-8.php">
-                                            <div class="feature-box-content sm-w-100">
-                                                <div class="feature-box-image"><img src="images/img/usluga7.jpg" alt=""></div>
-                                                <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
-                                                    <div class="padding-twelve-lr">
-                                                        <span class="text-white-2 d-inline-block text-center">Iskustvo, odgovornost, profesionalnost.</span>
+                            <?php /*
+                                <!-- start post item -->
+                                <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp" data-wow-delay="0.4s">
+                                    <!-- start services item -->
+                                    <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
+                                        <figure class="position-relative">
+                                            <a href="services/usluga-8.php">
+                                                <div class=" sm-w-100">
+                                                    <div class="feature-box-image"><img src="images/img/usluga7.jpg" alt=""></div>
+                                                    <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
+                                                        <div class="padding-twelve-lr">
+                                                            <span class="text-white-2 d-inline-block text-center">Iskustvo, odgovornost, profesionalnost.</span>
+                                                        </div>
                                                     </div>
+                                                    <figcaption class="image-caption">
+                                                        <div class="text-center margin-30percent-top">
+                                                            <div class="font-large alt-font font-weight-400">Usluge merenja - kontrolna vaga</div>
+                                                        </div>
+                                                    </figcaption>
                                                 </div>
-                                                <figcaption class="image-caption">
-                                                    <div class="text-center margin-30percent-top">
-                                                        <div class="font-large alt-font font-weight-400">Usluge merenja - kontrolna vaga</div>
-                                                    </div>
-                                                </figcaption>
-                                            </div>
-                                        </a>
-                                    </figure>
-                                </div>
-                                <!-- end services item -->
-                            </li>
-                            <!-- end post item -->
+                                            </a>
+                                        </figure>
+                                    </div>
+                                    <!-- end services item -->
+                                </li>
+                                <!-- end post item -->
+                            */ ?>
                         </ul>
                     </div>
                 </div>
-                <!-- start pagination
-                <div class=" text-center margin-100px-top md-margin-50px-top wow animate__fadeInUp">
-                    <div class="pagination text-small text-uppercase text-extra-dark-gray">
-                        <ul class="mx-auto">
-                            <li><a href="#"><i class="fas fa-long-arrow-alt-left margin-5px-right d-none d-md-inline-block"></i> Prethodna</a></li>
-                            <li class="active"><a href="#">1</a></li>
-                            <li><a href="#">2</a></li>
-                            <li><a href="#">3</a></li>
-                            <li><a href="#">Sledeća <i class="fas fa-long-arrow-alt-right margin-5px-left d-none d-md-inline-block"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                 end pagination -->
             </div>
         </section>
         <!-- end blog content section -->

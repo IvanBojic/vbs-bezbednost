@@ -1,9 +1,7 @@
 <?php
 include_once 'components/php_composer.php';
 
-$folder = 'images/reference';
-
-$slike = clsFunctions::procitajSlikeIzFoldera($folder);
+$slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
 
 ?>
 
@@ -36,10 +34,10 @@ $slike = clsFunctions::procitajSlikeIzFoldera($folder);
                             <!-- start post item -->
                             <?php foreach ($slike as $slika) { ?>
                                 <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp">
-                                    <div class="blog-post bg-light-gray">
+                                    <div class="blog-post">
                                         <div class="blog-post-images overflow-hidden position-relative">
                                                 <img src="<?= $slika['path']; ?>" alt="">
-                                                <div class="references-hover-icon-hover-icon"><span class="text-medium font-weight-300"><?= $slika['title']; ?></span></div>
+                                                <div class="references-hover-icon-hover-icon bg-light-gray text-center"><span class="text-medium font-weight-400"><?= $slika['title']; ?></span></div>
                                         </div>
                                     </div>
                                 </li>

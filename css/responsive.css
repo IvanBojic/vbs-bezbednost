@@ -7136,6 +7136,10 @@
     
     /* feature-box-11 */
     .feature-box-11 .progress-line:after {visibility: hidden;}
+
+    .phone-contact-square {
+        background-color:#dbdbdb;
+    }
 }
 
 /* ipad Portrait */

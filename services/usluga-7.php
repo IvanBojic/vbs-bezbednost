@@ -26,7 +26,7 @@ require_once('./../config.php');
                         <!-- end sub title -->
                         <!-- start page title -->
                         <h1 class="alt-font text-white-2 font-weight-600 mb-0">
-                            Alkotestiranje zaposlenih
+                            Ostale usluge
                         </h1>
                         <!-- end page title -->
                     </div>
@@ -38,12 +38,26 @@ require_once('./../config.php');
         <section>
             <div class="container">
                 <div class="row">
-                    <div class="col-12 margin-60px-bottom sm-margin-30px-bottom wow animate__fadeIn"><img src="images/img/usluga-1-baner.png" alt=""/></div>
-                </div>
-                <div class="row">
                     <!-- start service item -->
-                    <div class="col-12 col-lg-6 col-md-6 col-sm-12 wow animate__fadeInUp">
+                    <div class="col-12 col-lg-12 col-md-6 col-sm-12 wow animate__fadeInUp">
                         <div class="sm-margin-30px-bottom wow animate__fadeIn margin-30px-left">
+                            <span class="text-medium alt-font text-extra-dark-gray d-block margin-15px-bottom md-margin-10px-bottom text-uppercase">
+                                1. Evidencija radnog vremena - ERV
+                            </span>
+                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
+                                Sistemi evidencije radnog vremena zaposlenima i poslodavcima obezbeđuju precizne podatke o radnom angažovanju zaposlenih, povećavaju efikasnost poslovanja i unapređuju sigurnost objekata.
+                                Menadžmentu su preko različitih tipova izveštaja obezbeđeni precizni podaci o angažovanju radnika na poslu.
+                                Pored radnog vremena evidentiraju se i kašnjenja na posao, prekovremeni rad, rad na terenu, korišćenje pauze za topli obrok i mnoge druge aktivnosti zaposlenih.
+                            </p>
+                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
+                                Hardverska komponenta ovih sistema koja se sastoji od beskontaktnih čitača i kartica, omogućava brzo i jednostavno i jednostavno beleženje dolaska i odlaska zaposlenih.
+                                Pomoću softverske komponente koja je izrađena u vidu jednostavne aplikacije, obezbeđeno je tačno obračunavanje radnog angažovanja zaposlenih.
+                            </p>
+                            <div class="separator-line-horrizontal-medium-light margin-10px-top margin-30px-bottom md-no-margin-top bg-deep-pink "></div>
+
+                            <span class="text-medium alt-font text-extra-dark-gray d-block margin-15px-bottom md-margin-10px-bottom text-uppercase">
+                                2. Alkotestiranje zaposlenih
+                            </span>
                             <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
                                 Alkotestiranje zaposlenih se vrši se u cilju prevencije, održavanje radne i tehnološke discipline zaposlenih,
                                 kao i opšte bezbednosti zaposlenih i imovine Društva.
@@ -56,12 +70,16 @@ require_once('./../config.php');
                             <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
                                 Alkotestiranje zaposlenih se obavlja prema pojedinačnom zahtevu klijenta ili u skladu sa ranije pripremljenim planom kontrole.
                             </p>
+                            <div class="separator-line-horrizontal-medium-light margin-10px-top margin-30px-bottom md-no-margin-top bg-deep-pink "></div>
+
+                            <span class="text-medium alt-font text-extra-dark-gray d-block margin-15px-bottom md-margin-10px-bottom text-uppercase">
+                                3. Uslužno merenje (vaganje)
+                            </span>
+                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
+                                Valjaonica - Bezbednost d.o.o. u svojoj ponudi ima uslužno merenje (vaganje) teretnih vozila na kolskoj vagi.
+                                Kapacitet kolske vage je 60t i vaga podleže redovnim proverama od strane akreditovanog kontrolnog tela.
+                            </p>
                             <div class="separator-line-horrizontal-medium-light margin-30px-top md-no-margin-top bg-deep-pink"></div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-lg-6 col-md-6 col-sm-12 wow animate__fadeInUp">
-                        <div class="sm-margin-30px-bottom wow animate__fadeIn margin-30px-left">
-                            <img src="images/img/usluga-7-slika.png" alt=""/>
                         </div>
                     </div>
                     <!-- end service item -->
