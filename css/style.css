@@ -3621,3 +3621,6 @@ body.o-nama {
     -webkit-box-shadow: 10px 10px 23px 0px rgba(190,190,190,0.75);
     -moz-box-shadow: 10px 10px 23px 0px rgba(190,190,190,0.75);
 }
+.title-reference {
+    min-height: 3rem !important;
+}
