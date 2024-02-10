@@ -3622,5 +3622,14 @@ body.o-nama {
     -moz-box-shadow: 10px 10px 23px 0px rgba(190,190,190,0.75);
 }
 .title-reference {
-    min-height: 3rem !important;
+    min-height: 3.3rem !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.block {
+    display: block;
+}
+.mt-2 {
+    margin-top: 1rem;
 }

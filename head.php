@@ -4,11 +4,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
-    <meta name="author" content="ThemeZaa">
+    <meta name="author" content="Bojic Ivan">
     <!-- description -->
     <meta name="description" content="">
     <!-- keywords -->
-    <meta name="keywords" content="creative, modern, clean, bootstrap responsive, html5, css3, portfolio, blog, agency, templates, multipurpose, one page, corporate, start-up, studio, branding, designer, freelancer, carousel, parallax, photography, personal, masonry, grid, coming soon, faq">
+    <meta name="keywords" content="vbs-bezbednost, copper mill, sevojno, bakar, aluminium, usluge obezbedjenja, security">
     <!-- Postavljanje osnovnog puta -->
     <base href="http://localhost/vbs-bezbednost/">
     <!-- Google Translate -->
