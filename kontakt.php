@@ -28,7 +28,7 @@
     <!-- end page title section -->
     <!-- start page title section -->
     <section class="wow animate__fadeIn bg-light-gray padding-35px-tb">
-        <div class="row m-0 row-cols-2 row-cols-sm-4">
+        <div class="row m-0 row-cols-1 row-cols-sm-2 row-cols-lg-4">
             <!-- start contact item -->
             <div class="col border-all d-flex flex-column justify-content-center align-items-center text-center h-300px lg-h-300px sm-h-250px last-paragraph-no-margin">
                 <i class="icon-map text-main-color icon-medium margin-25px-bottom"></i>

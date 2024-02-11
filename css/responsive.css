@@ -7137,9 +7137,6 @@
     /* feature-box-11 */
     .feature-box-11 .progress-line:after {visibility: hidden;}
 
-    .phone-contact-square {
-        background-color:#dbdbdb;
-    }
 }
 
 /* ipad Portrait */
@@ -7181,6 +7178,12 @@
     .swiper-slide {
         margin-right: 5px; /* Veći razmak za ekrane širine veće od 768 piksela */
         margin-left: 5px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 992px) {
+    .phone-contact-square {
+        background-color:#dbdbdb;
     }
 }
 
