@@ -19,7 +19,7 @@
                         <span class="d-block text-white-2 opacity6 margin-10px-bottom alt-font">Since 2006</span>
                         <!-- end sub title -->
                         <!-- start page title -->
-                        <h1 class="alt-font text-white-2 font-weight-600 w-55 md-w-80 sm-w-100 mx-auto mb-0">Valjaonica - Bezbednost d.o.o.</h1>
+                        <h1 class="alt-font text-white-2 font-weight-600 w-55 md-w-80 sm-w-100 mx-auto mb-0" translate="no">Valjaonica - Bezbednost d.o.o.</h1>
                         <!-- end page title -->
                     </div>
                     <div class="down-section text-center"><a href="#about" class="inner-link"><i class="ti-arrow-down icon-extra-small text-white-2 bg-deep-pink padding-15px-all sm-padding-10px-all rounded-circle"></i></a></div>

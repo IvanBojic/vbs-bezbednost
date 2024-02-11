@@ -7186,4 +7186,9 @@
         background-color:#dbdbdb;
     }
 }
+@media (max-width: 576px) {
+    .border-right {
+        border-bottom: 1px solid #939393
+    }
+}
 

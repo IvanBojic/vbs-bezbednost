@@ -692,7 +692,7 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                             <div class="swiper-wrapper">
                                 <!-- start slide -->
                                 <?php foreach ($slike as $slika) { ?>
-                                    <div class="swiper-slide"><img src="<?= $slika['path']; ?>" alt=""><span class="text-medium font-weight-300"><?= $slika['title']; ?></span></div>
+                                    <div class="swiper-slide"><img src="<?= $slika['path']; ?>" alt=""><span class="text-medium block mt-2 font-weight-300" translate="no"><?= $slika['title']; ?></span></div>
                                 <?php }  ?>
                                 <!-- end slide -->
                             </div>

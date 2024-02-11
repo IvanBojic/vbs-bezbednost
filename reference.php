@@ -37,7 +37,7 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                                     <div class="blog-post">
                                         <div class="blog-post-images overflow-hidden position-relative">
                                                 <img src="<?= $slika['path']; ?>" alt="">
-                                                <div class="references-hover-icon-hover-icon title-reference bg-light-gray text-center"><span class="text-medium font-weight-400"><?= $slika['title']; ?></span></div>
+                                                <div class="references-hover-icon-hover-icon title-reference bg-light-gray text-center"><span class="text-medium font-weight-400" translate="no"><?= $slika['title']; ?></span></div>
                                         </div>
                                     </div>
                                 </li>
