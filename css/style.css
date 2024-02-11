@@ -3637,6 +3637,12 @@ body.o-nama {
 .pl-10 {
     padding-left: 10px;
 }
+.textcentered {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+}
 
 .textcentered ul li {
     padding-bottom: 0.4rem;
