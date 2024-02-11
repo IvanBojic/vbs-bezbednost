@@ -28,16 +28,16 @@
     <!-- end page title section -->
     <!-- start page title section -->
     <section class="wow animate__fadeIn bg-light-gray padding-35px-tb">
-        <div class="row m-0 row-cols-1 row-cols-sm-2 row-cols-lg-4">
+        <div class="row m-0 row-cols-1 row-cols-sm-2 row-cols-lg-4 border-all">
             <!-- start contact item -->
-            <div class="col border-all d-flex flex-column justify-content-center align-items-center text-center h-300px lg-h-300px sm-h-250px last-paragraph-no-margin">
+            <div class="col border-right d-flex flex-column justify-content-center align-items-center text-center h-300px lg-h-300px sm-h-250px last-paragraph-no-margin">
                 <i class="icon-map text-main-color icon-medium margin-25px-bottom"></i>
                 <div class="text-uppercase alt-font font-weight-600 margin-5px-bottom">Adresa</div>
                 <p class="w-60 lg-w-80 mx-auto text-medium">Prvomajska bb,<br> 31205 Sevojno</p>
             </div>
             <!-- end contact item -->
             <!-- start contact item -->
-            <div class="col border-all phone-contact-square d-flex flex-column justify-content-center align-items-center text-center h-300px lg-h-300px sm-h-250px last-paragraph-no-margin">
+            <div class="col border-right phone-contact-square d-flex flex-column justify-content-center align-items-center text-center h-300px lg-h-300px sm-h-250px last-paragraph-no-margin">
                 <i class="icon-chat text-main-color icon-medium margin-25px-bottom"></i>
                 <div class="text-uppercase alt-font font-weight-600 margin-5px-bottom">Pozovite nas</div>
                 <p class="mx-auto text-medium mb-0">Tel: <a href="tel:+38131532203">+381 31 532 203</a></p>
@@ -45,7 +45,7 @@
             </div>
             <!-- end contact item -->
             <!-- start contact item -->
-            <div class="col border-all phone-contact-square d-flex flex-column justify-content-center align-items-center text-center h-300px lg-h-300px sm-h-250px last-paragraph-no-margin">
+            <div class="col border-right phone-contact-square d-flex flex-column justify-content-center align-items-center text-center h-300px lg-h-300px sm-h-250px last-paragraph-no-margin">
                 <i class="icon-envelope text-main-color icon-medium margin-25px-bottom"></i>
                 <div class="text-uppercase alt-font font-weight-600 margin-5px-bottom">Email</div>
                 <p class="mx-auto text-medium mb-0"><a href="mailto:valjaonicabezbednost@vbs.co.rs">valjaonicabezbednost@vbs.co.rs</a></p>
@@ -53,7 +53,7 @@
             </div>
             <!-- end contact item -->
             <!-- start contact item -->
-            <div class="col border-all d-flex flex-column justify-content-center align-items-center text-center h-300px lg-h-300px sm-h-250px last-paragraph-no-margin">
+            <div class="col d-flex flex-column justify-content-center align-items-center text-center h-300px lg-h-300px sm-h-250px last-paragraph-no-margin">
                 <i class="icon-clock text-main-color icon-medium margin-25px-bottom"></i>
                 <div class="text-uppercase alt-font font-weight-600 margin-5px-bottom">Matični podaci</div>
                 <p class="mx-auto text-medium mb-0">PIB: 104704014</p>
@@ -95,7 +95,7 @@
                 </div>
 
                 <div class="border-del col p-0 wow animate__fadeInRight">
-                    <iframe class="w-100 h-100" src="https://maps.google.com/?ie=UTF8&t=m&q=43.842068,19.890956&spn=0.007738,0.017123&z=15&output=embed" title="Valjaonica - Bezbednost d.o.o."></iframe>
+                    <iframe class="w-100 h-100 pl-10" src="https://maps.google.com/?ie=UTF8&t=m&q=43.842068,19.890956&spn=0.007738,0.017123&z=15&output=embed" title="Valjaonica - Bezbednost d.o.o."></iframe>
                 </div>
             </div>
         </div>

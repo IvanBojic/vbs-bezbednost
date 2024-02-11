@@ -40,7 +40,7 @@
             <div class="container-fluid">
                 <div class="row row-margin-15-bottom row-margin-15-top">
                     <div class="col-12 col-xl-4 col-md-6 bg-extra-dark-gray d-flex align-items-start wow animate__fadeIn">
-                        <div class="padding-six-all md-padding-nine-all sm-padding-50px-tb sm-padding-15px-lr">
+                        <div class="padding-six-all md-padding-nine-all sm-padding-50px-tb sm-padding-15px-lr textcentered">
                             <h5 class="alt-font text-white-2"></h5>
                             <p class="text-extra-large font-weight-300 text-extra-light-gray">
                                 Valjaonica - Bezbednost d.o.o. je privredno društvo osnovano 2006. godine. Osnivač društva je <a href="https://www.vbs.co.rs/" target="_blank">Valjaonica bakra Sevojno a.d.</a> i društvo je specijalizovano za pružanje usluga privatnog obezbeđenja.
@@ -67,32 +67,42 @@
                         <div class="row justify-content-center">
                             <div class="col-12 margin-30px-bottom text-center">                        
                                 <!-- start progress bar item -->
-                                <div class="progress progress-step-style-02 bg-transparent-white2 rounded-0 margin-55px-bottom">
+                                <div class="text-start rounded-0">
                                     <span class="progress-title text-extra-small text-uppercase text-white">1. Fizičko tehnička zaštita - <br>Licenca 03.39 br. 17746 od 28.11.2022. godine</span>
+                                </div>
+                                <div class="progress progress-step-style-02 bg-transparent-white2 rounded-0 margin-15px-bottom">
                                     <div class="progress-bar bg-gradient-light-red-light-white rounded-0" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                                 <!-- end progress bar item -->
                                 <!-- start  progress bar item -->
-                                <div class="progress progress-step-style-02 bg-transparent-white2 rounded-0 margin-55px-bottom">
+                                <div class="text-start rounded-0">
                                     <span class="progress-title text-extra-small text-uppercase text-white">2. Tehnička zaštita - <br>Licence 03.39 br. 25970, 25971, 25972 od 14.09.2022. godine.</span>
+                                </div>
+                                <div class="progress progress-step-style-02 bg-transparent-white2 rounded-0 margin-15px-bottom">
                                     <div class="progress-bar bg-gradient-light-red-light-white rounded-0" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                                 <!-- end progress bar item -->
                                 <!-- start  progress bar item -->
-                                <div class="progress progress-step-style-02 bg-transparent-white2 rounded-0 margin-55px-bottom">
+                                <div class="text-start rounded-0">
                                     <span class="progress-title text-extra-small text-uppercase text-white">3. Centar za obuku službenika obezbeđenja - <br>Ovlašćenje 03.39 br. 01-218/19-1 od 17.12.2019. godine.</span>
+                                </div>
+                                    <div class="progress progress-step-style-02 bg-transparent-white2 rounded-0 margin-15px-bottom">
                                     <div class="progress-bar bg-gradient-light-red-light-white rounded-0" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                                 <!-- end progress bar item -->
                                 <!-- start  progress bar item -->
-                                <div class="progress progress-step-style-02 bg-transparent-white2 rounded-0 margin-55px-bottom">
+                                <div class="text-start rounded-0">
                                     <span class="progress-title text-extra-small text-uppercase text-white">4. Procena rizika u zaštiti lica, imovine i poslovanja i plan obezbeđenja - <br>Licenca 03.39 br. 17747 od 11.05.2022. godine.</span>
+                                </div>
+                                    <div class="progress progress-step-style-02 bg-transparent-white2 rounded-0 margin-15px-bottom">
                                     <div class="progress-bar bg-gradient-light-red-light-white rounded-0" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                                 <!-- end progress bar item -->
                                 <!-- start  progress bar item -->
-                                <div class="progress progress-step-style-02 bg-transparent-white2 rounded-0">
+                                <div class="text-start rounded-0">
                                     <span class="progress-title text-extra-small text-uppercase text-white">5. Procena rizika od katastrofa i plan zaštite i spasavanja - <br>Ovlašćenje 09 br. 217-752/22 od 30.05.2022. godine.</span>
+                                </div>
+                                    <div class="progress progress-step-style-02 bg-transparent-white2 rounded-0">
                                     <div class="progress-bar bg-gradient-light-red-light-white rounded-0" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
                                 <!-- end progress bar item -->
