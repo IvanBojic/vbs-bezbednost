@@ -3634,6 +3634,41 @@ body.o-nama {
 .mt-2 {
     margin-top: 1rem;
 }
+.footer-text {
+    text-align: center;
+    width: 60%;
+    margin: 2rem auto;
+}
+.flex {
+    display: flex;
+}
+.centerinfo {
+    gap: 8px;
+    justify-content: center;
+}
+.companyname {
+    font-size: 18px;
+    color: #e4e4e4;
+    margin-top: 1.6rem;
+}
+.footerlink {
+    color: #e4e4e4;
+    text-decoration: underline;
+}
+.footergoogle {
+    color: #6f6f6f;
+    margin-top: 1.6rem;
+    display: flex;
+    font-size: 23px;
+}
+.copyright {
+    text-align: center;
+    margin: 2.6rem auto 0.2rem auto;
+}
+.poweredby {
+    text-align: center;
+    margin: 0rem auto 0.6rem;
+}
 .pl-10 {
     padding-left: 10px;
 }

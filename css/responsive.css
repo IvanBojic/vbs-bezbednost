@@ -7187,3 +7187,15 @@
     }
 }
 
+@media (max-width: 769px) {
+    .footer-text {
+        width: 90%;
+    }
+    .centerinfo {
+
+        flex-direction: column;
+        align-items: center;
+    }
+    .border-right {border-bottom: 1px solid #939393}
+    .pl-10 {padding-left: unset;}
+}
