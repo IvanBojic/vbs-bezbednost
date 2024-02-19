@@ -63,6 +63,88 @@ require_once('./../config.php');
                     <!-- end service item -->
                 </div>
                 <div class="row margin-90px-top">
+                    <div class="col-12 blog-content">
+                        <ul class="blog-grid blog-wrapper grid grid-loading grid-3col xl-grid-3col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col hover-option4 blog-post-style3 gutter-extra-large">
+                            <li class="grid-sizer"></li>
+                            <!-- start post item -->
+                            <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp">
+                                <!-- start services item -->
+                                <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
+                                    <figure class="position-relative">
+                                        <a href="services/usluga-8.php">
+                                            <div class="sm-w-100">
+                                                <div class="feature-box-image"><img src="images/img/usluga1.jpg" alt=""></div>
+                                                <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
+                                                    <div class="padding-twelve-lr">
+                                                        <span class="text-white-2 d-inline-block text-center">Iskustvo, odgovornost, profesionalnost.</span>
+                                                    </div>
+                                                </div>
+                                                <figcaption class="image-caption">
+                                                    <div class="text-center margin-30percent-top">
+                                                        <div class="font-large alt-font font-weight-400">Protivprovalna zaštita</div>
+                                                    </div>
+                                                </figcaption>
+                                            </div>
+                                        </a>
+                                    </figure>
+                                </div>
+                                <!-- end services item -->
+                            </li>
+                            <!-- end post item -->
+                            <!-- start post item -->
+                            <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp">
+                                <!-- start services item -->
+                                <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
+                                    <figure class="position-relative">
+                                        <a href="services/usluga-9.php">
+                                            <div class="sm-w-100">
+                                                <div class="feature-box-image"><img src="images/img/usluga9.jpg" alt=""></div>
+                                                <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
+                                                    <div class="padding-twelve-lr">
+                                                        <span class="text-white-2 d-inline-block text-center">Iskustvo, odgovornost, profesionalnost.</span>
+                                                    </div>
+                                                </div>
+                                                <figcaption class="image-caption">
+                                                    <div class="text-center margin-30percent-top">
+                                                        <div class="font-large alt-font font-weight-400">Sistemi video nadzora</div>
+                                                    </div>
+                                                </figcaption>
+                                            </div>
+                                        </a>
+                                    </figure>
+                                </div>
+                                <!-- end services item -->
+                            </li>
+                            <!-- end post item -->
+                            <!-- start post item -->
+                            <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp" data-wow-delay="0.4s">
+                                <!-- start services item -->
+                                <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
+                                    <figure class="position-relative">
+                                        <a href="services/usluga-10.php">
+                                            <div class=" sm-w-100">
+                                                <div class="feature-box-image"><img src="images/img/usluga7.jpg" alt=""></div>
+                                                <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
+                                                    <div class="padding-twelve-lr">
+                                                        <span class="text-white-2 d-inline-block text-center">Iskustvo, odgovornost, profesionalnost.</span>
+                                                    </div>
+                                                </div>
+                                                <figcaption class="image-caption">
+                                                    <div class="text-center margin-30percent-top">
+                                                        <div class="font-large alt-font font-weight-400">Kontrola pristupa i ERV</div>
+                                                    </div>
+                                                </figcaption>
+                                            </div>
+                                        </a>
+                                    </figure>
+                                </div>
+                                <!-- end services item -->
+                            </li>
+                            <!-- end post item -->
+                        </ul>
+                    </div>
+                </div>
+                <div class="row margin-90px-top">
                     <div class="col-12 page-title-large d-flex flex-column justify-content-center text-center">
                         <!-- start sub title -->
                         <span class="d-block margin-10px-bottom alt-font text-extra-dark-gray">Naš tim stručnjaka na raspolaganju Vam je za sva dodatna pitanja i informacije.</span>

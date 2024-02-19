@@ -26,7 +26,8 @@ require_once('./../config.php');
                         <!-- end sub title -->
                         <!-- start page title -->
                         <h1 class="alt-font text-white-2 font-weight-600 mb-0">
-                            Uslužno vaganje (merenje)
+                            Tehnička zaštita -<br>
+                            Protivprovalna zaštita
                         </h1>
                         <!-- end page title -->
                     </div>
@@ -38,22 +39,87 @@ require_once('./../config.php');
         <section>
             <div class="container">
                 <div class="row">
-                    <div class="col-12 margin-60px-bottom sm-margin-30px-bottom wow animate__fadeIn"><img src="images/img/usluga-1-baner.png" alt=""/></div>
+                    <div class="col-12 margin-60px-bottom sm-margin-30px-bottom wow animate__fadeIn"><img src="images/img/usluga-2-baner.png" alt=""/></div>
                 </div>
                 <div class="row">
                     <!-- start service item -->
-                    <div class="col-12 col-lg-6 col-md-6 col-sm-12 wow animate__fadeInUp">
+                    <div class="col-12 col-lg-12 col-md-6 col-sm-12 wow animate__fadeInUp">
                         <div class="sm-margin-30px-bottom wow animate__fadeIn margin-30px-left">
                             <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
-                                Valjaonica - Bezbednost d.o.o. u svojoj ponudi ima uslužno merenje (vaganje) teretnih vozila na kolskoj vagi.
-                                Kapacitet kolske vage je 60t i vaga podleže redovnim proverama od strane akreditovanog kontrolnog tela.
+                                Sistem protivprovalne zaštite ima za cilj rano otkrivanje neovlašćenog prisustva u spoljašnjim i
+                                unutrašnjim delovima objekta i blagovremenu dojavu u Kontrolni centar.
                             </p>
-                            <div class="separator-line-horrizontal-medium-light margin-30px-top md-no-margin-top bg-deep-pink"></div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-lg-6 col-md-6 col-sm-12 wow animate__fadeInUp">
-                        <div class="sm-margin-30px-bottom wow animate__fadeIn margin-30px-left">
-                            <img src="images/img/usluga-1-slika.png" alt=""/>
+                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
+                                Statistika kaže da se ugradnjom sistema zaštite, štete od razbojništva smanjuju i do 20 puta.
+                            </p>
+                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
+                                Šta čini protivprovalni sistem?
+                            </p>
+                            <ul class="font-weight-500">
+                                <li>centralni upravljački uređaj - protivprovalna centrala,</li>
+                                <li>detektori za unutrašnju i spoljašnju zaštitu,</li>
+                                <li>aktivne IC barijere,</li>
+                                <li>panik aktivatori,</li>
+                                <li>uređaji za signalizaciju:unutrašnje i spoljašnje sirene i bljeskalice,</li>
+                                <li>uređaji za komunikaciju: telefonski dojavnici sa govornom porukom, GSM/GPRS
+                                    komunikatori, TCP/IP komunikatori.</li>
+                            </ul>
+                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
+                                Projektovanje<br>
+                                U okviru projektovanja naših sistema protivprovalne zaštite, vršimo procenu ugroženosti
+                                objekta i ugrađivanje sistema svih veličina kao i integraciju drugih sistema tehničke zaštite sa
+                                protivprovalnim sistemom.
+                            </p>
+                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
+                                <strong>Perimetarska zaštita:</strong><br>
+                                Perimetarska zaštita je jedan od važnih segmenata zaštite industrijskih, komercijalnih, javnih
+                                ili privatnih objekata. Nudimo kompletan spektar pouzdanih i inteligentnih sistema za
+                                perimetrasku zaštitu, kako za spoljnu tako i za unutrašnju zaštitu objekata, kombinujući
+                                najbolje karakteristike mikrotalasnih, infracrvenih i doplerskih senzora. U kombinaciji sa
+                                inteligentnim sistemima za upozorenje i analizu signala sa kojima rade obezbeđuju kompletnu
+                                bezbednost objekata koji zahtevaju visok stepen sigurnosti. Mogu se inkorporirati sa sistemima
+                                video nadzora i alarmnim sistemima i sistemima kontrole pristupa.
+                            </p>
+                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
+                                <strong>Alarmni sistemi:</strong><br>
+                                Protivprovalni alarmni sistemi - alarmi imaju vrlo široku primenu. Koriste se za zaštitu imovine
+                                kako stambenog prostora (kuća, stan, vikendica...) tako i poslovnog prostora. Pored toga,
+                                primenu nalaze i u zaštiti magacinskog prostora, banaka, obrazovnih institucija, sportskih hala
+                                i terena, bolnica, objekata specijalne namene i drugih objekata koji mogu imati korist od
+                                ovakvog načina zaštite.
+                            </p>
+                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
+                                Uz pravilnu procenu bezbednosne situacije na samom objektu i analizom mogućih načina
+                                ugrožavanja objekta i imovine vršimo ugradnju najsavremenije protivprovalne opreme u okviru
+                                štićenog prostora. Pored ugradnje, nudimo mogućnost i daljinskog nadzora alamnih sistema
+                                štićenih objekata iz Kontrolnog centra.
+                            </p>
+                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
+                                Koristimo sledeće vrste detektora:
+                            </p>
+                            <ul class="font-weight-500">
+                                <li>pasivne infracrvene detektore (PIR),</li>
+                                <li>IC barijere,</li>
+                                <li>mikrotalasne detektore,</li>
+                                <li>detektore loma stakla,</li>
+                                <li>detektore promene pritiska u prostoriji,</li>
+                                <li>detektore vibracija i udaraca,</li>
+                                <li>kombinovane detektore,</li>
+                                <li>ostali (magnetski kontakti, infracrvene barijere, mikrotalasne barijere, leaky kablovi...).</li>
+                            </ul>
+                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
+                                <strong>Protivprovalne barijere (IC barijere):</strong><br>
+                                Protivprovalne barijere koriste se za perimetarsku zaštitu štićenog prostora. Primenjuju se za
+                                obezbeđivanje poslovnih objekata, parkinga, kuća kao i pojedinih kritičnih delova objekata i
+                                njihove okoline kao što su velike staklene površine, dugački hodnici, ograde i slično. Različitim
+                                konfiguracijama uređaja moguće je ostvariti različite domete detekcije prema potrebama
+                                konkretne situacije.
+                                Naši sistemi nalaze široku upotrebu u raznim oblastima privrede, u industrijskim objektima,
+                                bezbednosti, uslužnim delatnostima i sl. Sisteme projektujemo i realizujemo u skladu sa
+                                zahtevima korisnika, kao i prema nameni objekata gde ih ugrađujemo, od malih objekata, do
+                                velikih industrijskih sistema.
+                            </p>
+                            <div class="separator-line-horrizontal-medium-light margin-10px-top margin-30px-bottom md-no-margin-top bg-deep-pink "></div>
                         </div>
                     </div>
                     <!-- end service item -->
