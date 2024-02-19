@@ -17,7 +17,7 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
         include 'header.php';
     ?>
         <!-- start slider section --> 
-        <section class="wow animate__fadeIn example no-padding no-transition">
+        <section class="wow animate__fadeIn example no-padding no-transition top-space">
             <article class="content">
                 <div id="rev_slider_1078_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="classic4export" data-source="gallery" style="margin:0px auto;background-color:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
                     <!-- start revolution slider 5.4.1 fullwidth mode -->
@@ -26,26 +26,26 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                             <li data-index="rs-3045" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="Power4.easeInOut" data-easeout="Power4.easeInOut" data-masterspeed="200"  data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="100" data-fsslotamount="0" data-saveperformance="off"  data-title="" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                                 <div class="opacity-extra-medium bg-black position-relative z-index-1"></div>
                                 <!-- main image -->
-                                <img src="images/img/pocetna.jpg"  alt="Ocean"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg">
+                                <img src="images/img/pocetna1.jpg" alt="Ocean" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg">
 
                                 <!-- layer nr. 4 -->
-                                <div class="tp-caption NotGeneric-SubTitle tp-resizeme " 
-                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                                     data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
-                                     data-fontsize="['60','60','50','40']"
-                                     data-lineheight="['75','75','60','60']"
-                                     data-width="none"
+                                <div class="tp-caption NotGeneric-SubTitle tp-resizeme "
+                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                                     data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
+                                     data-fontsize="['60','40','40','30']"
+                                     data-lineheight="['70','50','45','35']"
+                                     data-width="100%"
                                      data-height="none"
-                                     data-whitespace="nowrap"
-                                     data-type="text" 
-                                     data-responsive_offset="on" 
+                                     data-whitespace="normal"
+                                     data-type="text"
+                                     data-responsive_offset="on"
                                      data-frames='[{"from":"y:50px;opacity:0;","speed":1000,"to":"o:1;","delay":600,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:2px 2px 2px 2px;"}]'
                                      data-textAlign="['center','center','center','center']"
                                      data-paddingtop="[10,10,10,10]"
                                      data-paddingright="[0,0,0,0]"
                                      data-paddingbottom="[10,10,10,10]"
                                      data-paddingleft="[0,0,0,0]"
-                                     style="z-index: 8; white-space: nowrap; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Fizičko - tehnička zaštita</div>
+                                     style="z-index: 8; white-space: normal; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Fizičko - tehnička zaštita</div>
 
                                 <!-- layer nr. 5 -->
                                 <a href="services/usluga-1.php" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5"
@@ -71,17 +71,17 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                             <li data-index="rs-2" data-transition="fade" data-slotamount="3" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="500"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                                 <div class="opacity-extra-medium bg-black position-relative z-index-1"></div>
                                 <!-- main image -->
-                                <img src="images/img/pocetna2.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
+                                <img src="images/img/pocetna2.jpg"  alt=""  data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
 
                                 <!-- layer nr. 4 -->
-                                <div class="tp-caption NotGeneric-SubTitle tp-resizeme " 
-                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                                     data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
-                                     data-fontsize="['60','60','50','40']"
-                                     data-lineheight="['75','75','60','60']"
-                                     data-width="none"
+                                <div class="tp-caption NotGeneric-SubTitle tp-resizeme "
+                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                                     data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
+                                     data-fontsize="['60','40','40','30']"
+                                     data-lineheight="['70','50','45','35']"
+                                     data-width="100%"
                                      data-height="none"
-                                     data-whitespace="nowrap"
+                                     data-whitespace="normal"
                                      data-visibility="['on', 'on', 'on', 'on']"
                                      data-type="button"
                                      data-color="['#FFF']"
@@ -93,8 +93,8 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                                      data-paddingright="[30,30,30,30]"
                                      data-paddingbottom="[10,10,10,10]"
                                      data-paddingleft="[30,30,30,30]"
-                                     data-basealign="slide" 
-                                     style="z-index: 8; white-space: nowrap; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Tehnička zaštita</div>
+                                     data-basealign="slide"
+                                     style="z-index: 8; white-space: normal; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Tehnička zaštita</div>
                                 <!-- layer nr. 5 -->
                                 <a href="services/usluga-2.php" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5"
                                    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
@@ -118,17 +118,17 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                             <li data-index="rs-3" data-transition="fade" data-slotamount="3" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="500"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                                 <div class="opacity-extra-medium bg-black position-relative z-index-1"></div>
                                 <!-- main image -->
-                                <img src="images/img/pocetna3.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
+                                <img src="images/img/pocetna3.jpg"  alt=""  data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
 
                                 <!-- layer nr. 4 -->
-                                <div class="tp-caption NotGeneric-SubTitle tp-resizeme " 
-                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                                     data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']" 
-                                     data-fontsize="['60','60','50','40']"
-                                     data-lineheight="['75','75','60','60']"
-                                     data-width="none"
+                                <div class="tp-caption NotGeneric-SubTitle tp-resizeme "
+                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                                     data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
+                                     data-fontsize="['60','40','40','30']"
+                                     data-lineheight="['70','50','45','35']"
+                                     data-width="100%"
                                      data-height="none"
-                                     data-whitespace="nowrap"
+                                     data-whitespace="normal"
                                      data-visibility="['on', 'on', 'on', 'on']"
                                      data-type="button"
                                      data-color="['#FFF']"
@@ -140,8 +140,8 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                                      data-paddingright="[30,30,30,30]"
                                      data-paddingbottom="[10,10,10,10]"
                                      data-paddingleft="[30,30,30,30]"
-                                     data-basealign="slide" 
-                                     style="z-index: 8; white-space: nowrap; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Centar za obuku <br>službenika obezbeđenja</div>
+                                     data-basealign="slide"
+                                     style="z-index: 8; white-space: normal; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Centar za obuku <br>službenika obezbeđenja</div>
 
                                 <!-- layer nr. 5 -->
                                 <!-- layer nr. 5 -->
@@ -167,17 +167,17 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                             <li data-index="rs-4" data-transition="fade" data-slotamount="3" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="500"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                                 <div class="opacity-extra-medium bg-black position-relative z-index-1"></div>
                                 <!-- main image -->
-                                <img src="images/img/pocetna3.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
+                                <img src="images/img/pocetna4.jpg"  alt=""  data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
 
                                 <!-- layer nr. 4 -->
                                 <div class="tp-caption NotGeneric-SubTitle tp-resizeme "
                                      data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                                      data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
-                                     data-fontsize="['60','60','50','40']"
-                                     data-lineheight="['75','75','60','60']"
-                                     data-width="none"
+                                     data-fontsize="['60','40','40','30']"
+                                     data-lineheight="['70','50','45','35']"
+                                     data-width="100%"
                                      data-height="none"
-                                     data-whitespace="nowrap"
+                                     data-whitespace="normal"
                                      data-visibility="['on', 'on', 'on', 'on']"
                                      data-type="button"
                                      data-color="['#FFF']"
@@ -190,7 +190,7 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                                      data-paddingbottom="[10,10,10,10]"
                                      data-paddingleft="[30,30,30,30]"
                                      data-basealign="slide"
-                                     style="z-index: 8; white-space: nowrap; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Procena rizika u zaštiti lica, imovine <br> i poslovanja i plan obezbeđenja</div>
+                                     style="z-index: 8; white-space: normal; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Procena rizika u zaštiti lica, imovine i poslovanja <br> i plan obezbeđenja</div>
 
                                 <!-- layer nr. 5 -->
                                 <!-- layer nr. 5 -->
@@ -216,17 +216,17 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                             <li data-index="rs-5" data-transition="fade" data-slotamount="3" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="500"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                                 <div class="opacity-extra-medium bg-black position-relative z-index-1"></div>
                                 <!-- main image -->
-                                <img src="images/img/pocetna3.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
+                                <img src="images/img/pocetna5.jpg"  alt=""  data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
 
                                 <!-- layer nr. 4 -->
                                 <div class="tp-caption NotGeneric-SubTitle tp-resizeme "
                                      data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                                      data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
-                                     data-fontsize="['60','60','50','40']"
-                                     data-lineheight="['75','75','60','60']"
-                                     data-width="none"
+                                     data-fontsize="['60','40','40','30']"
+                                     data-lineheight="['70','50','45','35']"
+                                     data-width="100%"
                                      data-height="none"
-                                     data-whitespace="nowrap"
+                                     data-whitespace="normal"
                                      data-visibility="['on', 'on', 'on', 'on']"
                                      data-type="button"
                                      data-color="['#FFF']"
@@ -239,7 +239,7 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                                      data-paddingbottom="[10,10,10,10]"
                                      data-paddingleft="[30,30,30,30]"
                                      data-basealign="slide"
-                                     style="z-index: 8; white-space: nowrap; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Procena rizika od katastrofa <br> i plan zaštite i spasavanja</div>
+                                     style="z-index: 8; white-space: normal; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Procena rizika od katastrofa <br> i plan zaštite i spasavanja</div>
 
                                 <!-- layer nr. 5 -->
                                 <!-- layer nr. 5 -->
@@ -265,17 +265,17 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                             <li data-index="rs-6" data-transition="fade" data-slotamount="3" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="500"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                                 <div class="opacity-extra-medium bg-black position-relative z-index-1"></div>
                                 <!-- main image -->
-                                <img src="images/img/pocetna3.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
+                                <img src="images/img/pocetna6.jpg"  alt=""  data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
 
                                 <!-- layer nr. 4 -->
                                 <div class="tp-caption NotGeneric-SubTitle tp-resizeme "
                                      data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                                      data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
-                                     data-fontsize="['60','60','50','40']"
-                                     data-lineheight="['75','75','60','60']"
-                                     data-width="none"
+                                     data-fontsize="['60','40','40','30']"
+                                     data-lineheight="['70','50','45','35']"
+                                     data-width="100%"
                                      data-height="none"
-                                     data-whitespace="nowrap"
+                                     data-whitespace="normal"
                                      data-visibility="['on', 'on', 'on', 'on']"
                                      data-type="button"
                                      data-color="['#FFF']"
@@ -288,7 +288,7 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                                      data-paddingbottom="[10,10,10,10]"
                                      data-paddingleft="[30,30,30,30]"
                                      data-basealign="slide"
-                                     style="z-index: 8; white-space: nowrap; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Alkotestiranje zaposlenih</div>
+                                     style="z-index: 8; white-space: normal; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Alkotestiranje zaposlenih</div>
 
                                 <!-- layer nr. 5 -->
                                 <!-- layer nr. 5 -->
@@ -314,17 +314,17 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                             <li data-index="rs-7" data-transition="fade" data-slotamount="3" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="500"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                                 <div class="opacity-extra-medium bg-black position-relative z-index-1"></div>
                                 <!-- main image -->
-                                <img src="images/img/pocetna3.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
+                                <img src="images/img/pocetna6.jpg"  alt=""  data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
 
                                 <!-- layer nr. 4 -->
                                 <div class="tp-caption NotGeneric-SubTitle tp-resizeme "
                                      data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                                      data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
-                                     data-fontsize="['60','60','50','40']"
-                                     data-lineheight="['75','75','60','60']"
-                                     data-width="none"
+                                     data-fontsize="['60','40','40','30']"
+                                     data-lineheight="['70','50','45','35']"
+                                     data-width="100%"
                                      data-height="none"
-                                     data-whitespace="nowrap"
+                                     data-whitespace="normal"
                                      data-visibility="['on', 'on', 'on', 'on']"
                                      data-type="button"
                                      data-color="['#FFF']"
@@ -337,7 +337,7 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                                      data-paddingbottom="[10,10,10,10]"
                                      data-paddingleft="[30,30,30,30]"
                                      data-basealign="slide"
-                                     style="z-index: 8; white-space: nowrap; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Usluge merenja -<br>kontrolna vaga</div>
+                                     style="z-index: 8; white-space: normal; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Usluge merenja -<br>kontrolna vaga</div>
 
                                 <!-- layer nr. 5 -->
                                 <!-- layer nr. 5 -->
@@ -413,85 +413,6 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
             </div>
         </section>
         <!-- end O NAMA section -->
-        <!-- start parallax feature box -->
-        <?php /* <section class="p-0 wow animate__fadeIn bg-light-gray">
-            <div class="container-fluid">
-                <div class="row row-margin-15-top row-margin-15-bottom row-cols-1 row-cols-lg-2">
-                    <div class="col wow animate__fadeInLeft padding-four-all md-padding-eight-all md-padding-15px-lr sm-padding-50px-tb">
-                        <div class="row row-cols-1 row-cols-xl-2 row-cols-lg-1 row-cols-sm-2 m-0">
-                            <!-- start features box item -->
-                            <div class="col margin-six-bottom md-margin-50px-bottom sm-margin-40px-bottom last-paragraph-no-margin">
-                                <div class="feature-box-5 position-relative">
-                                    <i class="ti-package icon text-medium-gray icon-medium"></i>
-                                    <div class="feature-content">
-                                        <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">PROIZVODI</div>
-                                        <p class="w-95 sm-w-100">Naši poluproizvodi nalaze primenu u mašinogradnji, elektroindustriji, brodogradnji, petrohemiji, energetici, automobilskoj i procesnoj industriji, građevinarstvu i arhitekturi.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- end features box item -->
-                            <!-- start features box item -->
-                            <div class="col margin-six-bottom md-margin-50px-bottom sm-margin-40px-bottom last-paragraph-no-margin" data-wow-delay="0.2s">
-                                <div class="feature-box-5 position-relative">
-                                    <i class="ti-bar-chart icon text-medium-gray icon-medium"></i>
-                                    <div class="feature-content">
-                                        <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">TRŽIŠTE</div>
-                                        <p class="w-95 sm-w-100">Najveći deo proizvoda se plasira na inostrano tržište (87%) pri čemu prednjači tržište Zapadne Evrope.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- end features box item -->
-                            <!-- start features box item -->
-                            <div class="col lg-margin-six-bottom sm-margin-40px-bottom" data-wow-delay="0.4s">
-                                <div class="feature-box-5 position-relative">
-                                    <i class="ti-ruler-pencil icon text-medium-gray icon-medium"></i>
-                                    <div class="feature-content">
-                                        <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">KVALITET</div>
-                                        <p class="w-95 sm-w-100">Valjaonica bakra Sevojno ima sertifikovan sistem menadžmenta kvalitetom SRPS ISO 9001:2015 kao i sertifikovan sistem menadžmenta zaštitom životne sredine SRPS ISO 14001:2015.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- end features box item -->
-                            <!-- start features box item -->
-                            <div class="col lg-margin-six-bottom sm-margin-40px-bottom" data-wow-delay="0.6s">
-                                <div class="feature-box-5 position-relative ">
-                                    <i class="ti-stats-up icon text-medium-gray icon-medium"></i>
-                                    <div class="feature-content">
-                                        <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">USPEH</div>
-                                        <p class="w-95 sm-w-100">Osnov našeg uspeha su zadovoljni kupci što potvrđuje i izuzetno mali broj reklamacija na proizvode koje primamo.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- end features box item -->
-                            <!-- start features box item -->
-                            <div class="col last-paragraph-no-margin" data-wow-delay="0.6s">
-                                <div class="feature-box-5 position-relative ">
-                                    <i class="ti-target icon text-medium-gray icon-medium"></i>
-                                    <div class="feature-content">
-                                        <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">VIZIJA</div>
-                                        <p class="w-95 sm-w-100">Naša vizija je unapređenje proizvodnje kako bismo postali jedan od lidera na evropskom tržištu.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- end features box item -->
-                            <!-- start features box item -->
-                            <div class="col last-paragraph-no-margin" data-wow-delay="0.6s">
-                                <div class="feature-box-5 position-relative ">
-                                    <i class="ti-user icon text-medium-gray icon-medium"></i>
-                                    <div class="feature-content">
-                                        <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">KOLEKTIV</div>
-                                        <p class="w-95 sm-w-100">Više od 1.000 posvećenih radnika Valjaonice bakra Sevojno marljivo stvara proizvode za ceo svet.</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- end features box item -->
-                        </div>
-                    </div> 
-                    <div class="col cover-background md-h-400px wow animate__fadeInRight" style="background-image:url('https://via.placeholder.com/945x663');"></div>
-                </div>
-            </div>
-        </section> */ ?>
-        <!-- end parallax feature box -->   
         <!-- start USLUGE section -->
         <section class="border-top border-color-extra-light-gray wow animate__fadeIn">
             <div class="container">
@@ -661,21 +582,6 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
             </div>
         </section>
         <!-- end USLUGE section -->
-        <!-- start video section -->
-        <?php /* <section class="parallax" data-parallax-background-ratio="0" style="background-image:url('images/img/video_baner.jpg');">
-            <div class="opacity-full bg-extra-dark-gray"></div>
-            <div class="container position-relative">
-                <div class="row justify-content-center">
-                    <div class="col-12 col-xl-9 col-lg-10 text-center wow animate__fadeIn last-paragraph-no-margin">
-                        <a class="popup-youtube" href="https://www.youtube.com/watch?v=sU3FkzUKHXU"><img src="images/icon-play-white.png" class="w-10 sm-w-50px margin-30px-bottom" alt=""/></a>
-                        <h4 class="alt-font text-white-2">Beautiful and easy to use UI, professional animations and drag & drop feature</h4>
-                        <p class="w-75 mx-auto text-medium-gray lg-w-90 sm-w-100 sm-margin-30px-bottom">With years of experience in the website design and development industry ThemeZaa pride ourselves on creating unique, creative and quality designs that are developed upon the latest modern coding and developing techniques, which are then built using the most up to date, structured coding framework so that your development team can take it to the next level with ease.</p>
-                        <a href="about-us-simple.html" class="btn btn-white btn-small text-extra-small border-radius-4 margin-45px-top sm-margin-35px-top"><i class="fas fa-play-circle icon-very-small margin-5px-right ms-0" aria-hidden="true"></i> About Company</a>
-                    </div>
-                </div>
-            </div>
-        </section> */ ?>
-        <!-- end video section -->
         <!-- start REFERENCE section  -->
         <section class="border-top border-color-extra-light-gray wow animate__fadeIn">
             <div class="container text-center">
