@@ -40,57 +40,64 @@ require_once('./../config.php');
                 <div class="row">
                     <div class="col-12 margin-60px-bottom sm-margin-30px-bottom wow animate__fadeIn"><img src="images/img/usluga-1-baner.png" alt=""/></div>
                 </div>
-                <div class="col-12 col-lg-12 col-md-6 col-sm-12 wow animate__fadeInUp  margin-90px-top">
-                    <div class="sm-margin-30px-bottom wow animate__fadeIn margin-30px-left">
-                        <span class="text-medium alt-font text-extra-dark-gray d-block margin-15px-bottom md-margin-10px-bottom text-uppercase">
-                            Fizičko obezbeđenje
-                        </span>
-                        <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom margin-10px-bottom">
-                            U skladu sa zakonskom regulativom, kombinacijom fizičkog
-                            obezbeđenja i sistema tehničke zaštite, pružamo kompletnu uslugu zadovoljnim klijentima.
-                            Glavni deo poslovanja u ovoj oblasti čini fizičko tehnička zaštita obavezno obezbeđenih
-                            objekata od strateškog značaja za Republiku Srbiju i njene građane. Pored toga, naši
-                            klijenti su javne ustanove, privatne kompanije i drugi poslovni objekti.
-                        </p>
-                        <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
-                            Svi službenici obezbeđenja naše kompanije su prošli specijalističku obuku za službenike
-                            obezbeđenja i licencirani su od strane MUP-a u skladu sa Zakonom o privatnom
-                            obezbeđenju, prošli su bezbednosnu proveru, a u skladu sa specifičnostima radne pozicije i
-                            naprednu obuku za obavljanje ovih poslova.
-                        </p>
-                        <div class="separator-line-horrizontal-medium-light margin-10px-top margin-30px-bottom md-no-margin-top bg-deep-pink "></div>
+                <div class="row">
+                    <div class="col-12 col-lg-6 col-md-6 col-sm-12 wow animate__fadeInUp">
+                        <div class="sm-margin-30px-bottom wow animate__fadeIn margin-30px-left">
+                            <span class="text-medium alt-font text-extra-dark-gray d-block margin-15px-bottom md-margin-10px-bottom text-uppercase">
+                                Fizičko obezbeđenje
+                            </span>
+                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom margin-10px-bottom">
+                                U skladu sa zakonskom regulativom, kombinacijom fizičkog
+                                obezbeđenja i sistema tehničke zaštite, pružamo kompletnu uslugu zadovoljnim klijentima.
+                                Glavni deo poslovanja u ovoj oblasti čini fizičko tehnička zaštita obavezno obezbeđenih
+                                objekata od strateškog značaja za Republiku Srbiju i njene građane. Pored toga, naši
+                                klijenti su javne ustanove, privatne kompanije i drugi poslovni objekti.
+                            </p>
+                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
+                                Svi službenici obezbeđenja naše kompanije su prošli specijalističku obuku za službenike
+                                obezbeđenja i licencirani su od strane MUP-a u skladu sa Zakonom o privatnom
+                                obezbeđenju, prošli su bezbednosnu proveru, a u skladu sa specifičnostima radne pozicije i
+                                naprednu obuku za obavljanje ovih poslova.
+                            </p>
+                            <div class="separator-line-horrizontal-medium-light margin-10px-top margin-30px-bottom md-no-margin-top bg-deep-pink "></div>
 
-                        <span class="text-medium alt-font text-extra-dark-gray d-block margin-15px-bottom md-margin-10px-bottom text-uppercase">
-                            Kontrolni centar
-                        </span>
-                        <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom margin-10px-bottom">
-                            Pored fizičkog obezbeđenja, integralni deo sistema fizičko tehničke
-                            zaštite je i Kontrolni centar sa dežurstvom od 24 sata, 365 dana godišnje. Kontrolni centar
-                            omogućava:
-                        </p>
-                        <ul class="font-weight-500">
-                            <li>stalnu komunikaciju sa službenicima obezbeđenja i korisnicima usluge,</li>
-                            <li>video monitoring - nadzor nad imovinom klijenata putem sistema video obezbeđenja,</li>
-                            <li>alarm monitoring - praćenje alarmnih sistema (protivprovalni i protivpožarni sistemi)
-                                uz mogućnost intervencije patrolnog tima u slučaju incidentne situacije.</li>
-                        </ul>
-                        <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom margin-10px-bottom">
-                            Glavne prednosti ovog sistema su:
-                        </p>
-                        <ul class="font-weight-500">
-                            <li>Stalni nadzor objekta 24 h, 365 dana u godini,</li>
-                            <li>Automatska dojava alarma u slučaju narušavanja štićenog prostora,</li>
-                            <li>Automatska dojava alarma u slučaju požara,</li>
-                            <li>Izlazak patrolnog tima i intervencija na mestu događaja,</li>
-                            <li>Obaveštavanje nadležnih službi u slučaju potrebe za intervencijom,</li>
-                            <li>Obaveštavanje korisnika usluga o vanrednom događaju (uvid u sve promene).</li>
-                        </ul>
-                        <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
-                            Sve navedeno je definisano internim pravilnicima i procedurama, što je do sada dalo
-                            izuzetne rezultate u sprečavanju različitih oblika kriminaliteta i zaštiti lica i štićene imovine
-                            klijenata, posebno sa stanovišta prevencije događaja.
-                        </p>
-                        <div class="separator-line-horrizontal-medium-light margin-30px-top md-no-margin-top bg-deep-pink"></div>
+                            <span class="text-medium alt-font text-extra-dark-gray d-block margin-15px-bottom md-margin-10px-bottom text-uppercase">
+                                Kontrolni centar
+                            </span>
+                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom margin-10px-bottom">
+                                Pored fizičkog obezbeđenja, integralni deo sistema fizičko tehničke
+                                zaštite je i Kontrolni centar sa dežurstvom od 24 sata, 365 dana godišnje. Kontrolni centar
+                                omogućava:
+                            </p>
+                            <ul class="font-weight-500">
+                                <li>stalnu komunikaciju sa službenicima obezbeđenja i korisnicima usluge,</li>
+                                <li>video monitoring - nadzor nad imovinom klijenata putem sistema video obezbeđenja,</li>
+                                <li>alarm monitoring - praćenje alarmnih sistema (protivprovalni i protivpožarni sistemi)
+                                    uz mogućnost intervencije patrolnog tima u slučaju incidentne situacije.</li>
+                            </ul>
+                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom margin-10px-bottom">
+                                Glavne prednosti ovog sistema su:
+                            </p>
+                            <ul class="font-weight-500">
+                                <li>Stalni nadzor objekta 24 h, 365 dana u godini,</li>
+                                <li>Automatska dojava alarma u slučaju narušavanja štićenog prostora,</li>
+                                <li>Automatska dojava alarma u slučaju požara,</li>
+                                <li>Izlazak patrolnog tima i intervencija na mestu događaja,</li>
+                                <li>Obaveštavanje nadležnih službi u slučaju potrebe za intervencijom,</li>
+                                <li>Obaveštavanje korisnika usluga o vanrednom događaju (uvid u sve promene).</li>
+                            </ul>
+                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
+                                Sve navedeno je definisano internim pravilnicima i procedurama, što je do sada dalo
+                                izuzetne rezultate u sprečavanju različitih oblika kriminaliteta i zaštiti lica i štićene imovine
+                                klijenata, posebno sa stanovišta prevencije događaja.
+                            </p>
+                            <div class="separator-line-horrizontal-medium-light margin-30px-top md-no-margin-top bg-deep-pink"></div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-6 col-md-6 col-sm-12 wow animate__fadeInUp">
+                        <div class="sm-margin-30px-bottom wow animate__fadeIn margin-30px-left">
+                            <img src="images/img/usluga-1-slika.png" alt=""/>
+                        </div>
                     </div>
                 </div>
                 <div class="row margin-90px-top">

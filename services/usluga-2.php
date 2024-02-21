@@ -42,7 +42,7 @@ require_once('./../config.php');
                 </div>
                 <div class="row">
                     <!-- start service item -->
-                    <div class="col-12 col-lg-6 col-md-6 col-sm-12 wow animate__fadeInUp">
+                    <div class="col-12 col-lg-12 col-md-6 col-sm-12 wow animate__fadeInUp">
                         <div class="sm-margin-30px-bottom wow animate__fadeIn margin-30px-left">
                             <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
                                 Naša kompanija poseduje  licence u skladu sa Zakonom i pruža usluge u domenu sistema tehničke zaštite:
@@ -53,11 +53,6 @@ require_once('./../config.php');
                                 <li>montaža, puštanje u rad i održavanje sistema tehničke zaštite i obuka korisnika.</li>
                             </ul>
                             <div class="separator-line-horrizontal-medium-light margin-30px-top md-no-margin-top bg-deep-pink"></div>
-                        </div>
-                    </div>
-                    <div class="col-12 col-lg-6 col-md-6 col-sm-12 wow animate__fadeInUp">
-                        <div class="sm-margin-30px-bottom wow animate__fadeIn margin-30px-left">
-                            <img src="images/img/usluga-2-slika.png" alt=""/>
                         </div>
                     </div>
                     <!-- end service item -->
