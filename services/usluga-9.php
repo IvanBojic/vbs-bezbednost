@@ -55,24 +55,22 @@ require_once('./../config.php');
                                 podazumeva skup sredstava (uređaja i opreme) koji omogućava osmatranje i snimanje
                                 prostora u cilju zaštite, odnosno odvraćanja potencijalnih izvršilaca štetnih radnji i njihovog
                                 lakšeg detektovanja i dokazivanja.
-                            </p>
-                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
                                 Sistem video nadzora je zatvoreni sistem kome pristup imaju isključivo njegovi korisnici.
                                 Upravljanje ovim sistemima omogućava njihovu široku primenu u oblasti bezbednosti ili u
                                 kontekstu kontrole kvaliteta poslovnih i proizvodnih aktivnosti (kada se koriste u nadziranju
                                 radnog učinka zaposlenih i pravilnog rukovanja mašinama).
-                            </p>
-                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
                                 Moderni sistemi video nadzora omogućavaju snimanje i praćenje svih događaja u štićenom
                                 prostoru koji je pokriven kamerama, slike sa svih kamera se arhiviraju digitalno pomoću
                                 centralnog uređaja videonadzornog sistema (DVR, NVR ili PC računar).
-                            </p>
-                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
                                 Osnovni cilj upotrebe sistema video nadzora je sprečavanje krivičnog dela, a ako ipak dođe do
                                 krivičnog dela, identifikacija počinioca.
                             </p>
+                            <div class="separator-line-horrizontal-medium-light margin-10px-top margin-30px-bottom md-no-margin-top bg-deep-pink "></div>
+
+                            <span class="text-medium alt-font text-extra-dark-gray d-block margin-15px-bottom md-margin-10px-bottom text-uppercase">
+                                ANALOGNI SISTEMI
+                            </span>
                             <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
-                                <strong>Analogni sistemi</strong><br><br>
                                 Analogni CCTV sistem koji koristi network DVR uređaje (Digital Video Recorder) je delimično
                                 digitalni sistem koji podrazumeva korišćenje DVR uređaja koji imaju mrežni (Ethernet) port za
                                 povezivanje na mrežu. Video materijal je digitalizovan i kompresovan u DVR uređaju, i može
@@ -88,11 +86,15 @@ require_once('./../config.php');
                                 Iako se radi o analognom video nadzoru omogućen je prenos slike na udaljene lokacije
                                 korišćenjem interneta, mreže mobilne telefonije i dr.
                             </p>
-                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
-                                <strong>Digitalni video nadzor</strong><br><br>
+                            <div class="separator-line-horrizontal-medium-light margin-10px-top margin-30px-bottom md-no-margin-top bg-deep-pink "></div>
+
+                            <span class="text-medium alt-font text-extra-dark-gray d-block margin-15px-bottom md-margin-10px-bottom text-uppercase">
+                                DIGITALNI VIDEO NADZOR
+                            </span>
+                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom font-weight-500  margin-10px-bottom">
                                 U čemu je prednost IP kamera u odnosu na analogne?
                             </p>
-                            <ul class="font-weight-500">
+                            <ul>
                                 <li>Digitalni prenos u realnom vremenu i bez smetnji,</li>
                                 <li>IP kamere omogućavaju i do 10 puta veću rezoluciju pojedine slike.</li>
                                 <li>IP video nadzor može prikazati video u realnom vremenu i generisati alarme na temelju

@@ -43,9 +43,9 @@ require_once('./../config.php');
                 <div class="col-12 col-lg-12 col-md-6 col-sm-12 wow animate__fadeInUp  margin-90px-top">
                     <div class="sm-margin-30px-bottom wow animate__fadeIn margin-30px-left">
                         <span class="text-medium alt-font text-extra-dark-gray d-block margin-15px-bottom md-margin-10px-bottom text-uppercase">
-                            1. Fizičko obezbeđenje
+                            Fizičko obezbeđenje
                         </span>
-                        <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
+                        <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom margin-10px-bottom">
                             U skladu sa zakonskom regulativom, kombinacijom fizičkog
                             obezbeđenja i sistema tehničke zaštite, pružamo kompletnu uslugu zadovoljnim klijentima.
                             Glavni deo poslovanja u ovoj oblasti čini fizičko tehnička zaštita obavezno obezbeđenih
@@ -61,9 +61,9 @@ require_once('./../config.php');
                         <div class="separator-line-horrizontal-medium-light margin-10px-top margin-30px-bottom md-no-margin-top bg-deep-pink "></div>
 
                         <span class="text-medium alt-font text-extra-dark-gray d-block margin-15px-bottom md-margin-10px-bottom text-uppercase">
-                            2. Kontrolni centar
+                            Kontrolni centar
                         </span>
-                        <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
+                        <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom margin-10px-bottom">
                             Pored fizičkog obezbeđenja, integralni deo sistema fizičko tehničke
                             zaštite je i Kontrolni centar sa dežurstvom od 24 sata, 365 dana godišnje. Kontrolni centar
                             omogućava:
@@ -74,7 +74,7 @@ require_once('./../config.php');
                             <li>alarm monitoring - praćenje alarmnih sistema (protivprovalni i protivpožarni sistemi)
                                 uz mogućnost intervencije patrolnog tima u slučaju incidentne situacije.</li>
                         </ul>
-                        <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
+                        <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom margin-10px-bottom">
                             Glavne prednosti ovog sistema su:
                         </p>
                         <ul class="font-weight-500">

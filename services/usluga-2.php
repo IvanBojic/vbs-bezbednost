@@ -73,7 +73,7 @@ require_once('./../config.php');
                                     <figure class="position-relative">
                                         <a href="services/usluga-8.php">
                                             <div class="sm-w-100">
-                                                <div class="feature-box-image"><img src="images/img/usluga1.jpg" alt=""></div>
+                                                <div class="feature-box-image"><img src="images/img/usluga8.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                                     <div class="padding-twelve-lr">
                                                         <span class="text-white-2 d-inline-block text-center">Iskustvo, odgovornost, profesionalnost.</span>
@@ -123,7 +123,7 @@ require_once('./../config.php');
                                     <figure class="position-relative">
                                         <a href="services/usluga-10.php">
                                             <div class=" sm-w-100">
-                                                <div class="feature-box-image"><img src="images/img/usluga7.jpg" alt=""></div>
+                                                <div class="feature-box-image"><img src="images/img/usluga10.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
                                                     <div class="padding-twelve-lr">
                                                         <span class="text-white-2 d-inline-block text-center">Iskustvo, odgovornost, profesionalnost.</span>
