@@ -50,12 +50,14 @@ require_once('./../config.php');
                                 unutrašnjim delovima objekta i blagovremenu dojavu u Kontrolni centar.
                             </p>
                             <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
-                                Statistika kaže da se ugradnjom sistema zaštite, štete od razbojništva smanjuju i do 20 puta.
+                                U okviru projektovanja naših sistema protivprovalne zaštite, vršimo procenu ugroženosti
+                                objekta i ugrađivanje sistema svih veličina kao i integraciju drugih sistema tehničke zaštite sa
+                                protivprovalnim sistemom.
                             </p>
-                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
+                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom font-weight-500 margin-10px-bottom">
                                 Šta čini protivprovalni sistem?
                             </p>
-                            <ul class="font-weight-500">
+                            <ul>
                                 <li>centralni upravljački uređaj - protivprovalna centrala,</li>
                                 <li>detektori za unutrašnju i spoljašnju zaštitu,</li>
                                 <li>aktivne IC barijere,</li>
@@ -65,13 +67,14 @@ require_once('./../config.php');
                                     komunikatori, TCP/IP komunikatori.</li>
                             </ul>
                             <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
-                                Projektovanje<br>
-                                U okviru projektovanja naših sistema protivprovalne zaštite, vršimo procenu ugroženosti
-                                objekta i ugrađivanje sistema svih veličina kao i integraciju drugih sistema tehničke zaštite sa
-                                protivprovalnim sistemom.
+                                Statistika kaže da se ugradnjom sistema zaštite, štete od razbojništva smanjuju i do 20 puta.
                             </p>
+                            <div class="separator-line-horrizontal-medium-light margin-10px-top margin-30px-bottom md-no-margin-top bg-deep-pink "></div>
+
+                            <span class="text-medium alt-font text-extra-dark-gray d-block margin-15px-bottom md-margin-10px-bottom text-uppercase">
+                                Perimetarska zaštita
+                            </span>
                             <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
-                                <strong>Perimetarska zaštita:</strong><br>
                                 Perimetarska zaštita je jedan od važnih segmenata zaštite industrijskih, komercijalnih, javnih
                                 ili privatnih objekata. Nudimo kompletan spektar pouzdanih i inteligentnih sistema za
                                 perimetrasku zaštitu, kako za spoljnu tako i za unutrašnju zaštitu objekata, kombinujući
@@ -80,8 +83,12 @@ require_once('./../config.php');
                                 bezbednost objekata koji zahtevaju visok stepen sigurnosti. Mogu se inkorporirati sa sistemima
                                 video nadzora i alarmnim sistemima i sistemima kontrole pristupa.
                             </p>
+                            <div class="separator-line-horrizontal-medium-light margin-10px-top margin-30px-bottom md-no-margin-top bg-deep-pink "></div>
+
+                            <span class="text-medium alt-font text-extra-dark-gray d-block margin-15px-bottom md-margin-10px-bottom text-uppercase">
+                                Alarmni sistemi
+                            </span>
                             <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
-                                <strong>Alarmni sistemi:</strong><br>
                                 Protivprovalni alarmni sistemi - alarmi imaju vrlo široku primenu. Koriste se za zaštitu imovine
                                 kako stambenog prostora (kuća, stan, vikendica...) tako i poslovnog prostora. Pored toga,
                                 primenu nalaze i u zaštiti magacinskog prostora, banaka, obrazovnih institucija, sportskih hala
@@ -94,10 +101,10 @@ require_once('./../config.php');
                                 štićenog prostora. Pored ugradnje, nudimo mogućnost i daljinskog nadzora alamnih sistema
                                 štićenih objekata iz Kontrolnog centra.
                             </p>
-                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
+                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom font-weight-500 margin-10px-bottom">
                                 Koristimo sledeće vrste detektora:
                             </p>
-                            <ul class="font-weight-500">
+                            <ul>
                                 <li>pasivne infracrvene detektore (PIR),</li>
                                 <li>IC barijere,</li>
                                 <li>mikrotalasne detektore,</li>
@@ -107,8 +114,12 @@ require_once('./../config.php');
                                 <li>kombinovane detektore,</li>
                                 <li>ostali (magnetski kontakti, infracrvene barijere, mikrotalasne barijere, leaky kablovi...).</li>
                             </ul>
+                            <div class="separator-line-horrizontal-medium-light margin-10px-top margin-30px-bottom md-no-margin-top bg-deep-pink "></div>
+
+                            <span class="text-medium alt-font text-extra-dark-gray d-block margin-15px-bottom md-margin-10px-bottom text-uppercase">
+                                Protivprovalne barijere (IC barijere)
+                            </span>
                             <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
-                                <strong>Protivprovalne barijere (IC barijere):</strong><br>
                                 Protivprovalne barijere koriste se za perimetarsku zaštitu štićenog prostora. Primenjuju se za
                                 obezbeđivanje poslovnih objekata, parkinga, kuća kao i pojedinih kritičnih delova objekata i
                                 njihove okoline kao što su velike staklene površine, dugački hodnici, ograde i slično. Različitim

@@ -418,7 +418,7 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
             <div class="container">
                 <div class="row">
                     <div class="col-12 text-center margin-100px-bottom md-margin-70px-bottom sm-margin-50px-bottom">
-<!--                        <div class="alt-font margin-5px-bottom text-uppercase text-small text-medium-gray">What We Do</div>-->
+                        <?php /* <div class="alt-font margin-5px-bottom text-uppercase text-small text-medium-gray">What We Do</div> */ ?>
                         <h5 class="text-uppercase alt-font text-extra-dark-gray margin-20px-bottom font-weight-700 md-w-100">Naše usluge</h5>
                         <span class="separator-line-horrizontal-medium-light2 bg-deep-pink d-table mx-auto w-100px"></span>
                     </div>
@@ -553,29 +553,6 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                                 </figure>
                             </div>
                             <!-- end services item -->
-                            <?php /*
-                            <!-- start services item -->
-                            <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
-                                <figure>
-                                    <a href="services/usluga-8.php">
-                                        <div class="sm-w-100">
-                                            <div class="feature-box-image"><img src="images/img/usluga7.jpg" alt=""></div>
-                                            <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
-                                                <div class="padding-twelve-lr">
-                                                    <span class="text-white-2 d-inline-block text-center">Iskustvo, odgovornost, profesionalnost.</span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <figcaption>
-                                            <div class="text-center margin-25px-top">
-                                                <div class="text-extra-dark-gray alt-font font-weight-600">Usluge merenja - kontrolna vaga</div>
-                                            </div>
-                                        </figcaption>
-                                    </a>
-                                </figure>
-                            </div>
-                            <!-- end services item -->
-                            */ ?>
                         </div>
                     </div>
                 </div>
