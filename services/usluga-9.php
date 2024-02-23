@@ -44,7 +44,7 @@ require_once('./../config.php');
                 <div class="row">
                     <!-- start service item -->
 
-                    <div class="col-12 col-lg-12 col-md-6 col-sm-12 wow animate__fadeInUp">
+                    <div class="col-12 col-lg-6 col-md-6 col-sm-12 wow animate__fadeInUp">
                         <div class="sm-margin-30px-bottom wow animate__fadeIn margin-30px-left">
                             <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
                                 Vršimo planiranje, projektovanje, ugradnju video nadzora i obuku shodno specifičnim
@@ -115,6 +115,11 @@ require_once('./../config.php');
                                 WLAN kabliranje čini nepotrebnim pa tako pojednostavljuje instalaciju.
                             </p>
                             <div class="separator-line-horrizontal-medium-light margin-10px-top margin-30px-bottom md-no-margin-top bg-deep-pink "></div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-6 col-md-6 col-sm-12 wow animate__fadeInUp">
+                        <div class="sm-margin-30px-bottom wow animate__fadeIn margin-30px-left">
+                            <img src="images/img/usluga-9-slika.png" alt=""/>
                         </div>
                     </div>
                     <!-- end service item -->

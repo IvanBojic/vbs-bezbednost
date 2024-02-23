@@ -39,11 +39,11 @@ require_once('./../config.php');
         <section>
             <div class="container">
                 <div class="row">
-                    <div class="col-12 margin-60px-bottom sm-margin-30px-bottom wow animate__fadeIn"><img src="images/img/usluga-2-baner.png" alt=""/></div>
+                    <div class="col-12 margin-60px-bottom sm-margin-30px-bottom wow animate__fadeIn"><img src="images/img/usluga-8-baner.png" alt=""/></div>
                 </div>
                 <div class="row">
                     <!-- start service item -->
-                    <div class="col-12 col-lg-12 col-md-6 col-sm-12 wow animate__fadeInUp">
+                    <div class="col-12 col-lg-6 col-md-6 col-sm-12 wow animate__fadeInUp">
                         <div class="sm-margin-30px-bottom wow animate__fadeIn margin-30px-left">
                             <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
                                 Sistem protivprovalne zaštite ima za cilj rano otkrivanje neovlašćenog prisustva u spoljašnjim i
@@ -131,6 +131,11 @@ require_once('./../config.php');
                                 velikih industrijskih sistema.
                             </p>
                             <div class="separator-line-horrizontal-medium-light margin-10px-top margin-30px-bottom md-no-margin-top bg-deep-pink "></div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-6 col-md-6 col-sm-12 wow animate__fadeInUp">
+                        <div class="sm-margin-30px-bottom wow animate__fadeIn margin-30px-left">
+                            <img src="images/img/usluga-8-slika.png" alt=""/>
                         </div>
                     </div>
                     <!-- end service item -->

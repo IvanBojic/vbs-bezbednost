@@ -39,7 +39,7 @@ require_once('./../config.php');
         <section>
             <div class="container">
                 <div class="row">
-                    <div class="col-12 margin-60px-bottom sm-margin-30px-bottom wow animate__fadeIn"><img src="images/img/usluga-2-baner.png" alt=""/></div>
+                    <div class="col-12 margin-60px-bottom sm-margin-30px-bottom wow animate__fadeIn"><img src="images/img/usluga-10-baner.png" alt=""/></div>
                 </div>
                 <div class="row">
                     <!-- start service item -->
