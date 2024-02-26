@@ -70,21 +70,18 @@ require_once('./../config.php');
                                 Statistika kaže da se ugradnjom sistema zaštite, štete od razbojništva smanjuju i do 20 puta.
                             </p>
                             <div class="separator-line-horrizontal-medium-light margin-10px-top margin-30px-bottom md-no-margin-top bg-deep-pink "></div>
-
-                            <span class="text-medium alt-font text-extra-dark-gray d-block margin-15px-bottom md-margin-10px-bottom text-uppercase">
-                                Perimetarska zaštita
-                            </span>
-                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
-                                Perimetarska zaštita je jedan od važnih segmenata zaštite industrijskih, komercijalnih, javnih
-                                ili privatnih objekata. Nudimo kompletan spektar pouzdanih i inteligentnih sistema za
-                                perimetrasku zaštitu, kako za spoljnu tako i za unutrašnju zaštitu objekata, kombinujući
-                                najbolje karakteristike mikrotalasnih, infracrvenih i doplerskih senzora. U kombinaciji sa
-                                inteligentnim sistemima za upozorenje i analizu signala sa kojima rade obezbeđuju kompletnu
-                                bezbednost objekata koji zahtevaju visok stepen sigurnosti. Mogu se inkorporirati sa sistemima
-                                video nadzora i alarmnim sistemima i sistemima kontrole pristupa.
-                            </p>
-                            <div class="separator-line-horrizontal-medium-light margin-10px-top margin-30px-bottom md-no-margin-top bg-deep-pink "></div>
-
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-6 col-md-6 col-sm-12 wow animate__fadeInUp">
+                        <div class="sm-margin-30px-bottom wow animate__fadeIn margin-30px-left">
+                            <img src="images/img/usluga-8-slika.png" alt=""/>
+                        </div>
+                    </div>
+                    <!-- end service item -->
+                </div>
+                <div class="row margin-40px-top">
+                    <div class="col-12 col-lg-6 col-md-6 col-sm-12 wow animate__fadeInUp">
+                        <div class="sm-margin-30px-bottom wow animate__fadeIn margin-30px-left">
                             <span class="text-medium alt-font text-extra-dark-gray d-block margin-15px-bottom md-margin-10px-bottom text-uppercase">
                                 Alarmni sistemi
                             </span>
@@ -115,6 +112,23 @@ require_once('./../config.php');
                                 <li>ostali (magnetski kontakti, infracrvene barijere, mikrotalasne barijere, leaky kablovi...).</li>
                             </ul>
                             <div class="separator-line-horrizontal-medium-light margin-10px-top margin-30px-bottom md-no-margin-top bg-deep-pink "></div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-6 col-md-6 col-sm-12 wow animate__fadeInUp">
+                        <div class="sm-margin-30px-bottom wow animate__fadeIn margin-30px-left">
+                            <span class="text-medium alt-font text-extra-dark-gray d-block margin-15px-bottom md-margin-10px-bottom text-uppercase">
+                                Perimetarska zaštita
+                            </span>
+                            <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
+                                Perimetarska zaštita je jedan od važnih segmenata zaštite industrijskih, komercijalnih, javnih
+                                ili privatnih objekata. Nudimo kompletan spektar pouzdanih i inteligentnih sistema za
+                                perimetrasku zaštitu, kako za spoljnu tako i za unutrašnju zaštitu objekata, kombinujući
+                                najbolje karakteristike mikrotalasnih, infracrvenih i doplerskih senzora. U kombinaciji sa
+                                inteligentnim sistemima za upozorenje i analizu signala sa kojima rade obezbeđuju kompletnu
+                                bezbednost objekata koji zahtevaju visok stepen sigurnosti. Mogu se inkorporirati sa sistemima
+                                video nadzora i alarmnim sistemima i sistemima kontrole pristupa.
+                            </p>
+                            <div class="separator-line-horrizontal-medium-light margin-10px-top margin-30px-bottom md-no-margin-top bg-deep-pink "></div>
 
                             <span class="text-medium alt-font text-extra-dark-gray d-block margin-15px-bottom md-margin-10px-bottom text-uppercase">
                                 Protivprovalne barijere (IC barijere)
@@ -133,12 +147,6 @@ require_once('./../config.php');
                             <div class="separator-line-horrizontal-medium-light margin-10px-top margin-30px-bottom md-no-margin-top bg-deep-pink "></div>
                         </div>
                     </div>
-                    <div class="col-12 col-lg-6 col-md-6 col-sm-12 wow animate__fadeInUp">
-                        <div class="sm-margin-30px-bottom wow animate__fadeIn margin-30px-left">
-                            <img src="images/img/usluga-8-slika.png" alt=""/>
-                        </div>
-                    </div>
-                    <!-- end service item -->
                 </div>
                 <div class="row margin-90px-top">
                     <div class="col-12 page-title-large d-flex flex-column justify-content-center text-center">

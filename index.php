@@ -377,7 +377,7 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                     <div class="col-12 col-xl-6 col-lg-6 wow animate__fadeIn padding-15-top">
                         <div class="row m-0">
                             <div class="col-12 text-center text-lg-start sm-no-padding-lr last-paragraph-no-margin margin-60px-bottom md-margin-30px-bottom xl-margin-20px-bottom">
-                                <h5 class="alt-font text-extra-dark-gray font-weight-600">Ukratko o nama</h5>
+                                <h5 class="alt-font text-extra-dark-gray font-weight-600">O nama</h5>
                                 <p class="w-90 md-w-100">
                                     <strong>Valjaonica - Bezbednost d.o.o.</strong> kao specijalizovano pravno lice u oblasti
                                     privatnog obezbeđenja sa tradicijom dugom blizu 20 godina svoje poslovanje zasniva se na znanju,

@@ -65,7 +65,7 @@
                             </div>
                         </div>
                         <div class="row justify-content-center">
-                            <div class="col-12 margin-30px-bottom text-center">                        
+                            <div class="col-12 margin-30px-bottom text-center about-right">
                                 <!-- start progress bar item -->
                                 <div class="text-start rounded-0">
                                     <span class="progress-title text-extra-small text-uppercase text-white">1. Fizičko tehnička zaštita - <br>Licenca 03.39 br. 17746 od 28.11.2022. godine</span>
@@ -76,7 +76,7 @@
                                 <!-- end progress bar item -->
                                 <!-- start  progress bar item -->
                                 <div class="text-start rounded-0">
-                                    <span class="progress-title text-extra-small text-uppercase text-white">2. Tehnička zaštita - <br>Licence 03.39 br. 25970, 25971, 25972 od 14.09.2022. godine.</span>
+                                    <span class="progress-title text-extra-small text-uppercase text-white">2. Tehnička zaštita - Licence 03.39 br. 25970, 25971, 25972 od 14.09.2022. godine.</span>
                                 </div>
                                 <div class="progress progress-step-style-02 bg-transparent-white2 rounded-0 margin-15px-bottom">
                                     <div class="progress-bar bg-gradient-light-red-light-white rounded-0" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
@@ -92,7 +92,7 @@
                                 <!-- end progress bar item -->
                                 <!-- start  progress bar item -->
                                 <div class="text-start rounded-0">
-                                    <span class="progress-title text-extra-small text-uppercase text-white">4. Procena rizika u zaštiti lica, imovine i poslovanja i plan obezbeđenja - <br>Licenca 03.39 br. 17747 od 11.05.2022. godine.</span>
+                                    <span class="progress-title text-extra-small text-uppercase text-white">4. Procena rizika u zaštiti lica, imovine i poslovanja i plan obezbeđenja - Licenca 03.39 br. 17747 od 11.05.2022. godine.</span>
                                 </div>
                                     <div class="progress progress-step-style-02 bg-transparent-white2 rounded-0 margin-15px-bottom">
                                     <div class="progress-bar bg-gradient-light-red-light-white rounded-0" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
@@ -100,7 +100,7 @@
                                 <!-- end progress bar item -->
                                 <!-- start  progress bar item -->
                                 <div class="text-start rounded-0">
-                                    <span class="progress-title text-extra-small text-uppercase text-white">5. Procena rizika od katastrofa i plan zaštite i spasavanja - <br>Ovlašćenje 09 br. 217-752/22 od 30.05.2022. godine.</span>
+                                    <span class="progress-title text-extra-small text-uppercase text-white">5. Procena rizika od katastrofa i plan zaštite i spasavanja - Ovlašćenje 09 br. 217-752/22 od 30.05.2022. godine.</span>
                                 </div>
                                     <div class="progress progress-step-style-02 bg-transparent-white2 rounded-0">
                                     <div class="progress-bar bg-gradient-light-red-light-white rounded-0" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>

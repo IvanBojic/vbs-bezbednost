@@ -10,7 +10,7 @@
                 <!-- end logo -->
                 <!-- start copyright -->
                 <div class="col-lg-3 col-md-5 col-12 sm-margin-30px-bottom text-medium">
-                    Pored usluga privatnog obezbeđenja, naša kompanija pruža i usluge u oblasti smanjenja rizika od katastrofa, kao i ostale usluge u skladu sa zahtevima tržišta i potrebama klijenata
+                    Pored usluga privatnog obezbeđenja, naša kompanija pruža i usluge u oblasti smanjenja rizika od katastrofa, kao i ostale usluge u skladu sa zahtevima tržišta i potrebama klijenata.
                 </div>
                 <div class="col-lg-3 col-md-4 col-12 sm-margin-30px-bottom text-medium">
                     <a>Valjaonica Bezbednost d.o.o.</a><br>

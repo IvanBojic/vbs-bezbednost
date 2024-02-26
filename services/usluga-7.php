@@ -39,7 +39,7 @@ require_once('./../config.php');
             <div class="container">
                 <div class="row">
                     <!-- start service item -->
-                    <div class="col-12 col-lg-12 col-md-6 col-sm-12 wow animate__fadeInUp">
+                    <div class="col-12 col-lg-6 col-md-6 col-sm-12 wow animate__fadeInUp">
                         <div class="sm-margin-30px-bottom wow animate__fadeIn margin-30px-left">
                             <span class="text-medium alt-font text-extra-dark-gray d-block margin-15px-bottom md-margin-10px-bottom text-uppercase">
                                 Alkotestiranje zaposlenih
@@ -66,6 +66,11 @@ require_once('./../config.php');
                                 Kapacitet kolske vage je 60t i vaga podleže redovnim proverama od strane akreditovanog kontrolnog tela.
                             </p>
                             <div class="separator-line-horrizontal-medium-light margin-30px-top md-no-margin-top bg-deep-pink"></div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-6 col-md-6 col-sm-12 wow animate__fadeInUp">
+                        <div class="sm-margin-30px-bottom wow animate__fadeIn margin-30px-left">
+                            <img src="images/img/usluga-7-slika.png" alt=""/>
                         </div>
                     </div>
                     <!-- end service item -->

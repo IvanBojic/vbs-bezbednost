@@ -26,8 +26,7 @@ require_once('./../config.php');
                         <!-- end sub title -->
                         <!-- start page title -->
                         <h1 class="alt-font text-white-2 font-weight-600 mb-0">
-                            Procena rizika u zaštiti lica, imovine i poslovanja <br>
-                            i plan obezbeđenja
+                            Procena rizika u zaštiti lica, imovine i poslovanja i plan obezbeđenja
                         </h1>
                         <!-- end page title -->
                     </div>
@@ -49,10 +48,10 @@ require_once('./../config.php');
                                     Kojim zakonom je regulisana ova oblast?
                                 </span>
                                 <p class="w-95 md-w-100 sm-w-95 sm-margin-15px-bottom">
-                                    <br>•	Zakon o privatnom obezbeđenju ("Sl. glasnik RS", br. 104/2013, 42/2015 i 87/2018);
-                                    <br>•	Uredba o minimalnim tehničkim uslovima kod obavezne ugradnje sistema tehničke zaštite u bankama i drugim finansijskim organizacijama ("Sl. glasnik RS", br. 9/2021-18);
-                                    <br>•	Pravilnik o načinu vršenja poslova tehničke zaštite i korišćenja tehničkih sredstava ("Sl. glasnik RS", br. 91/2019);
-                                    <br>•	Uredba o bližim kriterijumima za određevanje obavezno obezbeđenih objekata i načinu vršenja njihove zaštite („Sl. glasnik RS“ br. 98/2016);
+                                    •	Zakon o privatnom obezbeđenju ("Sl. glasnik RS", br. 104/2013, 42/2015 i 87/2018);<br>
+                                    •	Uredba o minimalnim tehničkim uslovima kod obavezne ugradnje sistema tehničke zaštite u bankama i drugim finansijskim organizacijama ("Sl. glasnik RS", br. 9/2021-18);<br>
+                                    •	Pravilnik o načinu vršenja poslova tehničke zaštite i korišćenja tehničkih sredstava ("Sl. glasnik RS", br. 91/2019);<br>
+                                    •	Uredba o bližim kriterijumima za određevanje obavezno obezbeđenih objekata i načinu vršenja njihove zaštite („Sl. glasnik RS“ br. 98/2016);
                                 </p>
                                 <div class="separator-line-horrizontal-medium-light margin-10px-top margin-15px-bottom md-no-margin-top bg-deep-pink"></div>
                                 <!-- end service item -->
