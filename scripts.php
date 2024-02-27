@@ -41,9 +41,6 @@
             $holder.find('.js-translate-list .active').removeClass('active');
             $obj.addClass('active');
         });
-        function googleTranslateElementInit2() {
-            new google.translate.TranslateElement({pageLanguage: 'sr', autoDisplay: false}, 'google_translate_element2');
-        }
         function GTranslateFireEvent(element, event) {
             try {
                 if (document.createEventObject) {
@@ -105,12 +102,25 @@
                 $selectedLangButton.addClass('active');
             }
         }
-        // Glodal function
-        window.googleTranslateElementInit2 = function () {
-            googleTranslateElementInit2();
+    }
+
+    function googleTranslateElementInit2() {
+        // Proveri da li je google.translate.TranslateElement definisan pre nego što ga koristiš
+        if (typeof google.translate.TranslateElement !== 'undefined') {
+            new google.translate.TranslateElement({ pageLanguage: 'sr', autoDisplay: false }, 'google_translate_element2');
+        } else {
+            console.error('google.translate.TranslateElement nije definisan. Proverite da li je skripta za prevođenje ispravno učitana.');
         }
     }
+
+
+    // Pozovi funkciju googleTranslate na document ready
     $(document).ready(function () {
         googleTranslate();
+        // Pozovi googleTranslateElementInit2 nakon što se stranica učita
+        googleTranslateElementInit2();
     });
+
+    // Globalna funkcija
+    window.googleTranslateElementInit2 = googleTranslateElementInit2;
 </script>
