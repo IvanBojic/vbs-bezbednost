@@ -23,9 +23,7 @@
                 <!-- start social media -->
                 <div class="col-lg-3 col-md-3 text-center text-md-center">
                     <div class="social-icon-style-8 d-inline-block align-middle">
-                        <ul class="medium-icon mb-0">
-                            <li><a class="google text-white-2" href="mailto:pmilutinovic@vbs.co.rs" target="_blank"><i class="fab fa-google-plus-g"></i></a></li>
-                        </ul>
+
                     </div>
                 </div>
                 <!-- end social media -->

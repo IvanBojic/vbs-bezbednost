@@ -38,17 +38,11 @@ $data_lang->selected_lang_data = isset($data_lang->langs[$data_lang->selected_la
                             <a href="o-nama">O Nama</a>
                         </li>
                         <li class="menu-color">
-                            <a href="usluga">Usluge</a>
+                            <a href="dostupne-usluge">Usluge</a>
                         </li>
                         <li class="menu-color">
                             <a href="reference">Reference</a>
                         </li>
-                        <?php /* <li class="menu-color">
-                            <a href="novosti.php">Novosti</a>
-                        </li> */ ?>
-                        <?php /* <li class="main-color">
-                            <a href="#">Karijera</a>
-                        </li> */ ?>
                         <li class="menu-color">
                             <a href="kontakt">Kontakt</a>
                         </li>
