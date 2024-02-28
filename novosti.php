@@ -35,13 +35,13 @@
                             <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp">
                                 <div class="blog-post bg-light-gray">
                                     <div class="blog-post-images overflow-hidden position-relative">
-                                        <a href="news/vest-1.php" target="_blank">
+                                        <a href="news/vest-1" target="_blank">
                                             <img src="https://via.placeholder.com/900x650" alt="">
                                             <div class="blog-hover-icon"><span class="text-extra-large font-weight-300">+</span></div>
                                         </a>
                                     </div>
                                     <div class="post-details padding-40px-all md-padding-20px-all">
-                                        <a href="news/vest-1.php" target="_blank" class="alt-font post-title text-medium text-extra-dark-gray w-100 d-block lg-w-100 margin-15px-bottom">Vest 1</a>
+                                        <a href="news/vest-1" target="_blank" class="alt-font post-title text-medium text-extra-dark-gray w-100 d-block lg-w-100 margin-15px-bottom">Vest 1</a>
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy...</p>
                                         <div class="separator-line-horrizontal-full bg-medium-gray margin-20px-tb"></div>
                                     </div>
@@ -52,13 +52,13 @@
                             <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp" data-wow-delay="0.2s">
                                 <div class="blog-post bg-light-gray">
                                     <div class="blog-post-images overflow-hidden position-relative">
-                                        <a href="news/vest-1.php">
+                                        <a href="news/vest-1">
                                             <img src="https://via.placeholder.com/900x650" alt="">
                                             <div class="blog-hover-icon"><span class="text-extra-large font-weight-300">+</span></div>
                                         </a>
                                     </div>
                                     <div class="post-details padding-40px-all md-padding-20px-all">
-                                        <a href="news/vest-1.php" class="alt-font post-title text-medium text-extra-dark-gray w-100 d-block lg-w-100 margin-15px-bottom">Vest 2</a>
+                                        <a href="news/vest-1" class="alt-font post-title text-medium text-extra-dark-gray w-100 d-block lg-w-100 margin-15px-bottom">Vest 2</a>
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy...</p>
                                         <div class="separator-line-horrizontal-full bg-medium-gray margin-20px-tb"></div>
                                     </div>
@@ -86,13 +86,13 @@
                             <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp">
                                 <div class="blog-post bg-light-gray">
                                     <div class="blog-post-images overflow-hidden position-relative">
-                                        <a href="news/vest-1.php" target="_blank">
+                                        <a href="news/vest-1" target="_blank">
                                             <img src="https://via.placeholder.com/900x650" alt="">
                                             <div class="blog-hover-icon"><span class="text-extra-large font-weight-300">+</span></div>
                                         </a>
                                     </div>
                                     <div class="post-details padding-40px-all md-padding-20px-all">
-                                        <a href="news/vest-1.php" target="_blank" class="alt-font post-title text-medium text-extra-dark-gray w-100 d-block lg-w-100 margin-15px-bottom">Vest 4</a>
+                                        <a href="news/vest-1" target="_blank" class="alt-font post-title text-medium text-extra-dark-gray w-100 d-block lg-w-100 margin-15px-bottom">Vest 4</a>
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy...</p>
                                         <div class="separator-line-horrizontal-full bg-medium-gray margin-20px-tb"></div>
                                     </div>
@@ -103,13 +103,13 @@
                             <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp" data-wow-delay="0.2s">
                                 <div class="blog-post bg-light-gray">
                                     <div class="blog-post-images overflow-hidden position-relative">
-                                        <a href="news/vest-1.php">
+                                        <a href="news/vest-1">
                                             <img src="https://via.placeholder.com/900x650" alt="">
                                             <div class="blog-hover-icon"><span class="text-extra-large font-weight-300">+</span></div>
                                         </a>
                                     </div>
                                     <div class="post-details padding-40px-all md-padding-20px-all">
-                                        <a href="news/vest-1.php" class="alt-font post-title text-medium text-extra-dark-gray w-100 d-block lg-w-100 margin-15px-bottom">Vest 5</a>
+                                        <a href="news/vest-1" class="alt-font post-title text-medium text-extra-dark-gray w-100 d-block lg-w-100 margin-15px-bottom">Vest 5</a>
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum standard dummy...</p>
                                         <div class="separator-line-horrizontal-full bg-medium-gray margin-20px-tb"></div>
                                     </div>

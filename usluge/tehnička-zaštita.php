@@ -66,7 +66,7 @@ require_once('./../config.php');
                                 <!-- start services item -->
                                 <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
                                     <figure class="position-relative">
-                                        <a href="services/usluga-8.php">
+                                        <a href="usluge/protivprovalna-zaštita">
                                             <div class="sm-w-100">
                                                 <div class="feature-box-image"><img src="images/img/usluga8.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
@@ -91,7 +91,7 @@ require_once('./../config.php');
                                 <!-- start services item -->
                                 <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
                                     <figure class="position-relative">
-                                        <a href="services/usluga-9.php">
+                                        <a href="usluge/sistemi-video-nadzora">
                                             <div class="sm-w-100">
                                                 <div class="feature-box-image"><img src="images/img/usluga9.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
@@ -116,7 +116,7 @@ require_once('./../config.php');
                                 <!-- start services item -->
                                 <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
                                     <figure class="position-relative">
-                                        <a href="services/usluga-10.php">
+                                        <a href="usluge/kontrola-pristupa-i-ERV">
                                             <div class=" sm-w-100">
                                                 <div class="feature-box-image"><img src="images/img/usluga10.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">

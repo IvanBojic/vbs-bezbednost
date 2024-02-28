@@ -17,7 +17,7 @@ $data_lang->selected_lang_data = isset($data_lang->langs[$data_lang->selected_la
         <div class="container-lg nav-header-container">
             <!-- start logo -->
             <div class="col-auto ps-0">
-                <a href="index.php" title="VBS Bezbednost" class="logo"><img src="images/logo.png" data-at2x="images/logo.png" class="logo-dark default" alt="VBS Bezbednost"><img src="images/logo.png" data-at2x="images/logo.png" alt="VBS Bezbednost" class="logo-light"></a>
+                <a href="index" title="VBS Bezbednost" class="logo"><img src="images/logo.png" data-at2x="images/logo.png" class="logo-dark default" alt="VBS Bezbednost"><img src="images/logo.png" data-at2x="images/logo.png" alt="VBS Bezbednost" class="logo-light"></a>
             </div>
             <!-- end logo -->
             <div class="col accordion-menu pe-0 pe-md-3">
@@ -31,17 +31,17 @@ $data_lang->selected_lang_data = isset($data_lang->langs[$data_lang->selected_la
                     <ul id="accordion" class="nav navbar-nav navbar-left no-margin alt-font text-normal" data-in="animate__fadeIn" data-out="animate__fadeOut">
                         <!-- start menu item -->
                         <li class="menu-color">
-                            <a href="index.php">Početna</a>
+                            <a href="index">Početna</a>
                         </li>
                         <!-- end menu item -->
                         <li class="menu-color">
-                            <a href="o-nama.php">O Nama</a>
+                            <a href="o-nama">O Nama</a>
                         </li>
                         <li class="menu-color">
-                            <a href="usluge.php">Usluge</a>
+                            <a href="usluga">Usluge</a>
                         </li>
                         <li class="menu-color">
-                            <a href="reference.php">Reference</a>
+                            <a href="reference">Reference</a>
                         </li>
                         <?php /* <li class="menu-color">
                             <a href="novosti.php">Novosti</a>
@@ -50,7 +50,7 @@ $data_lang->selected_lang_data = isset($data_lang->langs[$data_lang->selected_la
                             <a href="#">Karijera</a>
                         </li> */ ?>
                         <li class="menu-color">
-                            <a href="kontakt.php">Kontakt</a>
+                            <a href="kontakt">Kontakt</a>
                         </li>
                     </ul>
                 </div>

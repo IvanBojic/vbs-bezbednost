@@ -33,10 +33,10 @@
                             <li class="grid-sizer"></li>
                             <!-- start post item -->
                             <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp">
-                                <!-- start services item -->
+                                <!-- start usluge item -->
                                 <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
                                     <figure class="position-relative">
-                                        <a href="services/usluga-1.php">
+                                        <a href="usluge/fizičko-tehnička-zaštita">
                                             <div class="sm-w-100">
                                                 <div class="feature-box-image"><img src="images/img/usluga1.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
@@ -53,15 +53,15 @@
                                         </a>
                                     </figure>
                                 </div>
-                                <!-- end services item -->
+                                <!-- end usluge item -->
                             </li>
                             <!-- end post item -->
                             <!-- start post item -->
                             <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp" data-wow-delay="0.2s">
-                                <!-- start services item -->
+                                <!-- start usluge item -->
                                 <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
                                     <figure class="position-relative">
-                                        <a href="services/usluga-2.php">
+                                        <a href="usluge/tehnička-zaštita">
                                             <div class=" sm-w-100">
                                                 <div class="feature-box-image"><img src="images/img/usluga2.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
@@ -78,15 +78,15 @@
                                         </a>
                                     </figure>
                                 </div>
-                                <!-- end services item -->
+                                <!-- end usluge item -->
                             </li>
                             <!-- end post item -->
                             <!-- start post item -->
                             <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp" data-wow-delay="0.4s">
-                                <!-- start services item -->
+                                <!-- start usluge item -->
                                 <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
                                     <figure class="position-relative">
-                                        <a href="services/usluga-3.php">
+                                        <a href="usluge/centar-za-obuku-službenika-obezbeđenja">
                                             <div class=" sm-w-100">
                                                 <div class="feature-box-image"><img src="images/img/usluga3.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
@@ -103,15 +103,15 @@
                                         </a>
                                     </figure>
                                 </div>
-                                <!-- end services item -->
+                                <!-- end usluge item -->
                             </li>
                             <!-- end post item -->
                             <!-- start post item -->
                             <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp" data-wow-delay="0.4s">
-                                <!-- start services item -->
+                                <!-- start usluge item -->
                                 <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
                                     <figure class="position-relative">
-                                        <a href="services/usluga-4.php">
+                                        <a href="usluge/procena-rizika-u-zaštiti-lica-imovine-i-poslovanja-i-plan-obezbeđenja">
                                             <div class=" sm-w-100">
                                                 <div class="feature-box-image"><img src="images/img/usluga4.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
@@ -128,15 +128,15 @@
                                         </a>
                                     </figure>
                                 </div>
-                                <!-- end services item -->
+                                <!-- end usluge item -->
                             </li>
                             <!-- end post item -->
                             <!-- start post item -->
                             <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp" data-wow-delay="0.4s">
-                                <!-- start services item -->
+                                <!-- start usluge item -->
                                 <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
                                     <figure class="position-relative">
-                                        <a href="services/usluga-6.php">
+                                        <a href="usluge/procena-rizika-od-katastrofa-i-plan-zaštite-i-spasavanja">
                                             <div class=" sm-w-100">
                                                 <div class="feature-box-image"><img src="images/img/usluga5.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
@@ -153,15 +153,15 @@
                                         </a>
                                     </figure>
                                 </div>
-                                <!-- end services item -->
+                                <!-- end usluge item -->
                             </li>
                             <!-- end post item -->
                             <!-- start post item -->
                             <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp" data-wow-delay="0.4s">
-                                <!-- start services item -->
+                                <!-- start usluge item -->
                                 <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
                                     <figure class="position-relative">
-                                        <a href="services/usluga-7.php">
+                                        <a href="usluge/ostale-usluge">
                                             <div class=" sm-w-100">
                                                 <div class="feature-box-image"><img src="images/img/usluga6.jpg" alt=""></div>
                                                 <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
@@ -178,36 +178,8 @@
                                         </a>
                                     </figure>
                                 </div>
-                                <!-- end services item -->
+                                <!-- end usluge item -->
                             </li>
-                            <!-- end post item -->
-                            <?php /*
-                                <!-- start post item -->
-                                <li class="grid-item last-paragraph-no-margin text-center text-sm-start wow animate__fadeInUp" data-wow-delay="0.4s">
-                                    <!-- start services item -->
-                                    <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
-                                        <figure class="position-relative">
-                                            <a href="services/usluga-8.php">
-                                                <div class=" sm-w-100">
-                                                    <div class="feature-box-image"><img src="images/img/usluga7.jpg" alt=""></div>
-                                                    <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
-                                                        <div class="padding-twelve-lr">
-                                                            <span class="text-white-2 d-inline-block text-center">Iskustvo, odgovornost, profesionalnost.</span>
-                                                        </div>
-                                                    </div>
-                                                    <figcaption class="image-caption">
-                                                        <div class="text-center margin-30percent-top">
-                                                            <div class="font-large alt-font font-weight-400">Usluge merenja - kontrolna vaga</div>
-                                                        </div>
-                                                    </figcaption>
-                                                </div>
-                                            </a>
-                                        </figure>
-                                    </div>
-                                    <!-- end services item -->
-                                </li>
-                                <!-- end post item -->
-                            */ ?>
                         </ul>
                     </div>
                 </div>

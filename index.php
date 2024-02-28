@@ -48,18 +48,18 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                                      style="z-index: 8; white-space: normal; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Fizičko - tehnička zaštita</div>
 
                                 <!-- layer nr. 5 -->
-                                <a href="services/usluga-1.php" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5"
-                                   data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                                   data-y="['middle','middle','middle','middle']" data-voffset="['130','130','110','110']" 
+                                <a href="usluge/fizičko-tehnička-zaštita" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5"
+                                   data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                                   data-y="['middle','middle','middle','middle']" data-voffset="['130','130','110','110']"
                                    data-fontsize="['12','14','14','14']"
                                    data-whitespace="nowrap"
                                    data-visibility="['on', 'on', 'on', 'on']"
                                    data-type="text"
                                    data-color="['#FFFFFF']"
-                                   data-responsive_offset="on" 
+                                   data-responsive_offset="on"
                                    data-responsive="on"
                                    data-frames='[{"from":"y:150px;opacity:0;","speed":1500,"to":"o:1;","delay":900,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bc:rgba(255, 255, 255, 1.00);bw:2px 2px 2px 2px;"}]'
-                                   data-textAlign="['inherit', 'inherit', 'right', 'center']" 
+                                   data-textAlign="['inherit', 'inherit', 'right', 'center']"
                                    data-paddingtop="[6,6,6,6]"
                                    data-paddingright="[26,26,26,26]"
                                    data-paddingbottom="[6,6,6,6]"
@@ -96,18 +96,18 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                                      data-basealign="slide"
                                      style="z-index: 8; white-space: normal; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Tehnička zaštita</div>
                                 <!-- layer nr. 5 -->
-                                <a href="services/usluga-2.php" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5"
-                                   data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                                   data-y="['middle','middle','middle','middle']" data-voffset="['130','130','110','110']" 
+                                <a href="usluge/tehnička-zaštita" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5"
+                                   data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                                   data-y="['middle','middle','middle','middle']" data-voffset="['130','130','110','110']"
                                    data-fontsize="['12','14','14','14']"
                                    data-whitespace="nowrap"
                                    data-visibility="['on', 'on', 'on', 'on']"
                                    data-type="text"
                                    data-color="['#FFFFFF']"
-                                   data-responsive_offset="on" 
+                                   data-responsive_offset="on"
                                    data-responsive="on"
                                    data-frames='[{"from":"y:150px;opacity:0;","speed":1500,"to":"o:1;","delay":900,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bc:rgba(255, 255, 255, 1.00);bw:2px 2px 2px 2px;"}]'
-                                   data-textAlign="['inherit', 'inherit', 'right', 'center']" 
+                                   data-textAlign="['inherit', 'inherit', 'right', 'center']"
                                    data-paddingtop="[6,6,6,6]"
                                    data-paddingright="[26,26,26,26]"
                                    data-paddingbottom="[6,6,6,6]"
@@ -145,18 +145,18 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
 
                                 <!-- layer nr. 5 -->
                                 <!-- layer nr. 5 -->
-                                <a href="services/usluga-3.php" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5"
-                                   data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-                                   data-y="['middle','middle','middle','middle']" data-voffset="['130','130','110','110']" 
+                                <a href="usluge/centar-za-obuku-službenika-obezbeđenja" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5"
+                                   data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
+                                   data-y="['middle','middle','middle','middle']" data-voffset="['130','130','110','110']"
                                    data-fontsize="['12','14','14','14']"
                                    data-whitespace="nowrap"
                                    data-visibility="['on', 'on', 'on', 'on']"
                                    data-type="text"
                                    data-color="['#FFFFFF']"
-                                   data-responsive_offset="on" 
+                                   data-responsive_offset="on"
                                    data-responsive="on"
                                    data-frames='[{"from":"y:150px;opacity:0;","speed":1500,"to":"o:1;","delay":900,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bc:rgba(255, 255, 255, 1.00);bw:2px 2px 2px 2px;"}]'
-                                   data-textAlign="['inherit', 'inherit', 'right', 'center']" 
+                                   data-textAlign="['inherit', 'inherit', 'right', 'center']"
                                    data-paddingtop="[6,6,6,6]"
                                    data-paddingright="[26,26,26,26]"
                                    data-paddingbottom="[6,6,6,6]"
@@ -194,7 +194,7 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
 
                                 <!-- layer nr. 5 -->
                                 <!-- layer nr. 5 -->
-                                <a href="services/usluga-4.php" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5"
+                                <a href="usluge/procena-rizika-u-zaštiti-lica-imovine-i-poslovanja-i-plan-obezbeđenja" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5"
                                    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                                    data-y="['middle','middle','middle','middle']" data-voffset="['130','130','110','110']"
                                    data-fontsize="['12','14','14','14']"
@@ -243,7 +243,7 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
 
                                 <!-- layer nr. 5 -->
                                 <!-- layer nr. 5 -->
-                                <a href="services/usluga-6.php" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5"
+                                <a href="usluge/procena-rizika-od-katastrofa-i-plan-zaštite-i-spasavanja" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5"
                                    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                                    data-y="['middle','middle','middle','middle']" data-voffset="['130','130','110','110']"
                                    data-fontsize="['12','14','14','14']"
@@ -288,60 +288,11 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                                      data-paddingbottom="[10,10,10,10]"
                                      data-paddingleft="[30,30,30,30]"
                                      data-basealign="slide"
-                                     style="z-index: 8; white-space: normal; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Alkotestiranje zaposlenih</div>
+                                     style="z-index: 8; white-space: normal; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Ostale usluge</div>
 
                                 <!-- layer nr. 5 -->
                                 <!-- layer nr. 5 -->
-                                <a href="services/usluga-7.php" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5"
-                                   data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                                   data-y="['middle','middle','middle','middle']" data-voffset="['130','130','110','110']"
-                                   data-fontsize="['12','14','14','14']"
-                                   data-whitespace="nowrap"
-                                   data-visibility="['on', 'on', 'on', 'on']"
-                                   data-type="text"
-                                   data-color="['#FFFFFF']"
-                                   data-responsive_offset="on"
-                                   data-responsive="on"
-                                   data-frames='[{"from":"y:150px;opacity:0;","speed":1500,"to":"o:1;","delay":900,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(0, 0, 0, 1.00);bc:rgba(255, 255, 255, 1.00);bw:2px 2px 2px 2px;"}]'
-                                   data-textAlign="['inherit', 'inherit', 'right', 'center']"
-                                   data-paddingtop="[6,6,6,6]"
-                                   data-paddingright="[26,26,26,26]"
-                                   data-paddingbottom="[6,6,6,6]"
-                                   data-paddingleft="[26,26,26,26]"
-                                   data-basealign="slide">Saznajte više</a>
-                                <!-- layer nr. 6 -->
-                            </li>
-                            <li data-index="rs-7" data-transition="fade" data-slotamount="3" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="500"  data-rotate="0"  data-saveperformance="off"  data-title="" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
-                                <div class="opacity-extra-medium bg-black position-relative z-index-1"></div>
-                                <!-- main image -->
-                                <img src="images/img/pocetna6.jpg"  alt=""  data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" class="rev-slidebg" data-no-retina>
-
-                                <!-- layer nr. 4 -->
-                                <div class="tp-caption NotGeneric-SubTitle tp-resizeme "
-                                     data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
-                                     data-y="['middle','middle','middle','middle']" data-voffset="['0','0','0','0']"
-                                     data-fontsize="['60','40','40','30']"
-                                     data-lineheight="['70','50','45','35']"
-                                     data-width="100%"
-                                     data-height="none"
-                                     data-whitespace="normal"
-                                     data-visibility="['on', 'on', 'on', 'on']"
-                                     data-type="button"
-                                     data-color="['#FFF']"
-                                     data-responsive_offset="on"
-                                     data-responsive="on"
-                                     data-frames='[{"from":"y:50px;opacity:0;","speed":1500,"to":"o:1;","delay":600,"ease":"Power4.easeInOut"},{"delay":"wait","speed":1000,"to":"y:[175%];","mask":"x:inherit;y:inherit;s:inherit;e:inherit;","ease":"Power2.easeInOut"},{"frame":"hover","speed":"300","ease":"Power1.easeInOut","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);bw:2px 2px 2px 2px;"}]'
-                                     data-textAlign="['center', 'center', 'center', 'center']"
-                                     data-paddingtop="[10,10,10,10]"
-                                     data-paddingright="[30,30,30,30]"
-                                     data-paddingbottom="[10,10,10,10]"
-                                     data-paddingleft="[30,30,30,30]"
-                                     data-basealign="slide"
-                                     style="z-index: 8; white-space: normal; font-family:'Montserrat', sans-serif !important; font-weight: 500; letter-spacing: -1px;">Usluge merenja -<br>kontrolna vaga</div>
-
-                                <!-- layer nr. 5 -->
-                                <!-- layer nr. 5 -->
-                                <a href="services/usluga-8.php" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5"
+                                <a href="usluge/ostale-usluge" class="tp-caption btn btn-transparent-white btn-medium border-radius-4 z-index-5"
                                    data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']"
                                    data-y="['middle','middle','middle','middle']" data-voffset="['130','130','110','110']"
                                    data-fontsize="['12','14','14','14']"
@@ -429,7 +380,7 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                             <!-- start services item -->
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp">
                                 <figure>
-                                    <a href="services/usluga-1.php">
+                                    <a href="usluge/fizičko-tehnička-zaštita">
                                         <?php /* Dodati klasu feature-box-content za prikaz druge strane figure */ ?>
                                         <div class="sm-w-100">
                                             <div class="feature-box-image"><img src="images/img/usluga1.jpg" alt=""></div>
@@ -451,7 +402,7 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                             <!-- start services item -->
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 md-margin-40px-bottom last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.2s">
                                 <figure>
-                                    <a href="services/usluga-2.php">
+                                    <a href="usluge/tehnička-zaštita">
                                         <div class="sm-w-100">
                                             <div class="feature-box-image"><img src="images/img/usluga2.jpg" alt=""></div>
                                             <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
@@ -472,7 +423,7 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                             <!-- start services item -->
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
                                 <figure>
-                                    <a href="services/usluga-3.php">
+                                    <a href="usluge/centar-za-obuku-službenika-obezbeđenja">
                                         <div class="sm-w-100">
                                             <div class="feature-box-image"><img src="images/img/usluga3.jpg" alt=""></div>
                                             <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
@@ -493,7 +444,7 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                             <!-- start services item -->
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
                                 <figure>
-                                    <a href="services/usluga-4.php">
+                                    <a href="usluge/procena-rizika-u-zaštiti-lica-imovine-i-poslovanja-i-plan-obezbeđenja">
                                         <div class="sm-w-100">
                                             <div class="feature-box-image"><img src="images/img/usluga4.jpg" alt=""></div>
                                             <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
@@ -514,7 +465,7 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                             <!-- start services item -->
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
                                 <figure>
-                                    <a href="services/usluga-6.php">
+                                    <a href="usluge/procena-rizika-od-katastrofa-i-plan-zaštite-i-spasavanja">
                                         <div class="sm-w-100">
                                             <div class="feature-box-image"><img src="images/img/usluga5.jpg" alt=""></div>
                                             <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">
@@ -535,7 +486,7 @@ $slike = clsFunctions::procitajSlikeIzJSON($fajl = null);
                             <!-- start services item -->
                             <div class="swiper-slide col-12 col-lg-4 col-md-6 col-sm-8 team-block text-start feature-box-15 last-paragraph-no-margin wow animate__fadeInUp" data-wow-delay="0.6s">
                                 <figure>
-                                    <a href="services/usluga-7.php">
+                                    <a href="usluge/ostale-usluge">
                                         <div class="sm-w-100">
                                             <div class="feature-box-image"><img src="images/img/usluga6.jpg" alt=""></div>
                                             <div class="hover-content bg-deep-pink d-flex justify-content-center align-items-center">

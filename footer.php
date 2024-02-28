@@ -5,7 +5,7 @@
             <div class="row align-items-center">
                 <!-- start logo -->
                 <div class="col-lg-3 col-md-12 text-center text-md-center md-margin-50px-bottom sm-margin-30px-bottom">
-                    <a href="index.php"><img class="footer-logo" src="images/logo.png" data-at2x="images/logo.png" alt="VBS Bezbednost"></a>
+                    <a href="index"><img class="footer-logo" src="images/logo.png" data-at2x="images/logo.png" alt="VBS Bezbednost"></a>
                 </div>
                 <!-- end logo -->
                 <!-- start copyright -->
