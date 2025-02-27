@@ -1882,7 +1882,7 @@
         }
     }
 
-    if (window.location.href.indexOf("novosti.php") > -1) {
+    if (window.location.href.indexOf("news.php") > -1) {
         function getPageList(totalPages, page, maxLength) {
             function range(start, end) {
                 return Array.from({ length: end - start + 1 }, (_, index) => index + start);

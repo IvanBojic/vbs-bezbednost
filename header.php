@@ -41,6 +41,9 @@ $data_lang->selected_lang_data = isset($data_lang->langs[$data_lang->selected_la
                             <a href="dostupne-usluge">Usluge</a>
                         </li>
                         <li class="menu-color">
+                            <a href="novosti">Novosti</a>
+                        </li>
+                        <li class="menu-color">
                             <a href="reference">Reference</a>
                         </li>
                         <li class="menu-color">
